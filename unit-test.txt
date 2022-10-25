@@ -1,0 +1,21 @@
+This line from goa_human
+
+UniProtKB       Q8WUF5  PPP1R13L                GO:0042802      PMID:23623661   IPI     UniProtKB:Q8WUF5        F       RelA-associated inhibitor       IASPP_HUMAN|PPP1R13L|IASPP|NKIP1|PPP1R13BL|RAI  protein taxon:9606      20140929        IntAct          
+
+is directly annotated to: GO:0042802 ! identical protein binding
+
+Should be deepened to:
+
+-       GO:0017124 ! SH3 domain binding 
+-       GO:0071532 ! ankyrin repeat binding
+
+Based on UniProtKB:Q8WUF5
+
+Remember to first run through: add-protein-binding-with-to-c16.pl 
+
+This will yield:
+
+UniProtKB       Q8WUF5  PPP1R13L                GO:0042802      PMID:23623661   IPI     UniProtKB:Q8WUF5        F       RelA-associated inhibitor       IASPP_HUMAN|PPP1R13L|IASPP|NKIP1|PPP1R13BL|RAI  protein taxon:9606      20140929        IntAct  has_input(UniProtKB:Q8WUF5)
+
+
+

@@ -1,0 +1,13 @@
+ontology: iprgo
+
+subsetdef: Active_site ""
+subsetdef: Binding_site ""
+subsetdef: Conserved_site ""
+subsetdef: Domain ""
+subsetdef: Family ""
+subsetdef: PTM ""
+subsetdef: Repeat ""
+
+[Term]
+id: IPR:000000
+name: domain

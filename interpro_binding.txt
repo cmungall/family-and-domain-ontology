@@ -1,0 +1,1495 @@
+ENTRY_AC	ENTRY_TYPE	ENTRY_NAME	GO_ID	NAME	 
+IPR017246	F	Snapin	GO:0000149	SNARE binding	 
+IPR015414	F	SNARE associated Golgi protein	GO:0000149	SNARE binding	 
+IPR000744	F	NSF attachment protein	GO:0000149	SNARE binding	 
+IPR024874	F	Transcription factor Maf	GO:0001085	RNA polymerase II transcription factor binding	 
+IPR024106	F	"Pseudokinase tribbles, TRB3"	GO:0001222	transcription corepressor binding	 
+IPR020282	F	Arginine vasopressin-induced protein 1	GO:0001664	G-protein coupled receptor binding	 
+IPR003986	F	Neurotensin type 2 receptor	GO:0001664	G-protein coupled receptor binding	 
+IPR003985	F	Neurotensin type 1 receptor	GO:0001664	G-protein coupled receptor binding	 
+IPR003984	F	Neurotensin receptor	GO:0001664	G-protein coupled receptor binding	 
+IPR003905	F	Growth hormone secretagogue receptor type 1	GO:0001664	G-protein coupled receptor binding	 
+IPR001634	F	Adenosine receptor	GO:0001664	G-protein coupled receptor binding	 
+IPR000356	F	P2U purinoceptor	GO:0001664	G-protein coupled receptor binding	 
+IPR000337	F	"GPCR, family 3"	GO:0001664	G-protein coupled receptor binding	 
+IPR000248	F	Angiotensin II receptor family	GO:0001664	G-protein coupled receptor binding	 
+IPR000142	F	P2Y purinoceptor	GO:0001664	G-protein coupled receptor binding	 
+IPR002286	F	P2 purinoceptor	GO:0001664	G-protein coupled receptor binding	 
+IPR001862	F	Membrane attack complex component/perforin/complement C9	GO:0001848	complement binding	 
+IPR025167	F	"Fusion glycoprotein F0, Isavirus"	GO:0001948	glycoprotein binding	 
+IPR016402	F	"Envelope glycoprotein precursor, Hantavirus"	GO:0001948	glycoprotein binding	 
+IPR022082	F	Neurogenesis glycoprotein	GO:0001948	glycoprotein binding	 
+IPR016354	F	Tissue factor/coagulation factor III	GO:0001948	glycoprotein binding	 
+IPR016332	F	Alpha-1B-glycoprotein/leukocyte immunoglobulin-like receptor	GO:0001948	glycoprotein binding	 
+IPR016663	F	Myelin-oligodendrocyte glycoprotein	GO:0001948	glycoprotein binding	 
+IPR020403	F	Equine arteritis virus envelope glycoprotein 5	GO:0001948	glycoprotein binding	 
+IPR021663	F	T-cell surface glycoprotein CD3 zeta/eta subunit/High affinity IgE receptor gamma subunit	GO:0001948	glycoprotein binding	 
+IPR018582	F	"Envelope glycoprotein, lentivirus"	GO:0001948	glycoprotein binding	 
+IPR021057	F	Trypanosome invariant surface glycoprotein	GO:0001948	glycoprotein binding	 
+IPR008645	F	"Roseolovirus U47, glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR008820	F	Rubella membrane glycoprotein E1	GO:0001948	glycoprotein binding	 
+IPR020177	F	Herpesvirus glycoprotein U21	GO:0001948	glycoprotein binding	 
+IPR020175	F	"Herpesvirus glycoprotein L, rhadinovirus-type"	GO:0001948	glycoprotein binding	 
+IPR024179	F	"S-locus glycoprotein, mannose-binding-type"	GO:0001948	glycoprotein binding	 
+IPR008673	F	Microfibril-associated glycoprotein	GO:0001948	glycoprotein binding	 
+IPR008652	F	"Adenovirus type 2, E3A glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR012536	F	"Herpesvirus US7/8/9/11, glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR008781	F	Pneumovirinae attachment membrane glycoprotein G	GO:0001948	glycoprotein binding	 
+IPR010851	F	S locus-related glycoprotein 1 binding pollen coat	GO:0001948	glycoprotein binding	 
+IPR014625	F	Filoviruses glycoprotein	GO:0001948	glycoprotein binding	 
+IPR012564	F	"Herpesvirus UL74, glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR010408	F	"Haemagglutinin-esterase glycoprotein, infectious salmon anaemia virus-type"	GO:0001948	glycoprotein binding	 
+IPR024128	F	T-cell surface glycoprotein CD3 zeta/eta subunit	GO:0001948	glycoprotein binding	 
+IPR009944	F	Amastin surface glycoprotein	GO:0001948	glycoprotein binding	 
+IPR014414	F	"Envelope glycoprotein precursor/M polyprotein precursor, Tospovirus type"	GO:0001948	glycoprotein binding	 
+IPR010278	F	"Varicellovirus Gp2, glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR008155	F	Amyloidogenic glycoprotein	GO:0001948	glycoprotein binding	 
+IPR007288	F	"Influenzavirus B, glycoprotein NB"	GO:0001948	glycoprotein binding	 
+IPR005211	F	Herpesvirus glycoprotein N	GO:0001948	glycoprotein binding	 
+IPR003493	F	Herpesvirus glycoprotein H	GO:0001948	glycoprotein binding	 
+IPR002874	F	Alphaherpesvirus glycoprotein I	GO:0001948	glycoprotein binding	 
+IPR000458	F	Mucin-like glycoprotein	GO:0001948	glycoprotein binding	 
+IPR003428	F	Mitochondrial glycoprotein	GO:0001948	glycoprotein binding	 
+IPR003412	F	Arterivirus glycoprotein	GO:0001948	glycoprotein binding	 
+IPR003404	F	Alphaherpesvirus glycoprotein E	GO:0001948	glycoprotein binding	 
+IPR002000	F	Lysosome-associated membrane glycoprotein	GO:0001948	glycoprotein binding	 
+IPR003330	F	Major surface glycoprotein MSG	GO:0001948	glycoprotein binding	 
+IPR001913	F	Equine arteritis virus small envelope glycoprotein	GO:0001948	glycoprotein binding	 
+IPR001903	F	Rhabdovirus spike glycoprotein	GO:0001948	glycoprotein binding	 
+IPR000776	F	"Precursor fusion glycoprotein F0, Paramyxoviridae"	GO:0001948	glycoprotein binding	 
+IPR004257	F	"Equine arteritis virus (EAV), glycoprotein 4"	GO:0001948	glycoprotein binding	 
+IPR001535	F	Arenavirus glycoprotein	GO:0001948	glycoprotein binding	 
+IPR001500	F	Alpha-1-acid glycoprotein	GO:0001948	glycoprotein binding	 
+IPR000925	F	"Attachment glycoprotein G, pneumovirus"	GO:0001948	glycoprotein binding	 
+IPR000936	F	Alphavirus E2 glycoprotein	GO:0001948	glycoprotein binding	 
+IPR001654	F	Marek's disease glycoprotein A	GO:0001948	glycoprotein binding	 
+IPR006790	F	"Baculovirus Gp41, glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR002689	F	Cytomegalovirus glycoprotein L	GO:0001948	glycoprotein binding	 
+IPR002417	F	Viral spike glycoprotein	GO:0001948	glycoprotein binding	 
+IPR004955	F	"Baculovirus Gp64, envelope glycoprotein"	GO:0001948	glycoprotein binding	 
+IPR007796	F	Herpesvirus major outer envelope glycoprotein	GO:0001948	glycoprotein binding	 
+IPR002597	F	Herpesvirus major envelope glycoprotein	GO:0001948	glycoprotein binding	 
+IPR002574	F	Coronavirus M matrix/glycoprotein	GO:0001948	glycoprotein binding	 
+IPR002567	F	Cell fusion glycoprotein K	GO:0001948	glycoprotein binding	 
+IPR000213	F	Vitamin D-binding protein	GO:0001948	glycoprotein binding	 
+IPR004913	F	Herpesvirus glycoprotein J	GO:0001948	glycoprotein binding	 
+IPR001038	F	Glycoprotein C/ glycoprotein A	GO:0001948	glycoprotein binding	 
+IPR001187	F	Tissue factor	GO:0001948	glycoprotein binding	 
+IPR001332	F	"GL envelope glycoprotein, arterivirus"	GO:0001948	glycoprotein binding	 
+IPR003566	F	T-cell surface glycoprotein CD5	GO:0001948	glycoprotein binding	 
+IPR000469	F	"G-protein alpha subunit, group 12"	GO:0001965	G-protein alpha-subunit binding	 
+IPR000367	F	"G-protein alpha subunit, group S"	GO:0001965	G-protein alpha-subunit binding	 
+IPR025208	F	NFkB-p65-degrading zinc protease	GO:0002020	protease binding	 
+IPR016765	F	"Metal-dependent membrane protease, PF1846 type, predicted"	GO:0002020	protease binding	 
+IPR017052	F	"Peptidase S1A, corin"	GO:0002020	protease binding	 
+IPR017051	F	"Peptidase S1A, matripase"	GO:0002020	protease binding	 
+IPR023317	F	"Peptidase S1A, plasmin"	GO:0002020	protease binding	 
+IPR015643	F	"Peptidase C1A, cathepsin B"	GO:0002020	protease binding	 
+IPR022919	F	"Peptidase M48, protease HtpX, putative"	GO:0002020	protease binding	 
+IPR017326	F	"Peptidase S1A, polyserase-2"	GO:0002020	protease binding	 
+IPR017314	F	"Peptidase S8A, subtilisin-like peptidase 1, plasmodium"	GO:0002020	protease binding	 
+IPR017297	F	"Peptidase S8A, DPH-A"	GO:0002020	protease binding	 
+IPR019400	F	"Peptidase C65, otubain"	GO:0002020	protease binding	 
+IPR022483	F	"Peptidase T1A, proteasome beta-subunit, actinobacteria"	GO:0002020	protease binding	 
+IPR016515	F	"Uncharacterised conserved protein UCP007407, Abi protease-like"	GO:0002020	protease binding	 
+IPR023332	F	Proteasome A-type subunit	GO:0002020	protease binding	 
+IPR022281	F	"ATP-dependent protease, HslV subunit"	GO:0002020	protease binding	 
+IPR013703	D	"Peptidase S49, N-terminal proteobacteria"	GO:0002020	protease binding	 
+IPR014124	F	"Peptidase S26A, superoxide dismutase maturation protease, nickel-type"	GO:0002020	protease binding	 
+IPR012393	F	Peptidase S41A/B	GO:0002020	protease binding	 
+IPR024175	F	"Peptidase S1A, complement C1r/C1S/mannan-binding"	GO:0002020	protease binding	 
+IPR008764	F	"Peptidase U57, YabG"	GO:0002020	protease binding	 
+IPR008754	D	"Peptidase M43, pregnancy-associated plasma-A"	GO:0002020	protease binding	 
+IPR009669	F	"Cysteine protease, VirA/EspG"	GO:0002020	protease binding	 
+IPR014827	D	Papain-like viral protease	GO:0002020	protease binding	 
+IPR014251	F	Sporulation protease LonB	GO:0002020	protease binding	 
+IPR023562	F	Clp protease proteolytic subunit /Translocation-enhancing protein TepA	GO:0002020	protease binding	 
+IPR006155	F	Machado-Joseph disease protein MJD	GO:0002020	protease binding	 
+IPR005082	F	"Peptidase U9, T4 prohead protease"	GO:0002020	protease binding	 
+IPR005080	F	"Peptidase A25, germination protease"	GO:0002020	protease binding	 
+IPR015837	F	"Uncharacterised conserved protein UCP026622, CAAX protease-type"	GO:0002020	protease binding	 
+IPR015471	F	Caspase-7	GO:0002020	protease binding	 
+IPR015470	F	Caspase-3	GO:0002020	protease binding	 
+IPR015469	F	Caspase-6	GO:0002020	protease binding	 
+IPR011546	D	"Peptidase M41, FtsH extracellular"	GO:0002020	protease binding	 
+IPR015420	D	"Peptidase S1A, nudel"	GO:0002020	protease binding	 
+IPR001461	F	Peptidase A1	GO:0002020	protease binding	 
+IPR004815	F	"Peptidase S16, ATP-dependent protease La"	GO:0002020	protease binding	 
+IPR006286	F	"Peptidase C56, PfpI"	GO:0002020	protease binding	 
+IPR001940	F	Peptidase S1C	GO:0002020	protease binding	 
+IPR001984	F	"Peptidase S16, Lon protease"	GO:0002020	protease binding	 
+IPR002610	F	"Peptidase S54, rhomboid"	GO:0002020	protease binding	 
+IPR004487	F	"Clp protease, ATP-binding subunit ClpX"	GO:0002020	protease binding	 
+IPR003653	F	"Peptidase C48, SUMO/Sentrin/Ubl1"	GO:0002020	protease binding	 
+IPR023662	F	Rhomboid protease GlpG	GO:0002020	protease binding	 
+IPR002117	F	p53 tumour suppressor family	GO:0002039	p53 binding	 
+IPR017402	F	Proteorhodopsin	GO:0002046	opsin binding	 
+IPR001425	F	"Rhodopsin, archaeal/bacterial/fungal"	GO:0002046	opsin binding	 
+IPR007981	F	"Peptidase A5, thermopsin"	GO:0002046	opsin binding	 
+IPR000732	F	Rhodopsin	GO:0002046	opsin binding	 
+IPR002962	F	Peropsin	GO:0002046	opsin binding	 
+IPR010711	F	"Phospholipase A2, group XII secretory"	GO:0004623	phospholipase A2 activity	 
+IPR001211	F	Phospholipase A2	GO:0004623	phospholipase A2 activity	 
+IPR017767	F	"Phospholipase C, phosphocholine-specific"	GO:0004629	phospholipase C activity	 
+IPR016244	F	"Tyrosine-protein kinase, HGF/MSP receptor"	GO:0005102	receptor binding	 
+IPR017241	F	Toll-like receptor	GO:0005102	receptor binding	 
+IPR012493	F	Renin receptor-like	GO:0005102	receptor binding	 
+IPR015771	F	"Anti-muellerian hormone receptor, type II"	GO:0005102	receptor binding	 
+IPR024111	F	Peroxisomal targeting signal 1 receptor family	GO:0005102	receptor binding	 
+IPR014648	F	Neuropilin	GO:0005102	receptor binding	 
+IPR003047	F	P2X4 purinoceptor	GO:0005102	receptor binding	 
+IPR003053	F	"GPCR, family 2, corticotropin releasing factor receptor, type 2"	GO:0005102	receptor binding	 
+IPR003051	F	"GPCR, family 2, corticotropin releasing factor receptor"	GO:0005102	receptor binding	 
+IPR001429	F	P2X purinoreceptor	GO:0005102	receptor binding	 
+IPR003505	F	"Glial cell line-derived neurotrophic factor receptor, alpha 3"	GO:0005102	receptor binding	 
+IPR001491	F	Thrombomodulin	GO:0005102	receptor binding	 
+IPR000493	F	"Inositol 1,4,5-trisphosphate-binding protein receptor"	GO:0005102	receptor binding	 
+IPR003438	F	Glial cell line-derived neurotrophic factor receptor	GO:0005102	receptor binding	 
+IPR004075	F	"Interleukin-1 receptor, type I/Toll precursor"	GO:0005102	receptor binding	 
+IPR001170	F	Natriuretic peptide receptor	GO:0005102	receptor binding	 
+IPR003050	F	P2X7 purinoceptor	GO:0005102	receptor binding	 
+IPR005429	F	Lysosome membrane protein II	GO:0005102	receptor binding	 
+IPR022362	F	Neurogenic locus Notch 1	GO:0005112	Notch binding	 
+IPR022355	F	Neurogenic locus Notch 4	GO:0005112	Notch binding	 
+IPR022336	F	Neurogenic locus Notch 2	GO:0005112	Notch binding	 
+IPR022331	F	Neurogenic locus Notch 3	GO:0005112	Notch binding	 
+IPR008297	F	Notch	GO:0005112	Notch binding	 
+IPR003392	F	Patched	GO:0005113	patched binding	 
+IPR008063	F	Fas receptor	GO:0005123	death receptor binding	 
+IPR017229	F	Multidomain scavenger receptor-like protein PxSR	GO:0005124	scavenger receptor binding	 
+IPR001802	F	Mercury scavenger protein	GO:0005124	scavenger receptor binding	 
+IPR015486	F	Interleukin-2 receptor alpha chain	GO:0005134	interleukin-2 receptor binding	 
+IPR017278	F	"Toll-interleukin I receptor domain-containing adaptor protein, Ticam"	GO:0005149	interleukin-1 receptor binding	 
+IPR004077	F	"Interleukin-1 receptor, type II"	GO:0005151	"interleukin-1, Type II receptor binding"	 
+IPR001355	F	CXC chemokine receptor type 1	GO:0005153	interleukin-8 receptor binding	 
+IPR000174	F	CXC chemokine receptor	GO:0005153	interleukin-8 receptor binding	 
+IPR000057	F	CXC chemokine receptor type 2	GO:0005153	interleukin-8 receptor binding	 
+IPR016246	F	"Tyrosine-protein kinase, insulin-like receptor"	GO:0005158	insulin receptor binding	 
+IPR022248	F	"TNF receptor family, RELT"	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020435	F	Tumour necrosis factor receptor 5	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020419	F	Tumour necrosis factor receptor 1A	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020416	F	Tumour necrosis factor receptor 8	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020445	F	Tumour necrosis factor receptor 4	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020413	F	Tumour necrosis factor receptor 9	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020411	F	Tumour necrosis factor receptor 1B	GO:0005164	tumor necrosis factor receptor binding	 
+IPR020465	F	Tumour necrosis factor receptor 10	GO:0005164	tumor necrosis factor receptor binding	 
+IPR017371	F	Tumour necrosis factor receptor 11B	GO:0005164	tumor necrosis factor receptor binding	 
+IPR017349	F	Tumour necrosis factor receptor 3	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022361	F	Tumour necrosis factor receptor 11A	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022342	F	Tumour necrosis factor receptor 19	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022338	F	Tumour necrosis factor receptor 13C	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022333	F	Tumour necrosis factor receptor 19-like	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022332	F	Tumour necrosis factor receptor 14	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022330	F	Tumour necrosis factor receptor 21	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022329	F	Tumour necrosis factor receptor 25	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022328	F	Tumour necrosis factor receptor 7	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022325	F	Tumour necrosis factor receptor 16	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022323	F	Tumour necrosis factor receptor 11	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022320	F	Tumour necrosis factor receptor 17	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022319	F	Tumour necrosis factor receptor 27	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022318	F	Tumour necrosis factor receptor 18	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022317	F	Tumour necrosis factor receptor 13B	GO:0005164	tumor necrosis factor receptor binding	 
+IPR022316	F	Tumour necrosis factor receptor 12	GO:0005164	tumor necrosis factor receptor binding	 
+IPR011172	F	"Poxvirus, TNF-alpha receptor-II"	GO:0005164	tumor necrosis factor receptor binding	 
+IPR012896	D	"Integrin beta subunit, tail"	GO:0005178	integrin binding	 
+IPR015812	F	Integrin beta subunit	GO:0005178	integrin binding	 
+IPR014836	D	"Integrin beta subunit, cytoplasmic domain"	GO:0005178	integrin binding	 
+IPR012013	F	Integrin beta-4 subunit	GO:0005178	integrin binding	 
+IPR015442	F	Integrin beta-8 subunit	GO:0005178	integrin binding	 
+IPR015439	F	Integrin beta-2 subunit	GO:0005178	integrin binding	 
+IPR015437	F	Integrin beta-7 subunit	GO:0005178	integrin binding	 
+IPR015436	F	Integrin beta-6 subunit	GO:0005178	integrin binding	 
+IPR000413	F	Integrin alpha chain	GO:0005178	integrin binding	 
+IPR000227	F	Angiotensinogen	GO:0005179	hormone activity	 
+IPR000346	F	Crustacean neurohormone CHH	GO:0005184	neuropeptide hormone activity	 
+IPR023601	F	"Golgi SNAP receptor complex, subunit 1"	GO:0005484	SNAP receptor activity	 
+IPR015503	F	Cortactin	GO:0005519	cytoskeletal regulatory protein binding	 
+IPR022321	F	"Insulin-like growth factor-binding protein family 1-6, chordata"	GO:0005520	insulin-like growth factor binding	 
+IPR012213	F	Insulin-like growth factor binding protein 5	GO:0005520	insulin-like growth factor binding	 
+IPR012210	F	Insulin-like growth factor binding protein 2	GO:0005520	insulin-like growth factor binding	 
+IPR009168	F	Insulin-like growth factor binding protein	GO:0005520	insulin-like growth factor binding	 
+IPR016814	F	"Profilin, apicomplexa"	GO:0005522	profilin binding	 
+IPR005455	F	Profilin	GO:0005522	profilin binding	 
+IPR005454	F	"Profilin, chordates"	GO:0005522	profilin binding	 
+IPR000533	F	Tropomyosin	GO:0005523	tropomyosin binding	 
+IPR013284	F	Beta-catenin	GO:0008013	beta-catenin binding	 
+IPR024703	F	"Fascin, metazoans"	GO:0008092	cytoskeletal protein binding	 
+IPR010431	F	Fascin	GO:0008092	cytoskeletal protein binding	 
+IPR004000	F	Actin-related protein	GO:0008092	cytoskeletal protein binding	 
+IPR016378	F	"Transcription factor, cyclic AMP-dependent"	GO:0008134	transcription factor binding	 
+IPR016743	F	"Transcription factor, basic leucine zipper, E4BP4"	GO:0008134	transcription factor binding	 
+IPR022106	F	Paired box protein 7	GO:0008134	transcription factor binding	 
+IPR017114	F	Transcription factor yin/yang	GO:0008134	transcription factor binding	 
+IPR016362	F	"Transcription factor, homeobox/POU"	GO:0008134	transcription factor binding	 
+IPR016659	F	Transcription factor II-I	GO:0008134	transcription factor binding	 
+IPR016637	F	"Transcription factor, basic helix-loop-helix, NeuroD"	GO:0008134	transcription factor binding	 
+IPR024102	F	"Basic helix-loop-helix leucine zipper transcription factor, plant"	GO:0008134	transcription factor binding	 
+IPR024097	F	Basic helix-loop-helix leucine zipper transcription factor	GO:0008134	transcription factor binding	 
+IPR016591	F	Suppressor of fused protein	GO:0008134	transcription factor binding	 
+IPR016586	F	Mitochondrial transcription factor mtTFB	GO:0008134	transcription factor binding	 
+IPR016556	F	"Transcription factor DP, subgroup"	GO:0008134	transcription factor binding	 
+IPR016554	F	Runt-related transcription factor RUNX	GO:0008134	transcription factor binding	 
+IPR015648	F	Transcription factor DP	GO:0008134	transcription factor binding	 
+IPR017253	F	Transcription factor Sry	GO:0008134	transcription factor binding	 
+IPR016468	F	CCAAT/enhancer-binding	GO:0008134	transcription factor binding	 
+IPR008851	F	"Transcription initiation factor IIF, alpha subunit"	GO:0008134	transcription factor binding	 
+IPR024103	F	"Basic helix-loop-helix leucine zipper transcription factor, arthropoda/nematoda, putative"	GO:0008134	transcription factor binding	 
+IPR012052	F	Sporulation transcription factor Spo0A	GO:0008134	transcription factor binding	 
+IPR011660	F	Rv0623-like transcription factor	GO:0008134	transcription factor binding	 
+IPR007532	F	"Poxvirus early transcription factor, large subunit"	GO:0008134	transcription factor binding	 
+IPR012617	D	"Apoptosis-antagonizing transcription factor, C-terminal"	GO:0008134	transcription factor binding	 
+IPR014178	F	Fatty acid response transcription factor FadR	GO:0008134	transcription factor binding	 
+IPR004855	F	"Transcription factor IIA, alpha/beta subunit"	GO:0008134	transcription factor binding	 
+IPR003957	F	"Transcription factor, CBFA/NFYB, DNA topoisomerase"	GO:0008134	transcription factor binding	 
+IPR007031	F	"Poxvirus VLTF3, late transcription factor"	GO:0008134	transcription factor binding	 
+IPR000812	F	Transcription factor TFIIB	GO:0008134	transcription factor binding	 
+IPR000647	F	CTF transcription factor/nuclear factor 1	GO:0008134	transcription factor binding	 
+IPR003523	F	Transcription factor COE	GO:0008134	transcription factor binding	 
+IPR006957	F	Ethylene insensitive 3	GO:0008134	transcription factor binding	 
+IPR007309	F	B-block binding subunit of TFIIIC	GO:0008134	transcription factor binding	 
+IPR003902	F	"Transcription regulator, GCM-like"	GO:0008134	transcription factor binding	 
+IPR000972	F	Octamer-binding transcription factor	GO:0008134	transcription factor binding	 
+IPR003194	F	"Transcription initiation factor IIA, gamma subunit"	GO:0008134	transcription factor binding	 
+IPR000040	F	Acute myeloid leukemia 1 protein (AML1)/Runt	GO:0008134	transcription factor binding	 
+IPR001289	F	"CCAAT-binding transcription factor, subunit B"	GO:0008134	transcription factor binding	 
+IPR001217	F	"STAT transcription factor, core"	GO:0008134	transcription factor binding	 
+IPR009398	F	Adenylate cyclase-like	GO:0008179	adenylate cyclase binding	 
+IPR002041	F	Ran GTPase	GO:0008536	Ran GTPase binding	 
+IPR009219	F	"Bacteriophytochrome, CheY-like"	GO:0010313	phytochrome binding	 
+IPR024789	F	Anaphase-promoting complex subunit 4	GO:0010997	anaphase-promoting complex binding	 
+IPR017169	F	"Anaphase-promoting complex subunit 4, metazoa"	GO:0010997	anaphase-promoting complex binding	 
+IPR002454	F	Gamma tubulin	GO:0015631	tubulin binding	 
+IPR002453	F	Beta tubulin	GO:0015631	tubulin binding	 
+IPR002967	F	Delta tubulin	GO:0015631	tubulin binding	 
+IPR002452	F	Alpha tubulin	GO:0015631	tubulin binding	 
+IPR000217	F	Tubulin	GO:0015631	tubulin binding	 
+IPR004058	F	Zeta tubulin	GO:0015631	tubulin binding	 
+IPR004057	F	Epsilon tubulin	GO:0015631	tubulin binding	 
+IPR015650	F	Myosin class 1/2/3/4/7/8/13/15	GO:0017022	myosin binding	 
+IPR001166	F	Crustacean neurohormone	GO:0017046	peptide hormone binding	 
+IPR003578	F	"Small GTPase superfamily, Rho type"	GO:0017048	Rho GTPase binding	 
+IPR015709	F	Syntaxin-1	GO:0017075	syntaxin-1 binding	 
+IPR000388	F	Sulphonylurea receptor	GO:0017098	sulfonylurea receptor binding	 
+IPR000844	F	"Sulphonylurea receptor, type 1"	GO:0017098	sulfonylurea receptor binding	 
+IPR017338	F	"Fibroblast growth factor, 15/19/21"	GO:0017134	fibroblast growth factor binding	 
+IPR003579	F	"Small GTPase superfamily, Rab type"	GO:0017137	Rab GTPase binding	 
+IPR009142	F	Wnt-4 protein	GO:0017147	Wnt-protein binding	 
+IPR009141	F	Wnt-3 protein	GO:0017147	Wnt-protein binding	 
+IPR013301	F	Wnt-8 protein	GO:0017147	Wnt-protein binding	 
+IPR005817	F	Wnt	GO:0017147	Wnt-protein binding	 
+IPR015615	F	Transforming growth factor-beta-related	GO:0019838	growth factor binding	 
+IPR022140	F	Kinesin protein 1B	GO:0019894	kinesin binding	 
+IPR002151	F	Kinesin light chain	GO:0019894	kinesin binding	 
+IPR024371	F	Acetyl-coenzyme A transporter 1	GO:0019899	enzyme binding	 
+IPR017155	F	"Histone-lysine N-methyltransferase, SET"	GO:0019899	enzyme binding	 
+IPR016431	F	"Pyruvate-formate lyase-activating enzyme, predicted"	GO:0019899	enzyme binding	 
+IPR020868	F	Bifunctional enzyme fae/hps	GO:0019899	enzyme binding	 
+IPR017146	F	"Lantibiotic modifying enzyme, RumM"	GO:0019899	enzyme binding	 
+IPR022025	F	Putative amidoligase enzyme	GO:0019899	enzyme binding	 
+IPR017075	F	"mRNA capping enzyme, alpha subunit"	GO:0019899	enzyme binding	 
+IPR017074	F	"mRNA capping enzyme, bifunctional"	GO:0019899	enzyme binding	 
+IPR020831	F	Glyceraldehyde/Erythrose phosphate dehydrogenase family	GO:0019899	enzyme binding	 
+IPR018075	F	"Ubiquitin-activating enzyme, E1"	GO:0019899	enzyme binding	 
+IPR017758	F	Coenzyme A disulphide reductase	GO:0019899	enzyme binding	 
+IPR023912	F	"Glycyl radical enzyme activase, YjjW, bact"	GO:0019899	enzyme binding	 
+IPR017390	F	"Ubiquitinyl hydrolase, UCH37 type"	GO:0019899	enzyme binding	 
+IPR017720	F	Coenzyme F390 synthetase	GO:0019899	enzyme binding	 
+IPR017716	F	S-adenosylmethionine decarboxylase proenzyme	GO:0019899	enzyme binding	 
+IPR017682	F	"Coenzyme F420 hydrogenase, subunit alpha"	GO:0019899	enzyme binding	 
+IPR017681	F	"Coenzyme F420 hydrogenase, subunit gamma"	GO:0019899	enzyme binding	 
+IPR017679	F	"Coenzyme F420 hydrogenase, subunit beta"	GO:0019899	enzyme binding	 
+IPR017370	F	"Hatching enzyme, Uvs2"	GO:0019899	enzyme binding	 
+IPR017361	F	Bifunctional phosphatidylinositol trisphosphate phosphatase/dual specificity phosphatase PTEN	GO:0019899	enzyme binding	 
+IPR019437	F	"Telomerase holoenzyme, Est3 subunit"	GO:0019899	enzyme binding	 
+IPR022844	F	"Glycogen debranching enzyme, bacterial"	GO:0019899	enzyme binding	 
+IPR022828	F	"Thiazole biosynthetic enzyme, putative"	GO:0019899	enzyme binding	 
+IPR016212	F	"Methyl coenzyme M reductase, alpha subunit"	GO:0019899	enzyme binding	 
+IPR016905	F	"Glycyl radical enzyme, HI0521, predicted"	GO:0019899	enzyme binding	 
+IPR023536	F	"Coenzyme A disulphide reductase, staphyolococci"	GO:0019899	enzyme binding	 
+IPR023533	F	Ribosomal S6 modification enzyme RimK	GO:0019899	enzyme binding	 
+IPR023667	F	"NAD-dependent malic enzyme, proteobacteria"	GO:0019899	enzyme binding	 
+IPR020973	F	Packaging enzyme P4	GO:0019899	enzyme binding	 
+IPR024012	F	"DNA phosphorothioation system restriction enzyme, putative"	GO:0019899	enzyme binding	 
+IPR019967	F	"F420-dependent enzyme, PPOX class, family Rv0121, probable"	GO:0019899	enzyme binding	 
+IPR019966	F	"F420-dependent enzyme, PPOX class, family Rv3369, probable"	GO:0019899	enzyme binding	 
+IPR019965	F	"PPOX class F420-dependent enzyme, family Rv2061, putative"	GO:0019899	enzyme binding	 
+IPR023209	F	D-amino-acid oxidase	GO:0019899	enzyme binding	 
+IPR023208	F	NADPH-cytochrome P450 reductase	GO:0019899	enzyme binding	 
+IPR016779	F	"Radical SAM enzyme, MSMEG0568"	GO:0019899	enzyme binding	 
+IPR022885	F	NAD(P)H-quinone oxidoreductase subunit D/H	GO:0019899	enzyme binding	 
+IPR011381	F	Histone H3-K9 methyltransferase	GO:0019899	enzyme binding	 
+IPR008594	F	Scavenger mRNA decapping enzyme DcpS/DCS2	GO:0019899	enzyme binding	 
+IPR011870	F	Lysine biosynthesis enzyme LysX	GO:0019899	enzyme binding	 
+IPR011844	F	"Peptidase M16A, coenzyme PQQ biosynthesis protein PqqF"	GO:0019899	enzyme binding	 
+IPR011837	F	Glycogen debranching enzyme	GO:0019899	enzyme binding	 
+IPR011833	F	Glycogen/starch/alpha-glucan phosphorylase	GO:0019899	enzyme binding	 
+IPR024204	F	"Cytochrome P450, cholesterol 7-alpha-monooxygenase-type"	GO:0019899	enzyme binding	 
+IPR015902	F	"Glycoside hydrolase, family 13"	GO:0019899	enzyme binding	 
+IPR012188	F	"Malic enzyme, phosphate acetyl/butaryl transferase"	GO:0019899	enzyme binding	 
+IPR024710	F	"ATP-grasp ATP-utilizing enzyme MJ0815-type, putative"	GO:0019899	enzyme binding	 
+IPR013020	F	"DNA helicase (DNA repair), Rad3 type"	GO:0019899	enzyme binding	 
+IPR012839	F	Glycyl radical enzyme activase	GO:0019899	enzyme binding	 
+IPR012838	F	Pyruvate formate-lyase activating enzyme	GO:0019899	enzyme binding	 
+IPR023880	F	Benzylsuccinate synthase activating enzyme	GO:0019899	enzyme binding	 
+IPR023807	F	Peptide modification radical SAM enzyme	GO:0019899	enzyme binding	 
+IPR011907	F	Ribonuclease III	GO:0019899	enzyme binding	 
+IPR019902	F	"Violacein biosynthesis enzyme, VioE"	GO:0019899	enzyme binding	 
+IPR024031	F	"F420-dependent enzyme, PPOX class, family MSMEG5819, probable"	GO:0019899	enzyme binding	 
+IPR024017	F	"Petide cyclisation enzyme, radical SAM"	GO:0019899	enzyme binding	 
+IPR014825	F	DNA alkylation repair enzyme	GO:0019899	enzyme binding	 
+IPR014806	F	Ubiquitin-fold modifier-conjugating enzyme 1	GO:0019899	enzyme binding	 
+IPR014224	F	Spore cortex-lytic enzyme SleB	GO:0019899	enzyme binding	 
+IPR009121	F	"Peptidase A1, beta-site APP cleaving enzyme 2, BACE 2"	GO:0019899	enzyme binding	 
+IPR009120	F	"Peptidase A1, beta-site APP cleaving enzyme 1, BACE 1"	GO:0019899	enzyme binding	 
+IPR009119	F	"Peptidase A1, beta-site APP cleaving enzyme, BACE"	GO:0019899	enzyme binding	 
+IPR010456	F	"Ribosomal L11 methyltransferase, PrmA"	GO:0019899	enzyme binding	 
+IPR006130	F	Aspartate/ornithine carbamoyltransferase	GO:0019899	enzyme binding	 
+IPR005079	F	"Peptidase C45, acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase"	GO:0019899	enzyme binding	 
+IPR011282	F	2-amino-3-ketobutyrate coenzyme A ligase	GO:0019899	enzyme binding	 
+IPR009186	F	"Predicted nickel metalloenzyme maturation factor, AIR synthase-related"	GO:0019899	enzyme binding	 
+IPR016053	F	Haem oxygenase-like	GO:0019899	enzyme binding	 
+IPR014185	F	Glutathione-dependent formaldehyde-activating enzyme	GO:0019899	enzyme binding	 
+IPR008288	F	NAD+ ADP-ribosyltransferase	GO:0019899	enzyme binding	 
+IPR023819	F	"Peptide-modifying radical SAM enzyme putative, AF0577"	GO:0019899	enzyme binding	 
+IPR014644	F	Protein arginine N-methyltransferase PRMT7	GO:0019899	enzyme binding	 
+IPR023929	F	"Di-heme enzyme, MXAN0977"	GO:0019899	enzyme binding	 
+IPR004455	F	"NADP oxidoreductase, coenzyme F420-dependent"	GO:0019899	enzyme binding	 
+IPR002403	F	"Cytochrome P450, E-class, group IV"	GO:0019899	enzyme binding	 
+IPR005857	F	Cystathionine beta-synthase	GO:0019899	enzyme binding	 
+IPR006451	F	"Glycogen debranching enzyme, archaeal type"	GO:0019899	enzyme binding	 
+IPR006424	F	"Glyceraldehyde-3-phosphate dehydrogenase, type I"	GO:0019899	enzyme binding	 
+IPR006421	F	"Glycogen debranching enzyme, metazoa"	GO:0019899	enzyme binding	 
+IPR000741	F	"Fructose-bisphosphate aldolase, class-I"	GO:0019899	enzyme binding	 
+IPR002347	F	Glucose/ribitol dehydrogenase	GO:0019899	enzyme binding	 
+IPR002402	F	"Cytochrome P450, E-class, group II"	GO:0019899	enzyme binding	 
+IPR002401	F	"Cytochrome P450, E-class, group I"	GO:0019899	enzyme binding	 
+IPR006467	F	MiaB-like tRNA modifying enzyme	GO:0019899	enzyme binding	 
+IPR006466	F	"MiaB-like tRNA modifying enzyme, archaeal-type"	GO:0019899	enzyme binding	 
+IPR008072	F	"Cytochrome P450, E-class, CYP3A"	GO:0019899	enzyme binding	 
+IPR010072	F	D-alanine-activating enzyme	GO:0019899	enzyme binding	 
+IPR010063	F	"Coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related"	GO:0019899	enzyme binding	 
+IPR010062	F	"Coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase"	GO:0019899	enzyme binding	 
+IPR002213	F	UDP-glucuronosyl/UDP-glucosyltransferase	GO:0019899	enzyme binding	 
+IPR002198	F	Short-chain dehydrogenase/reductase SDR	GO:0019899	enzyme binding	 
+IPR006407	F	"1,4-alpha-glucan-branching enzyme"	GO:0019899	enzyme binding	 
+IPR004411	F	"Peptidase A31, coenzyme F420-reducing hydrogenase delta subunit"	GO:0019899	enzyme binding	 
+IPR004408	F	Biotin--acetyl-CoA-carboxylase ligase	GO:0019899	enzyme binding	 
+IPR008070	F	"Cytochrome P450, E-class, group I, CYP2E-like"	GO:0019899	enzyme binding	 
+IPR008067	F	"Cytochrome P450, E-class, group I, CYP2A-like"	GO:0019899	enzyme binding	 
+IPR008066	F	"Cytochrome P450, E-class, group I, CYP1"	GO:0019899	enzyme binding	 
+IPR000811	F	"Glycosyl transferase, family 35"	GO:0019899	enzyme binding	 
+IPR006337	F	"Pyridoxal phosphate-dependent enzyme, SelA-like"	GO:0019899	enzyme binding	 
+IPR006329	F	AMP deaminase	GO:0019899	enzyme binding	 
+IPR006318	F	Phosphoenolpyruvate-utilising enzyme	GO:0019899	enzyme binding	 
+IPR004344	F	Tubulin-tyrosine ligase	GO:0019899	enzyme binding	 
+IPR003386	F	Lecithin:cholesterol/phospholipid:diacylglycerol acyltransferase	GO:0019899	enzyme binding	 
+IPR006463	F	tRNA-i(6)A37 modification enzyme MiaB	GO:0019899	enzyme binding	 
+IPR000907	F	Lipoxygenase	GO:0019899	enzyme binding	 
+IPR000778	F	"Cytochrome b245, heavy chain"	GO:0019899	enzyme binding	 
+IPR003901	F	"Methyl-coenzyme M reductase, protein D"	GO:0019899	enzyme binding	 
+IPR001980	F	Coenzyme A biosynthesis protein	GO:0019899	enzyme binding	 
+IPR001885	F	"Lipoxygenase, mammalian"	GO:0019899	enzyme binding	 
+IPR000643	F	Iodothyronine deiodinase	GO:0019899	enzyme binding	 
+IPR006275	F	"Carbamoyl-phosphate synthase, large subunit"	GO:0019899	enzyme binding	 
+IPR006274	F	"Carbamoyl-phosphate synthase, small subunit"	GO:0019899	enzyme binding	 
+IPR002695	F	AICARFT/IMPCHase bienzyme	GO:0019899	enzyme binding	 
+IPR004723	F	8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase	GO:0019899	enzyme binding	 
+IPR004702	F	"Phosphotransferease, sorbitol phosphotransferase enzyme II"	GO:0019899	enzyme binding	 
+IPR001441	F	Di-trans-poly-cis-decaprenylcistransferase-like	GO:0019899	enzyme binding	 
+IPR000997	F	Cholinesterase	GO:0019899	enzyme binding	 
+IPR003301	F	"Vaccinia virus D10, decapping enzyme"	GO:0019899	enzyme binding	 
+IPR001668	F	Plasmid recombination enzyme	GO:0019899	enzyme binding	 
+IPR004165	F	Coenzyme A transferase family I	GO:0019899	enzyme binding	 
+IPR003178	F	"Methyl-coenzyme M reductase, gamma subunit"	GO:0019899	enzyme binding	 
+IPR003773	F	Menaquinone biosynthesis enzyme	GO:0019899	enzyme binding	 
+IPR006084	F	XPG/Rad2 endonuclease	GO:0019899	enzyme binding	 
+IPR006046	F	Alpha amylase	GO:0019899	enzyme binding	 
+IPR004666	F	Ribosomal S6 modification enzyme RimK/Lysine biosynthesis enzyme LysX	GO:0019899	enzyme binding	 
+IPR004656	F	Putative condensing enzyme FabH-related	GO:0019899	enzyme binding	 
+IPR001354	F	Mandelate racemase/muconate lactonizing enzyme	GO:0019899	enzyme binding	 
+IPR001945	F	Xeroderma pigmentosum group D protein	GO:0019899	enzyme binding	 
+IPR010092	F	Chlorinating enzymes	GO:0019899	enzyme binding	 
+IPR003179	F	"Methyl-coenzyme M reductase, beta subunit"	GO:0019899	enzyme binding	 
+IPR000212	F	"DNA helicase, UvrD/REP type"	GO:0019899	enzyme binding	 
+IPR001128	F	Cytochrome P450	GO:0019899	enzyme binding	 
+IPR002051	F	Haem oxygenase	GO:0019899	enzyme binding	 
+IPR002082	F	Aspartate carbamoyltransferase	GO:0019899	enzyme binding	 
+IPR007687	F	"Methyl-coenzyme M reductase, protein C"	GO:0019899	enzyme binding	 
+IPR000277	F	"Cys/Met metabolism, pyridoxal phosphate-dependent enzyme"	GO:0019899	enzyme binding	 
+IPR005009	F	"Poxvirus mRNA capping enzyme, small subunit"	GO:0019899	enzyme binding	 
+IPR004971	D	mRNA (guanine-N(7))-methyltransferase domain	GO:0019899	enzyme binding	 
+IPR023656	F	IMP biosynthesis enzyme PurP	GO:0019899	enzyme binding	 
+IPR002155	F	Thiolase	GO:0019899	enzyme binding	 
+IPR024836	F	Janus kinase and microtubule-interacting protein	GO:0019900	kinase binding	 
+IPR017190	F	Bifunctional CTP:phosphocholine cytidylyltransferase/choline kinase	GO:0019900	kinase binding	 
+IPR017184	F	Serine/threonine-protein kinase Unc-51	GO:0019900	kinase binding	 
+IPR017181	F	"Signal transduction histidine kinase, CHASE2/PAS sensor domain-containing, predicted"	GO:0019900	kinase binding	 
+IPR017171	F	"Signal transduction histidine kinase, MctS"	GO:0019900	kinase binding	 
+IPR017164	F	Wee1-like protein kinase	GO:0019900	kinase binding	 
+IPR017163	F	"Phosphatidylinositol-4-phosphate 5-kinase, plant"	GO:0019900	kinase binding	 
+IPR016381	F	"Signal transduction histidine kinase, DegS"	GO:0019900	kinase binding	 
+IPR016380	F	"Signal transduction histidine kinase, nitrate/nitrite-sensing"	GO:0019900	kinase binding	 
+IPR020693	F	"Tyrosine-protein kinase, non-receptor Jak2"	GO:0019900	kinase binding	 
+IPR020691	F	Ephrin type-A receptor 8	GO:0019900	kinase binding	 
+IPR018094	F	Thymidylate kinase	GO:0019900	kinase binding	 
+IPR018865	F	Serine-threonine protein kinase 19	GO:0019900	kinase binding	 
+IPR017479	F	"Tyrosine-protein kinase, chain length determinant protein EpsG"	GO:0019900	kinase binding	 
+IPR022066	F	Signal transduction histidine kinase	GO:0019900	kinase binding	 
+IPR020446	F	"Tyrosine-protein kinase, neurotrophic receptor, type 3"	GO:0019900	kinase binding	 
+IPR020684	F	Rho-associated protein kinase	GO:0019900	kinase binding	 
+IPR020682	F	Obscurin-myosin light chain kinase	GO:0019900	kinase binding	 
+IPR020680	F	Stretchin/Myosin light chain kinase	GO:0019900	kinase binding	 
+IPR020777	F	"Tyrosine-protein kinase, neurotrophic receptor"	GO:0019900	kinase binding	 
+IPR020776	F	"Tyrosine-protein kinase, non-receptor Jak1"	GO:0019900	kinase binding	 
+IPR020775	F	"Tyrosine-protein kinase, non-receptor Jak3"	GO:0019900	kinase binding	 
+IPR017116	F	"Signal transduction histidine kinase, PgtB"	GO:0019900	kinase binding	 
+IPR024894	F	Bifunctional pantoate ligase/cytidylate kinase	GO:0019900	kinase binding	 
+IPR020676	F	Death-associated protein kinase	GO:0019900	kinase binding	 
+IPR020658	F	Serine/threonine-protein kinase Plk3	GO:0019900	kinase binding	 
+IPR024236	F	Serine/threonine-protein kinase 40	GO:0019900	kinase binding	 
+IPR020634	F	"Thymidine kinase, subgroup"	GO:0019900	kinase binding	 
+IPR020618	F	"Adenylate kinase, putative"	GO:0019900	kinase binding	 
+IPR020455	F	"Tyrosine-protein kinase, neurotrophic receptor, type 2"	GO:0019900	kinase binding	 
+IPR020872	F	2-phosphoglycerate kinase	GO:0019900	kinase binding	 
+IPR017090	F	"Serine/threonine-protein kinase, SIK1/2"	GO:0019900	kinase binding	 
+IPR017055	F	"Signal transduction histidine kinase, DctB (C4-dicarboxylate transport system regulator)"	GO:0019900	kinase binding	 
+IPR021175	F	"Bifunctional inorganic polyphosphate/ATP-NAD kinase, predicted"	GO:0019900	kinase binding	 
+IPR016260	F	"Bifunctional 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphate 2-phosphatase"	GO:0019900	kinase binding	 
+IPR016259	F	Hygromycin-B kinase	GO:0019900	kinase binding	 
+IPR021601	F	"Phosphatidylinositol 4-kinase, Pik1, fungi"	GO:0019900	kinase binding	 
+IPR020461	F	"Tyrosine-protein kinase, neurotrophic receptor, type 1"	GO:0019900	kinase binding	 
+IPR013371	F	"Homoserine kinase, putative"	GO:0019900	kinase binding	 
+IPR017428	F	Interleukin-1 receptor-associated kinase 4	GO:0019900	kinase binding	 
+IPR017427	F	"Inositol-tetrakisphosphate 1-kinase, plant"	GO:0019900	kinase binding	 
+IPR017425	F	Mitogen-activated protein (MAP) kinase kinase kinase 14	GO:0019900	kinase binding	 
+IPR017424	F	Mitogen-activated protein (MAP) kinase kinase kinase 8	GO:0019900	kinase binding	 
+IPR017421	F	Mitogen-activated protein (MAP) kinase kinase kinase 7	GO:0019900	kinase binding	 
+IPR017419	F	"Mitogen-activated protein kinase kinase kinase, 12/13"	GO:0019900	kinase binding	 
+IPR017418	F	Inositol-tetrakisphosphate 1-kinase 4	GO:0019900	kinase binding	 
+IPR017409	F	"Pyruvate Pi dikinase regulator, chloroplast"	GO:0019900	kinase binding	 
+IPR017407	F	Serine/threonine-protein kinase Rio1	GO:0019900	kinase binding	 
+IPR017406	F	Serine/threonine-protein kinase Rio3	GO:0019900	kinase binding	 
+IPR017405	F	Citron Rho-interacting kinase	GO:0019900	kinase binding	 
+IPR023945	F	"N-acetylmannosamine kinase, bacterial"	GO:0019900	kinase binding	 
+IPR017400	F	Elongation factor 2 kinase	GO:0019900	kinase binding	 
+IPR016966	F	"Thiamin pyrophosphokinase, eukaryotic"	GO:0019900	kinase binding	 
+IPR016961	F	"Diacylglycerol kinase, plant"	GO:0019900	kinase binding	 
+IPR020028	F	"L-seryl-tRNA(Sec)kinase, eukaryote"	GO:0019900	kinase binding	 
+IPR020024	F	"L-seryl-tRNA(Sec) kinase, archaea"	GO:0019900	kinase binding	 
+IPR015661	F	Mitotic checkpoint serine/threonine protein kinase Bub1/Mitotic spindle checkpoint component Mad3	GO:0019900	kinase binding	 
+IPR015636	F	"Polynucleotide kinase 3-phosphatase, eukaryota"	GO:0019900	kinase binding	 
+IPR017348	F	Proto-oncogene serine/threonine-protein kinase Pim-1	GO:0019900	kinase binding	 
+IPR022862	F	Probable lipid kinase YegS	GO:0019900	kinase binding	 
+IPR022826	F	3-deoxy-D-manno-octulosonic acid kinase	GO:0019900	kinase binding	 
+IPR022841	F	5-dehydro-2-deoxygluconokinase	GO:0019900	kinase binding	 
+IPR017322	F	Receptor-interacting serine/threonine-protein kinase 2	GO:0019900	kinase binding	 
+IPR016257	F	"Tyrosine-protein kinase, ephrin receptor"	GO:0019900	kinase binding	 
+IPR016256	F	Serine/threonine-protein kinase Rad53	GO:0019900	kinase binding	 
+IPR016255	F	"Serine/threonine-protein kinase, GCN2"	GO:0019900	kinase binding	 
+IPR016254	F	"Serine/threonine-protein kinase, asfivirus"	GO:0019900	kinase binding	 
+IPR016253	F	Integrin-linked protein kinase	GO:0019900	kinase binding	 
+IPR016252	F	Serine/threonine-protein kinase SpkB	GO:0019900	kinase binding	 
+IPR016251	F	"Tyrosine-protein kinase, non-receptor Jak/Tyk2"	GO:0019900	kinase binding	 
+IPR016249	F	"Tyrosine-protein kinase, Ret receptor"	GO:0019900	kinase binding	 
+IPR016247	F	"Tyrosine-protein kinase, receptor ROR"	GO:0019900	kinase binding	 
+IPR016245	F	"Tyrosine protein kinase, EGF/ERB/XmrK receptor"	GO:0019900	kinase binding	 
+IPR016243	F	"Tyrosine-protein kinase, CSF-1/PDGF receptor"	GO:0019900	kinase binding	 
+IPR016242	F	"Serine/threonine-protein kinase Mps1-like, Saccharomycetes"	GO:0019900	kinase binding	 
+IPR016241	F	"Serine/threonine-protein kinase YKL171W, predicted"	GO:0019900	kinase binding	 
+IPR016240	F	"Serine/threonine-protein kinase YKL116C, predicted"	GO:0019900	kinase binding	 
+IPR016239	F	Ribosomal protein S6 kinase II	GO:0019900	kinase binding	 
+IPR016238	F	Ribosomal protein S6 kinase	GO:0019900	kinase binding	 
+IPR016237	F	"Serine/threonine-protein kinase, Ulk1/Ulk2"	GO:0019900	kinase binding	 
+IPR016236	F	"Serine/threonine-protein kinase PknK, predicted"	GO:0019900	kinase binding	 
+IPR016235	F	"Tyrosine/threonine-protein kinase, Cdc2 inhibitor"	GO:0019900	kinase binding	 
+IPR016234	F	"Serine/threonine-protein kinase, Sbk1"	GO:0019900	kinase binding	 
+IPR016232	F	cGMP-dependent protein kinase	GO:0019900	kinase binding	 
+IPR016231	F	"Mitogen-activated protein (MAP) kinase kinase kinase, 9/10/11"	GO:0019900	kinase binding	 
+IPR016230	F	"Serine-protein kinase, PrkA"	GO:0019900	kinase binding	 
+IPR017665	F	"Guanylate kinase, sub-group"	GO:0019900	kinase binding	 
+IPR016898	F	Polyphosphate kinase 2	GO:0019900	kinase binding	 
+IPR023685	F	Pyridoxal kinase PdxY	GO:0019900	kinase binding	 
+IPR023610	F	Phosphatidylinositol-4-phosphate 5-kinase	GO:0019900	kinase binding	 
+IPR023527	F	Adaptive-response sensory-kinase SasA	GO:0019900	kinase binding	 
+IPR023507	F	Serine/threonine protein kinase PknD	GO:0019900	kinase binding	 
+IPR023505	F	N-acetyl-D-glucosamine kinase	GO:0019900	kinase binding	 
+IPR023479	F	Pyridoxal kinase PdxK	GO:0019900	kinase binding	 
+IPR022510	F	"Sortase system, histidine kinase"	GO:0019900	kinase binding	 
+IPR022486	F	"Polyphosphate kinase 2, PA0141"	GO:0019900	kinase binding	 
+IPR023477	F	Adenylate kinase AdkA	GO:0019900	kinase binding	 
+IPR023470	F	"Riboflavin kinase, archaeal"	GO:0019900	kinase binding	 
+IPR023468	F	Riboflavin kinase	GO:0019900	kinase binding	 
+IPR024896	F	Propionate kinase PduW	GO:0019900	kinase binding	 
+IPR022463	F	Fructose 1-phosphate kinase/Tagatose-6-phosphate kinase	GO:0019900	kinase binding	 
+IPR022433	F	Lipid kinase YegS	GO:0019900	kinase binding	 
+IPR017583	F	Tagatose/fructose phosphokinase	GO:0019900	kinase binding	 
+IPR017240	F	"Mitogen-activated protein (MAP) kinase kinase kinase, SSK22"	GO:0019900	kinase binding	 
+IPR017239	F	Mitogen-activated protein (MAP) kinase kinase kinase STE11	GO:0019900	kinase binding	 
+IPR017232	F	"Signal transduction histidine kinase, nitrogen fixation and metabolism regulator"	GO:0019900	kinase binding	 
+IPR017206	F	"Signal transduction histidine kinase, hybrid-type, BC3207, predicted"	GO:0019900	kinase binding	 
+IPR017205	F	"Signal transduction histidine kinase, ChrS"	GO:0019900	kinase binding	 
+IPR016477	F	Fructosamine/Ketosamine-3-kinase	GO:0019900	kinase binding	 
+IPR023061	F	"Selenide, water dikinase, class I"	GO:0019900	kinase binding	 
+IPR017204	F	"Signal transduction histidine kinase, STH3221, predicted"	GO:0019900	kinase binding	 
+IPR017203	F	"Signal transduction histidine kinase, NreB"	GO:0019900	kinase binding	 
+IPR017202	F	"Signal transduction histidine kinase, LiaS"	GO:0019900	kinase binding	 
+IPR022963	F	"Galactokinase, bacterial"	GO:0019900	kinase binding	 
+IPR022953	F	Phosphofructokinase	GO:0019900	kinase binding	 
+IPR022937	F	"Mevalonate kinase, archaeal"	GO:0019900	kinase binding	 
+IPR024917	F	Propionate kinase	GO:0019900	kinase binding	 
+IPR011391	F	Acetoin catabolism kinase AcoX	GO:0019900	kinase binding	 
+IPR011386	F	ATP-NAD kinase	GO:0019900	kinase binding	 
+IPR009330	F	Lipopolysaccharide core heptose(II) kinase	GO:0019900	kinase binding	 
+IPR014093	F	Thiamine kinase	GO:0019900	kinase binding	 
+IPR011877	F	"Ribokinase, bacterial"	GO:0019900	kinase binding	 
+IPR012234	F	"Tyrosine-protein kinase, non-receptor SYK/ZAP-70"	GO:0019900	kinase binding	 
+IPR012233	F	"Protein kinase C, zeta/iota"	GO:0019900	kinase binding	 
+IPR024192	F	"Fosfomycin resistance kinase, FomA-type"	GO:0019900	kinase binding	 
+IPR009286	F	Inositol-pentakisphosphate 2-kinase	GO:0019900	kinase binding	 
+IPR012410	F	Nucleoside-diphosphate kinase-like NDK-H5	GO:0019900	kinase binding	 
+IPR011818	F	"Uridylate kinase, archaeal/spirochete, putative"	GO:0019900	kinase binding	 
+IPR011817	F	Uridylate kinase	GO:0019900	kinase binding	 
+IPR011813	F	Penicillin-binding protein 1B	GO:0019900	kinase binding	 
+IPR011790	F	"ADP-specific phosphofructokinase, archaeal"	GO:0019900	kinase binding	 
+IPR008656	F	Inositol-tetrakisphosphate 1-kinase	GO:0019900	kinase binding	 
+IPR024171	F	S-receptor-like serine/threonine-protein kinase	GO:0019900	kinase binding	 
+IPR015785	F	Mitogen-activated protein (MAP) kinase kinase kinase 9/10/11-like	GO:0019900	kinase binding	 
+IPR015784	F	"Serine/threonine-protein kinase, ATN1-like"	GO:0019900	kinase binding	 
+IPR015783	F	"Serine/threonine protein kinase-like, ATMRK"	GO:0019900	kinase binding	 
+IPR012829	F	"Phosphofructokinase, pyrophosphate dependent"	GO:0019900	kinase binding	 
+IPR012828	F	6-phosphofructokinase	GO:0019900	kinase binding	 
+IPR012369	F	"Galactokinase, glycosyltransferase"	GO:0019900	kinase binding	 
+IPR012355	F	"ATP-NAD kinase-like, eukaryotic"	GO:0019900	kinase binding	 
+IPR012877	F	Uncharacterised kinase D1044.1	GO:0019900	kinase binding	 
+IPR014379	F	"6-phosphofructo-2-kinase, PFK27 type"	GO:0019900	kinase binding	 
+IPR014376	F	"Protein kinase C, delta/epsilon/eta/theta types"	GO:0019900	kinase binding	 
+IPR014375	F	"Protein kinase C, alpha/beta/gamma types"	GO:0019900	kinase binding	 
+IPR014374	F	"Protein kinase, T7-type"	GO:0019900	kinase binding	 
+IPR015782	F	Testis-specific kinase 1	GO:0019900	kinase binding	 
+IPR012735	F	"Dihydroxyacetone kinase DhaK, subunit 1b"	GO:0019900	kinase binding	 
+IPR012734	F	Dihydroxyacetone kinase	GO:0019900	kinase binding	 
+IPR012699	F	"Ribose 1,5-bisphosphate phosphokinase PhnN"	GO:0019900	kinase binding	 
+IPR014265	F	"Signal transduction histidine kinase, PEP-CTERM system, putative"	GO:0019900	kinase binding	 
+IPR015727	F	Protein kinase C mu-related	GO:0019900	kinase binding	 
+IPR015726	F	"Serine/threonine protein kinase, striated muscle-specific"	GO:0019900	kinase binding	 
+IPR015725	F	Telokin/Myosin light chain kinase	GO:0019900	kinase binding	 
+IPR014525	F	"Signal transduction histidine kinase, hybrid-type, ethylene sensor"	GO:0019900	kinase binding	 
+IPR014505	F	"UMP-CMP kinase, mitochondrai"	GO:0019900	kinase binding	 
+IPR012043	F	Pantoate kinase	GO:0019900	kinase binding	 
+IPR011602	F	"Pantothenate kinase, bacterial"	GO:0019900	kinase binding	 
+IPR006206	F	Mevalonate/galactokinase	GO:0019900	kinase binding	 
+IPR006205	F	Mevalonate kinase	GO:0019900	kinase binding	 
+IPR005218	F	Diacylglycerol/lipid kinase	GO:0019900	kinase binding	 
+IPR011183	F	Pyrophosphate-dependent phosphofructokinase PfpB	GO:0019900	kinase binding	 
+IPR011246	F	Bifunctional diaminopimelate decarboxylase/aspartate kinase	GO:0019900	kinase binding	 
+IPR011245	F	Butyrate kinase	GO:0019900	kinase binding	 
+IPR011242	F	"N-acetylglutamate kinase, DUF619 domain-containing"	GO:0019900	kinase binding	 
+IPR010121	F	"Pyruvate, phosphate dikinase"	GO:0019900	kinase binding	 
+IPR009220	F	Probable bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein/protein kinase	GO:0019900	kinase binding	 
+IPR009212	F	Methylthioribose kinase	GO:0019900	kinase binding	 
+IPR012004	F	Pyrophosphate-dependent phosphofructokinase TP0108	GO:0019900	kinase binding	 
+IPR012003	F	"ATP-dependent phosphofructokinase, prokaryotic"	GO:0019900	kinase binding	 
+IPR010452	F	Isocitrate dehydrogenase kinasephosphatase	GO:0019900	kinase binding	 
+IPR010440	F	Lipopolysaccharide kinase	GO:0019900	kinase binding	 
+IPR015844	F	"Pantothenate kinase, acetyl-CoA regulated, two-domain type"	GO:0019900	kinase binding	 
+IPR011147	F	Bifunctional aspartokinase/homoserine dehydrogenase I	GO:0019900	kinase binding	 
+IPR014310	F	"Signal transduction histidine kinase, phosphate regulon sensor PhoR"	GO:0019900	kinase binding	 
+IPR014302	F	"Signal transduction histidine kinase, TMAO sensor TorS"	GO:0019900	kinase binding	 
+IPR009161	F	"6-phosphofructokinase, eukaryotic type"	GO:0019900	kinase binding	 
+IPR013450	F	L-fuculokinase	GO:0019900	kinase binding	 
+IPR013449	F	Rhamnulokinase	GO:0019900	kinase binding	 
+IPR016005	F	"Phosphomevalonate kinase, ERG8"	GO:0019900	kinase binding	 
+IPR015990	F	"ADP-specific phosphofructokinase/glucokinase, archaeal"	GO:0019900	kinase binding	 
+IPR015433	F	Phosphatidylinositol Kinase	GO:0019900	kinase binding	 
+IPR015963	F	"Uridylate kinase, bacteria"	GO:0019900	kinase binding	 
+IPR011892	F	"Cytidylate kinase, putative"	GO:0019900	kinase binding	 
+IPR014606	F	"D,D-heptose 7-phosphate kinase"	GO:0019900	kinase binding	 
+IPR011529	F	Glutamate 5-kinase	GO:0019900	kinase binding	 
+IPR011410	F	"Nucleoside diphosphate kinase, NDK7"	GO:0019900	kinase binding	 
+IPR013954	F	Polynucleotide kinase 3 phosphatase	GO:0019900	kinase binding	 
+IPR014409	F	"Signal transduction histidine kinase, hybrid-type, aerobic respiration control ArcB"	GO:0019900	kinase binding	 
+IPR008358	F	"Signal transduction histidine kinase/phosphatase, lantibiotic regulatory protein MprB"	GO:0019900	kinase binding	 
+IPR008343	F	Mitogen-activated protein (MAP) kinase phosphatase	GO:0019900	kinase binding	 
+IPR011405	F	"Pyrophosphate-dependent phosphofructokinase, SMc01852"	GO:0019900	kinase binding	 
+IPR011404	F	"Phosphofructokinase, XF0274"	GO:0019900	kinase binding	 
+IPR011403	F	"Pyrophosphate-dependent phosphofructokinase, TM0289"	GO:0019900	kinase binding	 
+IPR008209	F	"Phosphoenolpyruvate carboxykinase, GTP-utilising"	GO:0019900	kinase binding	 
+IPR004424	F	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	GO:0019900	kinase binding	 
+IPR004422	F	GHMP kinase group 1	GO:0019900	kinase binding	 
+IPR003964	F	Bacterial carbamate kinase	GO:0019900	kinase binding	 
+IPR003547	F	"Serine/threonine protein kinase, yersinia-type"	GO:0019900	kinase binding	 
+IPR000417	D	Hydroxyethylthiazole kinase	GO:0019900	kinase binding	 
+IPR002374	F	cGMP-dependent kinase	GO:0019900	kinase binding	 
+IPR002373	F	cAMP/cGMP-dependent protein kinase	GO:0019900	kinase binding	 
+IPR005338	F	Anhydro-N-acetylmuramic acid kinase	GO:0019900	kinase binding	 
+IPR003755	F	"Signal transduction serine kinase/phosphorylase, HPr(Ser) kinase"	GO:0019900	kinase binding	 
+IPR002891	F	Adenylylsulphate kinase	GO:0019900	kinase binding	 
+IPR002291	F	"Phosphorylase kinase, gamma catalytic subunit"	GO:0019900	kinase binding	 
+IPR000577	F	"Carbohydrate kinase, FGGY"	GO:0019900	kinase binding	 
+IPR000623	F	Shikimate kinase	GO:0019900	kinase binding	 
+IPR004381	F	Glycerate kinase	GO:0019900	kinase binding	 
+IPR004372	F	Acetate/Proprionate kinase	GO:0019900	kinase binding	 
+IPR005177	F	Bifunctional kinase-pyrophosphorylase	GO:0019900	kinase binding	 
+IPR001576	F	Phosphoglycerate kinase	GO:0019900	kinase binding	 
+IPR001272	F	"Phosphoenolpyruvate carboxykinase, ATP-utilising"	GO:0019900	kinase binding	 
+IPR003414	F	Polyphosphate kinase	GO:0019900	kinase binding	 
+IPR000789	F	"Cyclin-dependent kinase, regulatory subunit"	GO:0019900	kinase binding	 
+IPR000829	F	"Diacylglycerol kinase, prokaryotic"	GO:0019900	kinase binding	 
+IPR000870	F	Homoserine kinase	GO:0019900	kinase binding	 
+IPR005280	F	Homoserine kinase ThrB	GO:0019900	kinase binding	 
+IPR005260	F	"Aspartate kinase, monofunctional class"	GO:0019900	kinase binding	 
+IPR010189	F	"Shikimate kinase, archaea"	GO:0019900	kinase binding	 
+IPR001805	F	Adenosine kinase	GO:0019900	kinase binding	 
+IPR001889	F	Herpesvirus thymidine kinase	GO:0019900	kinase binding	 
+IPR001977	F	Dephospho-CoA kinase	GO:0019900	kinase binding	 
+IPR006290	F	"Signal transduction histidine kinase, heavy metal sensor"	GO:0019900	kinase binding	 
+IPR006283	F	Thiamine-monophosphate kinase	GO:0019900	kinase binding	 
+IPR006282	F	Thiamin pyrophosphokinase	GO:0019900	kinase binding	 
+IPR006267	F	"Adenylate kinase, isozyme 1"	GO:0019900	kinase binding	 
+IPR006266	F	UMP-CMP kinase	GO:0019900	kinase binding	 
+IPR006259	F	"Adenylate kinase, subfamily"	GO:0019900	kinase binding	 
+IPR000705	F	Galactokinase	GO:0019900	kinase binding	 
+IPR000764	F	Uridine kinase	GO:0019900	kinase binding	 
+IPR001564	F	Nucleoside diphosphate kinase	GO:0019900	kinase binding	 
+IPR001697	F	Pyruvate kinase	GO:0019900	kinase binding	 
+IPR001720	F	"PI3 kinase, P85 regulatory subunit"	GO:0019900	kinase binding	 
+IPR003836	F	Glucokinase	GO:0019900	kinase binding	 
+IPR003203	F	Cobinamide kinase/cobinamide phosphate guanyltransferase	GO:0019900	kinase binding	 
+IPR006748	F	Aminoglycoside/hydroxyurea antibiotic resistance kinase	GO:0019900	kinase binding	 
+IPR002624	F	Deoxynucleoside kinase	GO:0019900	kinase binding	 
+IPR006082	F	Phosphoribulokinase	GO:0019900	kinase binding	 
+IPR004662	F	Acetylglutamate kinase	GO:0019900	kinase binding	 
+IPR004654	F	Glucokinase ROK	GO:0019900	kinase binding	 
+IPR004625	F	"Pyridoxal phosphate (active vitamin B6) biosynthesis, pyridoxal kinase"	GO:0019900	kinase binding	 
+IPR004619	F	Type III pantothenate kinase	GO:0019900	kinase binding	 
+IPR001057	F	Glutamate/acetylglutamate kinase	GO:0019900	kinase binding	 
+IPR003758	F	Tetraacyldisaccharide 4'-kinase	GO:0019900	kinase binding	 
+IPR004093	F	Staphylokinase/Streptokinase	GO:0019900	kinase binding	 
+IPR003136	F	Cytidylate kinase	GO:0019900	kinase binding	 
+IPR002606	F	"Riboflavin kinase, bacterial"	GO:0019900	kinase binding	 
+IPR021160	F	Mitogen-activated protein (MAP) kinase kinase kinase kinase	GO:0019900	kinase binding	 
+IPR005522	F	Inositol polyphosphate kinase	GO:0019900	kinase binding	 
+IPR004536	F	Selenide water dikinase	GO:0019900	kinase binding	 
+IPR001174	F	Galactokinase/homoserine kinase	GO:0019900	kinase binding	 
+IPR002139	F	Ribokinase	GO:0019900	kinase binding	 
+IPR007729	F	2-keto-3-deoxy-galactonokinase	GO:0019900	kinase binding	 
+IPR006003	F	"Carbohydrate kinase, FGGY-related"	GO:0019900	kinase binding	 
+IPR006002	F	Gluconate kinase	GO:0019900	kinase binding	 
+IPR006001	F	"Carbohydrate kinase, thermoresistant glucokinase"	GO:0019900	kinase binding	 
+IPR006000	F	Xylulokinase	GO:0019900	kinase binding	 
+IPR005999	F	Glycerol kinase	GO:0019900	kinase binding	 
+IPR002504	F	"Inorganic polyphosphate/ATP-NAD kinase, predicted"	GO:0019900	kinase binding	 
+IPR000239	F	GPCR kinase	GO:0019900	kinase binding	 
+IPR004567	F	Type II pantothenate kinase	GO:0019900	kinase binding	 
+IPR004566	F	Bacterial pantothenate kinase	GO:0019900	kinase binding	 
+IPR007153	F	Adenosine specific kinase	GO:0019900	kinase binding	 
+IPR000890	F	"Aliphatic acid kinase, short-chain"	GO:0019900	kinase binding	 
+IPR000850	F	Adenylate kinase	GO:0019900	kinase binding	 
+IPR001267	F	Thymidine kinase	GO:0019900	kinase binding	 
+IPR001312	F	Hexokinase	GO:0019900	kinase binding	 
+IPR007666	F	ADP-specific phosphofructokinase/glucokinase	GO:0019900	kinase binding	 
+IPR005946	F	Ribose-phosphate diphosphokinase	GO:0019900	kinase binding	 
+IPR005929	F	L-ribulokinase	GO:0019900	kinase binding	 
+IPR005926	F	Tagatose-6-phosphate kinase	GO:0019900	kinase binding	 
+IPR005919	F	Higher eukaryotic phosphomevalonate kinase	GO:0019900	kinase binding	 
+IPR005917	F	"Phosphomevalonate kinase, Gram-positive"	GO:0019900	kinase binding	 
+IPR005916	F	"Phosphomevalonate kinase, eukaryotic"	GO:0019900	kinase binding	 
+IPR006550	F	"Polynucleotide kinase 3-phosphatase, metazoan"	GO:0019900	kinase binding	 
+IPR022165	F	Polo kinase kinase	GO:0019901	protein kinase binding	 
+IPR008790	F	Poxvirus serine/threonine kinase	GO:0019901	protein kinase binding	 
+IPR000704	F	"Casein kinase II, regulatory subunit"	GO:0019901	protein kinase binding	 
+IPR024873	F	Ectonucleotide pyrophosphatase/phosphodiesterase family	GO:0019902	phosphatase binding	 
+IPR020552	F	"Inositol monophosphatase, Lithium-sensitive"	GO:0019902	phosphatase binding	 
+IPR022158	F	Inositol phosphatase	GO:0019902	phosphatase binding	 
+IPR020456	F	Acylphosphatase	GO:0019902	phosphatase binding	 
+IPR020428	F	"Protein-tyrosine phosphatase, dual specificity phosphatase, eukaryotic"	GO:0019902	phosphatase binding	 
+IPR016275	F	Glucose-6-phosphatase	GO:0019902	phosphatase binding	 
+IPR016274	F	"Histidine acid phosphatase, eukaryotic"	GO:0019902	phosphatase binding	 
+IPR020405	F	"Atypical dual specificity phosphatase, subfamily A"	GO:0019902	phosphatase binding	 
+IPR020420	F	"Atypical dual specificity phosphatase, subfamily B"	GO:0019902	phosphatase binding	 
+IPR020417	F	Atypical dual specificity phosphatase	GO:0019902	phosphatase binding	 
+IPR017768	F	"Acid phosphatase, AcpA"	GO:0019902	phosphatase binding	 
+IPR017417	F	"Protein phosphatase 1, regulatory subunit 16A/B, eukaryote"	GO:0019902	phosphatase binding	 
+IPR017401	F	"Protein phosphatase 1, regulatory subunit 12A/B/C, eukaryote"	GO:0019902	phosphatase binding	 
+IPR017718	F	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase	GO:0019902	phosphatase binding	 
+IPR015655	F	Protein phosphatase 2C	GO:0019902	phosphatase binding	 
+IPR017361	F	Bifunctional phosphatidylinositol trisphosphate phosphatase/dual specificity phosphatase PTEN	GO:0019902	phosphatase binding	 
+IPR023938	F	HMP-PP phosphatase	GO:0019902	phosphatase binding	 
+IPR023781	F	Nucleoside triphosphatase NudI	GO:0019902	phosphatase binding	 
+IPR023733	F	Pyrophosphatase PpaX	GO:0019902	phosphatase binding	 
+IPR023537	F	"DeoxyUTP pyrophosphatase, archaeal"	GO:0019902	phosphatase binding	 
+IPR024927	F	"Acid phosphatase, type 5"	GO:0019902	phosphatase binding	 
+IPR017578	F	"Alpha-ribazole phosphatase, CobC"	GO:0019902	phosphatase binding	 
+IPR017577	F	"Alpha-ribazole phosphatase, CobZ"	GO:0019902	phosphatase binding	 
+IPR022337	F	"Inositol monophosphatase, SuhB"	GO:0019902	phosphatase binding	 
+IPR017227	F	"Nucleoside-triphosphatase, alveolata"	GO:0019902	phosphatase binding	 
+IPR016812	F	"Protein phosphatase methylesterase, eukaryotic"	GO:0019902	phosphatase binding	 
+IPR023079	F	"Sedoheptulose-1,7-bisphosphatase"	GO:0019902	phosphatase binding	 
+IPR022995	F	2-phosphosulpholactate phosphatase ComB	GO:0019902	phosphatase binding	 
+IPR018540	F	"Sporulation stage 0, Spo0E-like regulatory phosphatase"	GO:0019902	phosphatase binding	 
+IPR022934	F	"Manganese-dependent inorganic pyrophosphatase, probable"	GO:0019902	phosphatase binding	 
+IPR022925	F	NADH pyrophosphatase NudC	GO:0019902	phosphatase binding	 
+IPR024734	F	"Magnesium-dependent phosphatase-1, eukaryotic type"	GO:0019902	phosphatase binding	 
+IPR020922	F	Nucleoside-triphosphatase	GO:0019902	phosphatase binding	 
+IPR011863	F	Phosphoserine phosphatase/homoserine phosphotransferase bifunctional protein	GO:0019902	phosphatase binding	 
+IPR014078	F	Nucleoside triphosphatase YtkD	GO:0019902	phosphatase binding	 
+IPR011809	F	"Histidinol-phosphate phosphatase, putative, inositol monophosphatase"	GO:0019902	phosphatase binding	 
+IPR012815	F	Mannosyl-3-phosphoglycerate phosphatase-related	GO:0019902	phosphatase binding	 
+IPR012813	F	Mannosyl-3-phosphoglycerate phosphatase	GO:0019902	phosphatase binding	 
+IPR012358	F	"Endopolyphosphatase, Ppn1p-related"	GO:0019902	phosphatase binding	 
+IPR014390	F	"Acid phosphatase, Aspergillus type"	GO:0019902	phosphatase binding	 
+IPR012266	F	"Protein-tyrosine phosphatase, non-receptor type-12"	GO:0019902	phosphatase binding	 
+IPR012265	F	"Protein-tyrosine phosphatase, non-receptor type-1/2"	GO:0019902	phosphatase binding	 
+IPR017867	F	"Protein-tyrosine phosphatase, low molecular weight"	GO:0019902	phosphatase binding	 
+IPR024950	F	Dual specificity phosphatase	GO:0019902	phosphatase binding	 
+IPR011158	F	"Nonspecific acid phosphatase, class A"	GO:0019902	phosphatase binding	 
+IPR011236	F	Serine/threonine protein phosphatase 5	GO:0019902	phosphatase binding	 
+IPR010140	F	"Histidinol phosphate phosphatase, HisJ"	GO:0019902	phosphatase binding	 
+IPR011310	F	Lipopolysaccharide core heptose(II)-phosphate phosphatase	GO:0019902	phosphatase binding	 
+IPR007482	F	"Protein-tyrosine phosphatase-like, PTPLA"	GO:0019902	phosphatase binding	 
+IPR023943	F	Enolase-phosphatase E1	GO:0019902	phosphatase binding	 
+IPR023937	F	Bis(5'-nucleosyl)-tetraphosphatase PrpE	GO:0019902	phosphatase binding	 
+IPR012765	F	Glucosylglycerol-phospate 3-phosphatase	GO:0019902	phosphatase binding	 
+IPR015605	F	Guanosine diphosphatase	GO:0019902	phosphatase binding	 
+IPR009164	F	"Fructose-1,6-bisphosphatase, Bacillus type"	GO:0019902	phosphatase binding	 
+IPR018946	F	Alkaline phosphatase D-related	GO:0019902	phosphatase binding	 
+IPR015993	F	"CDP-diacylglycerol pyrophosphatase, proteobacterial"	GO:0019902	phosphatase binding	 
+IPR008356	F	"Protein-tyrosine phosphatase, KIM-containing"	GO:0019902	phosphatase binding	 
+IPR014403	F	Vegetative storage protein/acid phosphatase	GO:0019902	phosphatase binding	 
+IPR014392	F	"Protein-tyrosine phosphatase, non-receptor type-14, -21"	GO:0019902	phosphatase binding	 
+IPR012847	F	"Sucrose phosphatase, plant/cyanobacteria"	GO:0019902	phosphatase binding	 
+IPR012177	F	Thiamine triphosphatase	GO:0019902	phosphatase binding	 
+IPR023709	F	"Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase"	GO:0019902	phosphatase binding	 
+IPR012153	F	"Protein-tyrosine phosphatase, non-receptor type-13"	GO:0019902	phosphatase binding	 
+IPR012152	F	"Protein-tyrosine phosphatase, non-receptor type-6, -11"	GO:0019902	phosphatase binding	 
+IPR012151	F	"Protein-tyrosine phosphatase, non-receptor type-3, -4"	GO:0019902	phosphatase binding	 
+IPR004861	F	"Protein-tyrosine phosphatase, SIW14-like"	GO:0019902	phosphatase binding	 
+IPR008181	F	"DeoxyUTP pyrophosphatase, dUTPase subfamily"	GO:0019902	phosphatase binding	 
+IPR008180	F	DeoxyUTP pyrophosphatase	GO:0019902	phosphatase binding	 
+IPR008162	F	Inorganic pyrophosphatase	GO:0019902	phosphatase binding	 
+IPR004469	F	Phosphoserine phosphatase SerB	GO:0019902	phosphatase binding	 
+IPR004464	F	"Fructose-1,6-bisphosphatase class 2/Sedoheputulose-1,7-bisphosphatase"	GO:0019902	phosphatase binding	 
+IPR004449	F	"Phosphohistidine phosphatase SixA, subgroup"	GO:0019902	phosphatase binding	 
+IPR004446	F	"D,D-heptose 1,7-bisphosphate phosphatase"	GO:0019902	phosphatase binding	 
+IPR003546	F	"Type III secreted modular tyrosine phosphatase, SptP/YopH"	GO:0019902	phosphatase binding	 
+IPR006420	F	NAD pyrophosphatase/5-nucleotidase NadN	GO:0019902	phosphatase binding	 
+IPR003565	F	Bis(5'-nucleosyl)-tetraphosphatase	GO:0019902	phosphatase binding	 
+IPR006384	F	Pyridoxal phosphate phosphatase-related	GO:0019902	phosphatase binding	 
+IPR006378	F	Sucrose-phosphate phosphatase	GO:0019902	phosphatase binding	 
+IPR004385	F	Nucleoside diphosphate pyrophosphatase	GO:0019902	phosphatase binding	 
+IPR010039	F	Capsule biosynthesis phosphatase	GO:0019902	phosphatase binding	 
+IPR010036	F	"Magnesium-dependent phosphatase-1, eukaryotic/arcaheal type"	GO:0019902	phosphatase binding	 
+IPR010028	F	"Acid phosphatase, plant"	GO:0019902	phosphatase binding	 
+IPR010025	F	"HAD-superfamily phosphatase, subfamily IIIB, AphA"	GO:0019902	phosphatase binding	 
+IPR010023	F	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	GO:0019902	phosphatase binding	 
+IPR010021	F	"HAD-superfamily phosphatase, subfamily IIIA"	GO:0019902	phosphatase binding	 
+IPR001559	F	Aryldialkylphosphatase	GO:0019902	phosphatase binding	 
+IPR002828	F	Survival protein SurE-like phosphatase/nucleotidase	GO:0019902	phosphatase binding	 
+IPR006349	F	"2-phosphoglycolate phosphatase, eukaryotic"	GO:0019902	phosphatase binding	 
+IPR006346	F	"2-phosphoglycolate phosphatase, prokaryotic"	GO:0019902	phosphatase binding	 
+IPR000407	F	Nucleoside phosphatase GDA1/CD39	GO:0019902	phosphatase binding	 
+IPR007439	F	"Chemotaxis phosphatase, CheZ"	GO:0019902	phosphatase binding	 
+IPR000751	F	M-phase inducer phosphatase	GO:0019902	phosphatase binding	 
+IPR000560	F	"Histidine phosphatase superfamily, clade-2"	GO:0019902	phosphatase binding	 
+IPR000146	F	"Fructose-1,6-bisphosphatase class 1/Sedoheputulose-1,7-bisphosphatase"	GO:0019902	phosphatase binding	 
+IPR000106	F	Protein-tyrosine phosphatase/arsenate reductase	GO:0019902	phosphatase binding	 
+IPR000760	F	Inositol monophosphatase	GO:0019902	phosphatase binding	 
+IPR004948	F	"Nucleoside-triphosphatase, THEP1 type"	GO:0019902	phosphatase binding	 
+IPR004617	F	Bis(5'-nucleosyl)-tetraphosphatase (symmetrical)	GO:0019902	phosphatase binding	 
+IPR001011	F	"Acid phosphatase, class A, bacterial"	GO:0019902	phosphatase binding	 
+IPR003763	F	CDP-diacylglycerol pyrophosphatase	GO:0019902	phosphatase binding	 
+IPR005519	F	Acid phosphatase (Class B)	GO:0019902	phosphatase binding	 
+IPR002115	F	"Protein-tyrosine phosphatase, low molecular weight, mammalian"	GO:0019902	phosphatase binding	 
+IPR003094	F	"Fructose-2,6-bisphosphatase"	GO:0019902	phosphatase binding	 
+IPR003563	F	"7,8-dihydro-8-oxoguanine triphosphatase"	GO:0019902	phosphatase binding	 
+IPR005954	F	Histidinol-phosphatase	GO:0019902	phosphatase binding	 
+IPR006551	F	Polynucleotide 3'-phosphatase	GO:0019902	phosphatase binding	 
+IPR006543	F	Histidinol-phosphate phosphatase	GO:0019902	phosphatase binding	 
+IPR016336	F	"Receptor tyrosine-protein phosphatase, alpha/epsilon-type"	GO:0019903	protein phosphatase binding	 
+IPR016660	F	Kinase associated protein phosphatase	GO:0019903	protein phosphatase binding	 
+IPR016278	F	Dual specificity protein phosphatase 12	GO:0019903	protein phosphatase binding	 
+IPR002803	F	"Fructose-1,6-bisphosphatase, class V"	GO:0019903	protein phosphatase binding	 
+IPR001952	F	Alkaline phosphatase	GO:0019903	protein phosphatase binding	 
+IPR015640	F	Syntaxin 8	GO:0019905	syntaxin binding	 
+IPR020415	F	Interleukin-34	GO:0019955	cytokine binding	 
+IPR020443	F	Interleukin-10/19/20/24	GO:0019955	cytokine binding	 
+IPR002473	F	"CXC chemokine, interleukin 8"	GO:0019955	cytokine binding	 
+IPR000226	F	Interleukin-7/interleukin-9	GO:0019955	cytokine binding	 
+IPR001325	F	Interleukin-4/interleukin-13	GO:0019955	cytokine binding	 
+IPR000471	F	Interferon alpha/beta/delta	GO:0019961	interferon binding	 
+IPR000975	F	Interleukin-1	GO:0019966	interleukin-1 binding	 
+IPR003296	F	"Interleukin-1, beta IL1B"	GO:0019966	interleukin-1 binding	 
+IPR003294	F	"Interleukin-1, alpha/beta"	GO:0019966	interleukin-1 binding	 
+IPR000098	F	Interleukin-10	GO:0019969	interleukin-10 binding	 
+IPR000779	F	Interleukin-2	GO:0019976	interleukin-2 binding	 
+IPR002183	F	Interleukin-3	GO:0019978	interleukin-3 binding	 
+IPR003574	F	Interleukin-6	GO:0019981	interleukin-6 binding	 
+IPR001181	F	Interleukin-7	GO:0019982	interleukin-7 binding	 
+IPR001292	F	Oestrogen receptor	GO:0030331	estrogen receptor binding	 
+IPR017060	F	Cyclin L	GO:0030332	cyclin binding	 
+IPR023598	F	Cyclin C	GO:0030332	cyclin binding	 
+IPR013922	F	Cyclin PHO80-like	GO:0030332	cyclin binding	 
+IPR012399	F	Cyclin Y	GO:0030332	cyclin binding	 
+IPR012104	F	"Cyclin Pcl, fungi"	GO:0030332	cyclin binding	 
+IPR015453	F	"Cyclin A, G2/mitotic-specific"	GO:0030332	cyclin binding	 
+IPR015452	F	"Cyclin B3, G2/mitotic-specific"	GO:0030332	cyclin binding	 
+IPR015451	F	Cyclin D	GO:0030332	cyclin binding	 
+IPR015431	F	"Cyclin L, metazoa/fungi"	GO:0030332	cyclin binding	 
+IPR015430	F	Cyclin T	GO:0030332	cyclin binding	 
+IPR015429	F	Cyclin C/H/T/L	GO:0030332	cyclin binding	 
+IPR014400	F	Cyclin A/B/D/E	GO:0030332	cyclin binding	 
+IPR014399	F	Cyclin CLN/Puc1	GO:0030332	cyclin binding	 
+IPR012167	F	"Cyclin, epsilonretrovirus"	GO:0030332	cyclin binding	 
+IPR015708	F	Syntaxin-3	GO:0030348	syntaxin-3 binding	 
+IPR002337	F	"Haemoglobin, beta"	GO:0030492	hemoglobin binding	 
+IPR001831	F	Immunodeficiency virus transactivating regulatory protein (Tat)	GO:0030957	Tat protein binding	 
+IPR002395	F	HMW kininogen	GO:0030984	kininogen binding	 
+IPR016952	F	"Small heat shock protein, predicted, plant"	GO:0031072	heat shock protein binding	 
+IPR022848	F	Small heat shock protein IbpB	GO:0031072	heat shock protein binding	 
+IPR015566	F	Endoplasmin	GO:0031072	heat shock protein binding	 
+IPR023728	F	Small heat shock protein IbpA	GO:0031072	heat shock protein binding	 
+IPR004909	F	Viral heat shock protein Hsp90 homologue	GO:0031072	heat shock protein binding	 
+IPR018862	F	Eukaryotic translation initiation factor 4E transporter	GO:0031369	translation initiation factor binding	 
+IPR013906	F	Translation initiation factor eIF3 subunit	GO:0031369	translation initiation factor binding	 
+IPR011387	F	Translation initiation factor 2A	GO:0031369	translation initiation factor binding	 
+IPR008606	F	Eukaryotic translation initiation factor 4E binding	GO:0031369	translation initiation factor binding	 
+IPR011488	F	"Translation initiation factor 2, alpha subunit"	GO:0031369	translation initiation factor binding	 
+IPR005251	F	"Putative translation initiation factor, aIF-2BI/5-methylthioribose-1-phosphate isomerase"	GO:0031369	translation initiation factor binding	 
+IPR005250	F	"Putative translation initiation factor, aIF-2BII"	GO:0031369	translation initiation factor binding	 
+IPR011400	F	Translation initiation factor eIF-3b	GO:0031369	translation initiation factor binding	 
+IPR005874	F	Eukaryotic translation initiation factor SUI1	GO:0031369	translation initiation factor binding	 
+IPR005872	F	Archaeal/bacterial translation initiation factor SUI1	GO:0031369	translation initiation factor binding	 
+IPR000649	F	Initiation factor 2B-related	GO:0031369	translation initiation factor binding	 
+IPR007783	F	"Eukaryotic translation initiation factor 3, subunit 7"	GO:0031369	translation initiation factor binding	 
+IPR015667	F	Telethonin	GO:0031433	telethonin binding	 
+IPR021160	F	Mitogen-activated protein (MAP) kinase kinase kinase kinase	GO:0031435	mitogen-activated protein kinase kinase kinase binding	 
+IPR016398	F	E3 ubiquitin-protein ligase p28	GO:0031625	ubiquitin protein ligase binding	 
+IPR022170	F	E3 Ubiquitin ligase	GO:0031625	ubiquitin protein ligase binding	 
+IPR017335	F	"E3 ubiquitin ligase, RNF8"	GO:0031625	ubiquitin protein ligase binding	 
+IPR016897	F	"E3 ubiquitin ligase, SCF complex, Skp subunit"	GO:0031625	ubiquitin protein ligase binding	 
+IPR016890	F	Uncharacterised conserved protein UCP028520	GO:0031625	ubiquitin protein ligase binding	 
+IPR024928	F	"E3 ubiquitin-protein ligase, SMURF1 type"	GO:0031625	ubiquitin protein ligase binding	 
+IPR011364	F	Breast cancer type 1 susceptibility protein (BRCA1)	GO:0031625	ubiquitin protein ligase binding	 
+IPR024162	F	Adaptor protein Cbl	GO:0031625	ubiquitin protein ligase binding	 
+IPR015133	F	"E3 ubiquitin ligase, AvrPtoB"	GO:0031625	ubiquitin protein ligase binding	 
+IPR003977	F	Parkin	GO:0031625	ubiquitin protein ligase binding	 
+IPR001420	F	X opioid receptor	GO:0031628	opioid receptor binding	 
+IPR000452	F	Kappa opioid receptor	GO:0031628	opioid receptor binding	 
+IPR000321	F	Delta opioid receptor	GO:0031628	opioid receptor binding	 
+IPR000105	F	Mu opioid receptor	GO:0031628	opioid receptor binding	 
+IPR016346	F	"Guanine nucleotide-binding protein, beta subunit"	GO:0031681	G-protein beta-subunit binding	 
+IPR001513	F	Adenosine A2A receptor	GO:0031685	adenosine receptor binding	 
+IPR001068	F	Adenosine A1 receptor	GO:0031686	A1 adenosine receptor binding	 
+IPR000507	F	Adrenergic receptor beta 1	GO:0031690	adrenergic receptor binding	 
+IPR001946	F	"Adrenergic receptor, alpha-2A"	GO:0031690	adrenergic receptor binding	 
+IPR000207	F	"Adrenergic receptor, alpha-2B"	GO:0031695	alpha-2B adrenergic receptor binding	 
+IPR000735	F	"Adrenergic receptor, alpha-2C"	GO:0031696	alpha-2C adrenergic receptor binding	 
+IPR000190	F	Angiotensin II receptor type 1	GO:0031701	angiotensin receptor binding	 
+IPR000147	F	Angiotensin II receptor type 2	GO:0031703	type 2 angiotensin receptor binding	 
+IPR000499	F	Endothelin receptor family	GO:0031705	bombesin receptor binding	 
+IPR002175	F	Endothelin receptor A	GO:0031707	endothelin A receptor binding	 
+IPR001112	F	Endothelin receptor B	GO:0031708	endothelin B receptor binding	 
+IPR000496	F	Bradykinin receptor family	GO:0031711	bradykinin receptor binding	 
+IPR001186	F	Bradykinin receptor B1	GO:0031712	B1 bradykinin receptor binding	 
+IPR001504	F	Bradykinin receptor B2	GO:0031713	B2 bradykinin receptor binding	 
+IPR001688	F	"GPCR, family 2, calcitonin receptor"	GO:0031716	calcitonin receptor binding	 
+IPR003289	F	"GPCR, family 2, calcitonin gene-related peptide, type 1 receptor"	GO:0031716	calcitonin receptor binding	 
+IPR003287	F	"GPCR, family 2, calcitonin receptor family"	GO:0031716	calcitonin receptor binding	 
+IPR005383	F	CC chemokine receptor type 11	GO:0031730	CCR5 chemokine receptor binding	 
+IPR005382	F	CC chemokine receptor type 10	GO:0031730	CCR5 chemokine receptor binding	 
+IPR002239	F	CC chemokine receptor type 4	GO:0031730	CCR5 chemokine receptor binding	 
+IPR004069	F	CC chemokine receptor type 9	GO:0031730	CCR5 chemokine receptor binding	 
+IPR004068	F	CC chemokine receptor type 8	GO:0031730	CCR5 chemokine receptor binding	 
+IPR004067	F	CC chemokine receptor type 6	GO:0031730	CCR5 chemokine receptor binding	 
+IPR002240	F	CC chemokine receptor type 5	GO:0031730	CCR5 chemokine receptor binding	 
+IPR002238	F	CC chemokine receptor type 3	GO:0031730	CCR5 chemokine receptor binding	 
+IPR005387	F	CX3C chemokine receptor type 1	GO:0031737	CX3C chemokine receptor binding	 
+IPR001413	F	Dopamine 1A receptor	GO:0031748	D1 dopamine receptor binding	 
+IPR000497	F	Dopamine 1B receptor	GO:0031748	D1 dopamine receptor binding	 
+IPR001922	F	Dopamine D2 receptor	GO:0031749	D2 dopamine receptor binding	 
+IPR001620	F	Dopamine D3 receptor	GO:0031750	D3 dopamine receptor binding	 
+IPR002185	F	Dopamine D4 receptor	GO:0031751	D4 dopamine receptor binding	 
+IPR001749	F	"GPCR, family 2, gastric inhibitory polypeptide receptor"	GO:0031767	gastric inhibitory polypeptide receptor binding	 
+IPR003291	F	"GPCR, family 2, glucagon receptor"	GO:0031769	glucagon receptor binding	 
+IPR003290	F	"GPCR, family 2, glucagon-like peptide-1/glucagon receptor"	GO:0031769	glucagon receptor binding	 
+IPR013311	F	Cysteinyl leukotriene receptor 2	GO:0031774	leukotriene receptor binding	 
+IPR013310	F	Cysteinyl leukotriene receptor 1	GO:0031774	leukotriene receptor binding	 
+IPR004071	F	Cysteinyl leukotriene receptor	GO:0031774	leukotriene receptor binding	 
+IPR001908	F	Melanocortin receptor	GO:0031779	melanocortin receptor binding	 
+IPR001168	F	Adrenocorticotrophin (ACTH) receptor	GO:0031780	corticotropin hormone receptor binding	 
+IPR002122	F	Melanocortin 3 receptor	GO:0031781	type 3 melanocortin receptor binding	 
+IPR000155	F	Melanocortin 4 receptor	GO:0031782	type 4 melanocortin receptor binding	 
+IPR000621	F	Melanocortin 5 receptor	GO:0031783	type 5 melanocortin receptor binding	 
+IPR000393	F	Neuropeptide Y5 receptor	GO:0031841	neuropeptide Y receptor binding	 
+IPR000611	F	Neuropeptide Y receptor family	GO:0031841	neuropeptide Y receptor binding	 
+IPR001933	F	Neuropeptide Y4 receptor	GO:0031841	neuropeptide Y receptor binding	 
+IPR000986	F	Neuropeptide Y6 receptor	GO:0031841	neuropeptide Y receptor binding	 
+IPR000351	F	Neuropeptide Y1 receptor	GO:0031841	neuropeptide Y receptor binding	 
+IPR000611	F	Neuropeptide Y receptor family	GO:0031843	type 2 neuropeptide Y receptor binding	 
+IPR001358	F	Neuropeptide Y2 receptor	GO:0031843	type 2 neuropeptide Y receptor binding	 
+IPR019424	F	"7TM GPCR, olfactory receptor/chemoreceptor Srsx"	GO:0031849	olfactory receptor binding	 
+IPR001402	F	Prolactin-releasing peptide receptor	GO:0031861	prolactin-releasing peptide receptor binding	 
+IPR001105	F	Thromboxane receptor	GO:0031862	prostanoid receptor binding	 
+IPR000376	F	Prostaglandin D receptor	GO:0031862	prostanoid receptor binding	 
+IPR001758	F	Prostanoid EP4 receptor	GO:0031867	EP4 subtype prostaglandin E2 receptor binding	 
+IPR001244	F	Prostaglandin DP receptor	GO:0031867	EP4 subtype prostaglandin E2 receptor binding	 
+IPR000370	F	Prostacyclin (prostanoid IP) receptor	GO:0031869	prostacyclin receptor binding	 
+IPR002144	F	"GPCR, family 2, secretin receptor"	GO:0031876	secretin receptor binding	 
+IPR002074	F	Somatostatin receptor 2	GO:0031877	somatostatin receptor binding	 
+IPR000586	F	Somatostatin receptor family	GO:0031877	somatostatin receptor binding	 
+IPR007960	F	Mammalian taste receptor	GO:0031883	taste receptor binding	 
+IPR001817	F	Vasopressin receptor	GO:0031893	vasopressin receptor binding	 
+IPR001224	F	Vasopressin V1A receptor	GO:0031894	V1A vasopressin receptor binding	 
+IPR025540	F	Fluoroacetyl-CoA thioesterase	GO:0031996	thioesterase binding	 
+IPR016662	F	"Acyl-CoA thioesterase, long chain"	GO:0031996	thioesterase binding	 
+IPR016615	F	Ubiquitin thioesterase Otubain	GO:0031996	thioesterase binding	 
+IPR022598	F	"Long-chain fatty acyl-CoA thioesterase, Rv0098-like"	GO:0031996	thioesterase binding	 
+IPR012223	F	"Thioesterase type II, NRPS/PKS/S-FAS"	GO:0031996	thioesterase binding	 
+IPR012367	F	Uncharacterised conserved protein thioesterase	GO:0031996	thioesterase binding	 
+IPR014166	F	Tol-Pal system-associated acyl-CoA thioesterase	GO:0031996	thioesterase binding	 
+IPR011412	F	Coronamic acid biosynthesis thioesterase CmaT	GO:0031996	thioesterase binding	 
+IPR002472	F	Palmitoyl protein thioesterase	GO:0031996	thioesterase binding	 
+IPR002864	F	Acyl-ACP thioesterase	GO:0031996	thioesterase binding	 
+IPR003703	F	Acyl-CoA thioesterase	GO:0031996	thioesterase binding	 
+IPR006684	F	Acyl-CoA thioester hydrolase YbgC/YbaW family	GO:0031996	thioesterase binding	 
+IPR008515	F	"Ubiquitin-like, Pup"	GO:0032182	small conjugating protein binding	 
+IPR012267	F	"Peptidase S1A, acrosin"	GO:0032190	acrosin binding	 
+IPR002099	F	DNA mismatch repair protein	GO:0032407	MutSalpha complex binding	 
+IPR015767	F	Rho GTPase activating	GO:0032794	GTPase activating protein binding	 
+IPR007336	F	Der GTPase activator	GO:0032794	GTPase activating protein binding	 
+IPR001936	D	Ras GTPase-activating protein	GO:0032794	GTPase activating protein binding	 
+IPR001164	F	Arf GTPase activating protein	GO:0032794	GTPase activating protein binding	 
+IPR001612	F	Caveolin	GO:0032947	protein complex scaffold	 
+IPR000502	F	Muscarinic acetylcholine receptor M5	GO:0033130	acetylcholine receptor binding	 
+IPR002394	F	Nicotinic acetylcholine receptor	GO:0033130	acetylcholine receptor binding	 
+IPR001432	F	Muscarinic acetylcholine receptor M4	GO:0033130	acetylcholine receptor binding	 
+IPR001183	F	Muscarinic acetylcholine receptor M3	GO:0033130	acetylcholine receptor binding	 
+IPR001065	F	Muscarinic acetylcholine receptor M2	GO:0033130	acetylcholine receptor binding	 
+IPR000995	F	Muscarinic acetylcholine receptor	GO:0033130	acetylcholine receptor binding	 
+IPR002228	F	Muscarinic acetylcholine receptor M1	GO:0033130	acetylcholine receptor binding	 
+IPR000128	F	Progesterone receptor	GO:0033142	progesterone receptor binding	 
+IPR003162	F	Transcription factor TAFII-31	GO:0033613	activating transcription factor binding	 
+IPR007576	F	CITED	GO:0033613	activating transcription factor binding	 
+IPR019166	F	Apolipoprotein O	GO:0034185	apolipoprotein binding	 
+IPR008405	F	Apolipoprotein L	GO:0034185	apolipoprotein binding	 
+IPR008403	F	Apolipoprotein CIII	GO:0034185	apolipoprotein binding	 
+IPR008019	F	Apolipoprotein C-II	GO:0034185	apolipoprotein binding	 
+IPR006801	F	Apolipoprotein A-II (ApoA-II)	GO:0034185	apolipoprotein binding	 
+IPR006781	F	Apolipoprotein C-I	GO:0034185	apolipoprotein binding	 
+IPR000074	F	Apolipoprotein A1/A4/E	GO:0034185	apolipoprotein binding	 
+IPR002969	F	Apolipoprotein D	GO:0034185	apolipoprotein binding	 
+IPR004563	F	Apolipoprotein N-acyltransferase	GO:0034185	apolipoprotein binding	 
+IPR004308	F	Glutamate-cysteine ligase catalytic subunit	GO:0035226	glutamate-cysteine ligase catalytic subunit binding	 
+IPR000162	F	"GPCR, family 3, metabotropic glutamate receptor"	GO:0035256	G-protein coupled glutamate receptor binding	 
+IPR000202	F	"GPCR, family 3, metabotropic glutamate receptor 5"	GO:0035256	G-protein coupled glutamate receptor binding	 
+IPR023257	F	Liver X receptor	GO:0035257	nuclear hormone receptor binding	 
+IPR003079	F	Nuclear receptor ROR	GO:0035257	nuclear hormone receptor binding	 
+IPR001409	F	Glucocorticoid receptor	GO:0035259	glucocorticoid receptor binding	 
+IPR024884	F	N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D	GO:0035473	lipase binding	 
+IPR016674	F	"Phospholipase D, actinobacteria/fungi"	GO:0035473	lipase binding	 
+IPR016272	F	"Lipoprotein lipase, LIPH"	GO:0035473	lipase binding	 
+IPR016270	F	"Phospholipase D, phosphatidylserine synthase type"	GO:0035473	lipase binding	 
+IPR021771	F	Triacylglycerol lipase	GO:0035473	lipase binding	 
+IPR017766	F	Sphingomyelinase C/phospholipase C	GO:0035473	lipase binding	 
+IPR016555	F	"Phospholipase D, eukaryota"	GO:0035473	lipase binding	 
+IPR012354	F	Esterase/lipase	GO:0035473	lipase binding	 
+IPR015141	F	"Phospholipase A2, prokaryotic/fungal"	GO:0035473	lipase binding	 
+IPR002333	F	Hepatic lipase	GO:0035473	lipase binding	 
+IPR002331	F	Pancreatic lipase	GO:0035473	lipase binding	 
+IPR002330	F	Lipoprotein lipase	GO:0035473	lipase binding	 
+IPR007000	F	Phospholipase B-like	GO:0035473	lipase binding	 
+IPR007942	F	"Phospholipase-like, arabidopsis"	GO:0035473	lipase binding	 
+IPR001028	F	Glycoprotein phospholipase D	GO:0035473	lipase binding	 
+IPR020442	F	Interleukin-20	GO:0042015	interleukin-20 binding	 
+IPR005393	F	XC chemokine receptor type 1	GO:0042379	chemokine receptor binding	 
+IPR005384	F	Duffy antigen/chemokine receptor	GO:0042379	chemokine receptor binding	 
+IPR002237	F	CC chemokine receptor type 2	GO:0042379	chemokine receptor binding	 
+IPR001718	F	CC chemokine receptor type 7	GO:0042379	chemokine receptor binding	 
+IPR001053	F	CXC chemokine receptor type 5	GO:0042379	chemokine receptor binding	 
+IPR001089	F	CXC chemokine	GO:0042379	chemokine receptor binding	 
+IPR001277	F	CXC chemokine receptor type 4	GO:0042379	chemokine receptor binding	 
+IPR002236	F	CC chemokine receptor type 1	GO:0042379	chemokine receptor binding	 
+IPR002235	F	CXC chemokine receptor type 6	GO:0042379	chemokine receptor binding	 
+IPR021171	F	Core histone macro-H2A	GO:0042393	histone binding	 
+IPR000558	F	Histone H2B	GO:0042393	histone binding	 
+IPR005818	D	Histone H1/H5	GO:0042393	histone binding	 
+IPR001951	F	Histone H4	GO:0042393	histone binding	 
+IPR000164	F	Histone H3	GO:0042393	histone binding	 
+IPR007125	D	Histone core	GO:0042393	histone binding	 
+IPR000476	F	Glycoprotein hormone alpha chain	GO:0042562	hormone binding	 
+IPR008093	F	T cell antigen CD28	GO:0042608	T cell receptor binding	 
+IPR015468	F	CD8 alpha subunit	GO:0042610	CD8 receptor binding	 
+IPR008200	D	"Neuromedin U, C-terminal"	GO:0042922	neuromedin U receptor binding	 
+IPR008055	F	Neurotensin/neuromedin N	GO:0042923	neuropeptide binding	 
+IPR003076	F	"Peroxisome proliferator-activated receptor, alpha"	GO:0042975	peroxisome proliferator activated receptor binding	 
+IPR015679	F	Phospholipase D family	GO:0043274	phospholipase binding	 
+IPR015359	D	"Phospholipase C, phosphoinositol-specific, EF-hand-like"	GO:0043274	phospholipase binding	 
+IPR011402	F	"Phospholipase D, plant"	GO:0043274	phospholipase binding	 
+IPR003187	F	Phospholipase A1	GO:0043274	phospholipase binding	 
+IPR001192	F	Phosphoinositide phospholipase C	GO:0043274	phospholipase binding	 
+IPR000909	D	"Phospholipase C, phosphatidylinositol-specific , X domain"	GO:0043274	phospholipase binding	 
+IPR016352	F	"Small leucine-rich proteoglycan, class I, decorin/asporin/byglycan"	GO:0043394	proteoglycan binding	 
+IPR002418	F	Transcription regulator Myc	GO:0043425	bHLH transcription factor binding	 
+IPR008290	F	"Phosphatidylinositol 3-kinase, Vps34 type"	GO:0043548	phosphatidylinositol 3-kinase binding	 
+IPR002420	D	Phosphatidylinositol 3-kinase C2 (PI3K C2) domain	GO:0043548	phosphatidylinositol 3-kinase binding	 
+IPR001263	D	"Phosphoinositide 3-kinase, accessory (PIK) domain"	GO:0043548	phosphatidylinositol 3-kinase binding	 
+IPR003113	D	Phosphatidylinositol 3-kinase adaptor-binding (PI3K ABD) domain	GO:0043548	phosphatidylinositol 3-kinase binding	 
+IPR024338	F	Stretch-activated cation channel Mid1	GO:0044325	ion channel binding	 
+IPR009147	F	Cystic fibrosis transmembrane conductance regulator	GO:0044325	ion channel binding	 
+IPR010420	F	CASTOR/POLLUX/SYM8 ion channels	GO:0044325	ion channel binding	 
+IPR015449	F	"Potassium channel, calcium-activated, SK"	GO:0044325	ion channel binding	 
+IPR005461	F	"Transient receptor potential channel, canonical 5"	GO:0044325	ion channel binding	 
+IPR005460	F	"Transient receptor potential channel, canonical 4"	GO:0044325	ion channel binding	 
+IPR005458	F	"Transient receptor potential channel, canonical 2"	GO:0044325	ion channel binding	 
+IPR005457	F	"Transient receptor potential channel, canonical 1"	GO:0044325	ion channel binding	 
+IPR002153	F	"Transient receptor potential channel, canonical"	GO:0044325	ion channel binding	 
+IPR005447	F	"Voltage-dependent calcium channel, N-type, alpha-1 subunit"	GO:0044325	ion channel binding	 
+IPR022904	F	"DNA topoisomerase, type VI, subunit A, archaeal"	GO:0044547	DNA topoisomerase binding	 
+IPR000380	F	"DNA topoisomerase, type IA"	GO:0044547	DNA topoisomerase binding	 
+IPR000565	F	"DNA topoisomerase, type IIA, subunit B"	GO:0044547	DNA topoisomerase binding	 
+IPR005742	F	"DNA topoisomerase IV, subunit A, Gram-negative"	GO:0044547	DNA topoisomerase binding	 
+IPR005741	F	"DNA topoisomerase IV, subunit A, Gram-positive"	GO:0044547	DNA topoisomerase binding	 
+IPR005740	F	"DNA topoisomerase IV, subunit B, Gram-positive"	GO:0044547	DNA topoisomerase binding	 
+IPR005739	F	"DNA topoisomerase I, archeal-type"	GO:0044547	DNA topoisomerase binding	 
+IPR005738	F	"DNA topoisomerase III, bacterial-type"	GO:0044547	DNA topoisomerase binding	 
+IPR005737	F	"DNA topoisomerase IV, subunit B, Gram-negative"	GO:0044547	DNA topoisomerase binding	 
+IPR005734	F	"DNA topoisomerase VI, subunit B"	GO:0044547	DNA topoisomerase binding	 
+IPR005733	F	"DNA topoisomerase I, bacterial-type"	GO:0044547	DNA topoisomerase binding	 
+IPR002815	F	"Spo11/DNA topoisomerase VI, subunit A"	GO:0044547	DNA topoisomerase binding	 
+IPR004085	F	"DNA topoisomerase VI, subunit A"	GO:0044547	DNA topoisomerase binding	 
+IPR001154	F	"DNA topoisomerase II, eukaryotic-type"	GO:0044547	DNA topoisomerase binding	 
+IPR001241	F	"DNA topoisomerase, type IIA"	GO:0044547	DNA topoisomerase binding	 
+IPR022840	F	GTP cyclohydrolase MptA	GO:0044549	GTP cyclohydrolase binding	 
+IPR009112	F	"GTP cyclohydrolase I, feedback regulatory protein"	GO:0044549	GTP cyclohydrolase binding	 
+IPR001474	F	GTP cyclohydrolase I	GO:0044549	GTP cyclohydrolase binding	 
+IPR000926	F	"GTP cyclohydrolase II, RibA"	GO:0044549	GTP cyclohydrolase binding	 
+IPR003801	F	GTP cyclohydrolase FolE2/MptA	GO:0044549	GTP cyclohydrolase binding	 
+IPR007839	F	GTP cyclohydrolase III	GO:0044549	GTP cyclohydrolase binding	 
+IPR022838	F	GTP cyclohydrolase FolE2	GO:0044549	GTP cyclohydrolase binding	 
+IPR001033	F	Alpha-catenin	GO:0045294	alpha-catenin binding	 
+IPR006077	F	Vinculin/alpha-catenin	GO:0045294	alpha-catenin binding	 
+IPR009124	F	Cadherin/Desmocollin	GO:0045296	cadherin binding	 
+IPR009122	F	Desmosomal cadherin	GO:0045296	cadherin binding	 
+IPR001050	F	Syndecan	GO:0045545	syndecan binding	 
+IPR020766	F	Fibroblast growth factor receptor-like	GO:0046875	ephrin receptor binding	 
+IPR008056	F	Tapasin	GO:0046980	tapasin binding	 
+IPR004070	F	CXC chemokine receptor type 3	GO:0048248	CXCR3 chemokine receptor binding	 
+IPR020425	F	"Nerve growth factor, beta subunit"	GO:0048406	nerve growth factor binding	 
+IPR020408	F	Nerve growth factor-like	GO:0048406	nerve growth factor binding	 
+IPR020437	F	"Nerve growth factor, beta subunit, mammalian"	GO:0048406	nerve growth factor binding	 
+IPR017194	F	"Transforming growth factor-beta receptor, type II"	GO:0050431	transforming growth factor beta binding	 
+IPR015618	F	Transforming growth factor beta 3	GO:0050431	transforming growth factor beta binding	 
+IPR003940	F	"Transforming growth factor, beta 2"	GO:0050431	transforming growth factor beta binding	 
+IPR003939	F	"Transforming growth factor, beta 1"	GO:0050431	transforming growth factor beta binding	 
+IPR000929	F	Dopamine receptor family	GO:0050780	dopamine receptor binding	 
+IPR002982	F	"Sodium:neurotransmitter symporter, GABA, GAT-3"	GO:0050811	GABA receptor binding	 
+IPR002981	F	"Sodium:neurotransmitter symporter, GABA, GAT-2"	GO:0050811	GABA receptor binding	 
+IPR002980	F	"Sodium:neurotransmitter symporter, GABA, GAT-1"	GO:0050811	GABA receptor binding	 
+IPR002289	F	"Gamma-aminobutyric-acid A receptor, beta subunit"	GO:0050811	GABA receptor binding	 
+IPR005439	F	"Gamma-aminobutyric-acid A receptor, gamma 2 subunit"	GO:0050811	GABA receptor binding	 
+IPR005437	F	"Gamma-aminobutyric-acid A receptor, gamma subunit"	GO:0050811	GABA receptor binding	 
+IPR008900	F	Zona occludens toxin	GO:0050827	toxin receptor binding	 
+IPR016348	F	L-selectin	GO:0050839	cell adhesion molecule binding	 
+IPR015653	F	Intercellular adhesion molecule 2	GO:0050839	cell adhesion molecule binding	 
+IPR015632	F	T-cell adhesion molecule CD2	GO:0050839	cell adhesion molecule binding	 
+IPR015059	F	Calcium-dependent cell adhesion molecule	GO:0050839	cell adhesion molecule binding	 
+IPR003989	F	Vascular cell adhesion molecule-1	GO:0050839	cell adhesion molecule binding	 
+IPR007906	F	Glycosylation-dependent cell adhesion molecule 1	GO:0050839	cell adhesion molecule binding	 
+IPR004116	F	Amelogenin	GO:0050839	cell adhesion molecule binding	 
+IPR001698	F	"WASH complex, F-actin capping protein, beta subunit"	GO:0051015	actin filament binding	 
+IPR002189	F	"WASH complex, F-actin capping protein, alpha subunit"	GO:0051015	actin filament binding	 
+IPR008352	F	"Mitogen-activated protein (MAP) kinase, p38"	GO:0051019	mitogen-activated protein kinase binding	 
+IPR008351	F	"Mitogen-activated protein (MAP) kinase, JNK"	GO:0051019	mitogen-activated protein kinase binding	 
+IPR008350	F	"Mitogen-activated protein (MAP) kinase, ERK3/4"	GO:0051019	mitogen-activated protein kinase binding	 
+IPR008349	F	"Mitogen-activated protein (MAP) kinase, ERK1/2"	GO:0051019	mitogen-activated protein kinase binding	 
+IPR020849	F	"Small GTPase superfamily, Ras type"	GO:0051020	GTPase binding	 
+IPR016496	F	GTPase HflX	GO:0051020	GTPase binding	 
+IPR021181	F	"Small GTPase superfamily, mitochondrial rho type"	GO:0051020	GTPase binding	 
+IPR016478	F	"GTPase, MTG1"	GO:0051020	GTPase binding	 
+IPR004881	F	"Ribosome biogenesis GTPase RsgA, putative"	GO:0051020	GTPase binding	 
+IPR001806	F	Small GTPase superfamily	GO:0051020	GTPase binding	 
+IPR004520	F	tRNA modification GTPase MnmE	GO:0051020	GTPase binding	 
+IPR007743	F	Interferon-inducible GTPase	GO:0051020	GTPase binding	 
+IPR016379	F	"Type III secretion system, low calcium response, chaperone LcrH/SycD, subgroup"	GO:0051087	chaperone binding	 
+IPR019623	F	"Chaperone, endoplasmic reticulum protein-folding, fungi"	GO:0051087	chaperone binding	 
+IPR018855	F	"Proteasome chaperone 1, fungi"	GO:0051087	chaperone binding	 
+IPR016684	F	"Type III secretion system chaperone, YscY"	GO:0051087	chaperone binding	 
+IPR018854	F	"Proteasome chaperone 3/4, fungi"	GO:0051087	chaperone binding	 
+IPR017843	F	"DMSO reductase family, type II, chaperone"	GO:0051087	chaperone binding	 
+IPR018788	F	Proteasome assembly chaperone 3	GO:0051087	chaperone binding	 
+IPR017998	F	Chaperone tailless complex polypeptide 1 (TCP-1)	GO:0051087	chaperone binding	 
+IPR013353	F	Type III secretion system chaperone YscB	GO:0051087	chaperone binding	 
+IPR013095	F	Type III secretion system chaperone	GO:0051087	chaperone binding	 
+IPR017730	F	Chaperonin ClpB	GO:0051087	chaperone binding	 
+IPR019151	F	Proteasome assembly chaperone 2	GO:0051087	chaperone binding	 
+IPR017416	F	"Chaperonin 21, chloroplast"	GO:0051087	chaperone binding	 
+IPR023994	F	"[NiFe]-hydrogenase assembly, chaperone, HybE"	GO:0051087	chaperone binding	 
+IPR019941	F	"Transcription regulator LuxR, chaperone HchA-associated"	GO:0051087	chaperone binding	 
+IPR016578	F	"Copper chaperone, chloroplast-targeted, predicted"	GO:0051087	chaperone binding	 
+IPR016565	F	Proteasome assembly chaperone 1	GO:0051087	chaperone binding	 
+IPR016562	F	"Proteasome assembly chaperone 2, eukaryotic"	GO:0051087	chaperone binding	 
+IPR019114	F	"Chaperone lipoprotein, PulS/OutS-like"	GO:0051087	chaperone binding	 
+IPR019098	D	Histone chaperone domain CHZ	GO:0051087	chaperone binding	 
+IPR020945	F	DMSO/Nitrate reductase chaperone	GO:0051087	chaperone binding	 
+IPR017283	F	Molecular chaperone Hsp31 and glyoxalase 3	GO:0051087	chaperone binding	 
+IPR021150	F	Ubiquinol-cytochrome c chaperone/UPF0174	GO:0051087	chaperone binding	 
+IPR023069	F	Chaperone TorD	GO:0051087	chaperone binding	 
+IPR020818	F	Chaperonin Cpn10	GO:0051087	chaperone binding	 
+IPR014112	F	Type-F conjugative transfer system pilin chaperone TraQ	GO:0051087	chaperone binding	 
+IPR013248	F	Shr3 amino acid permease chaperone	GO:0051087	chaperone binding	 
+IPR012673	F	Type III secretion system chaperone SycN	GO:0051087	chaperone binding	 
+IPR012725	F	Chaperone DnaK	GO:0051087	chaperone binding	 
+IPR012724	F	Chaperone DnaJ	GO:0051087	chaperone binding	 
+IPR012714	F	"Thermosome, archaeal"	GO:0051087	chaperone binding	 
+IPR012713	F	"Prefoldin, beta subunit"	GO:0051087	chaperone binding	 
+IPR013400	F	"Type III secretion system chaperone, YscW"	GO:0051087	chaperone binding	 
+IPR024142	F	Superoxide dismutase copper chaperone	GO:0051087	chaperone binding	 
+IPR008423	F	"P21 molecular chaperone, Bacillus thuringiensis"	GO:0051087	chaperone binding	 
+IPR014569	F	"Ubiquinol-cytochrome c chaperone, CBP3-related"	GO:0051087	chaperone binding	 
+IPR010261	F	Tir chaperone protein (CesT) family	GO:0051087	chaperone binding	 
+IPR005416	F	"Type III secretion chaperone SycE, Gram-negative bacterial"	GO:0051087	chaperone binding	 
+IPR005415	F	"Type III secretion system, low calcium response, chaperone LcrH/SycD"	GO:0051087	chaperone binding	 
+IPR002777	D	Prefoldin beta-like	GO:0051087	chaperone binding	 
+IPR010236	F	"ISC system FeS cluster assembly, HscA chaperone"	GO:0051087	chaperone binding	 
+IPR001844	F	Chaperonin Cpn60	GO:0051087	chaperone binding	 
+IPR001829	F	"Pili assembly chaperone, bacterial"	GO:0051087	chaperone binding	 
+IPR006818	F	"Histone chaperone, ASF1-like"	GO:0051087	chaperone binding	 
+IPR005699	F	"Chaperone lipoprotein, PulS/OutS"	GO:0051087	chaperone binding	 
+IPR004217	D	Tim10/DDP family zinc finger	GO:0051087	chaperone binding	 
+IPR003782	F	Copper chaperone SCO1/SenC	GO:0051087	chaperone binding	 
+IPR005632	F	Chaperone protein Skp	GO:0051087	chaperone binding	 
+IPR005623	F	"Chaperone NapD, nitrate reductase assembly"	GO:0051087	chaperone binding	 
+IPR002423	F	Chaperonin Cpn60/TCP-1	GO:0051087	chaperone binding	 
+IPR004961	F	Lipase chaperone	GO:0051087	chaperone binding	 
+IPR004640	F	Co-chaperone Hsc20	GO:0051087	chaperone binding	 
+IPR003765	F	"Nitrate reductase chaperone, NarJ"	GO:0051087	chaperone binding	 
+IPR003708	F	Bacterial protein export chaperone SecB	GO:0051087	chaperone binding	 
+IPR007745	F	Cytochrome c oxidase copper chaperone	GO:0051087	chaperone binding	 
+IPR008231	F	Secretion chaperone CsaA	GO:0051087	chaperone binding	 
+IPR001270	F	Chaperonin ClpA/B	GO:0051087	chaperone binding	 
+IPR007129	F	"Ubiquinol-cytochrome c chaperone, CBP3"	GO:0051087	chaperone binding	 
+IPR024319	F	"ATPase expression protein 2, mitochondrial"	GO:0051117	ATPase binding	 
+IPR025501	F	ATP binding protein MinD	GO:0051117	ATPase binding	 
+IPR017179	F	Spastin	GO:0051117	ATPase binding	 
+IPR016727	F	"ATPase, V0 complex, subunit d"	GO:0051117	ATPase binding	 
+IPR022241	F	Rhomboid serine protease	GO:0051117	ATPase binding	 
+IPR017466	F	"ATPase, secretion system, PEP-CTERM, predicted"	GO:0051117	ATPase binding	 
+IPR019727	F	"ATPase, F0 complex, subunit F, mitochondria, fungi"	GO:0051117	ATPase binding	 
+IPR019711	F	"ATPase, F0 complex, subunit H"	GO:0051117	ATPase binding	 
+IPR016366	F	"ATPase chaperone, AAA-type, MoxR, predicted"	GO:0051117	ATPase binding	 
+IPR016349	F	"ATPase, F0 complex, subunit F6, mitochondrial subgroup"	GO:0051117	ATPase binding	 
+IPR019591	F	"ATPase-like, ParA/MinD"	GO:0051117	ATPase binding	 
+IPR016300	F	"Arsenical pump ATPase, ArsA/Get3"	GO:0051117	ATPase binding	 
+IPR016628	F	"ATPase, SAG2001, predicted"	GO:0051117	ATPase binding	 
+IPR017750	F	"ATPase, type I secretion system"	GO:0051117	ATPase binding	 
+IPR017861	F	Kae1/YgjD family	GO:0051117	ATPase binding	 
+IPR013364	F	"ATPase, plasmid transfer, TraJ"	GO:0051117	ATPase binding	 
+IPR013363	F	Dot/Icm secretion system ATPase DotB	GO:0051117	ATPase binding	 
+IPR017729	F	"ATPase, type VI secretion system, ClpV1"	GO:0051117	ATPase binding	 
+IPR019195	F	"ABC transporter, ATPase, putative"	GO:0051117	ATPase binding	 
+IPR017385	F	"ATPase, V0 complex, subunit e1/e2, metazoa"	GO:0051117	ATPase binding	 
+IPR017710	F	"Alternate F1F0 ATPase, F1 subunit alpha"	GO:0051117	ATPase binding	 
+IPR017709	F	"Alternate F1F0 ATPase, F1 subunit gamma"	GO:0051117	ATPase binding	 
+IPR017708	F	"ATPase, F0 complex, subunit C, bacterial/archaeal"	GO:0051117	ATPase binding	 
+IPR017707	F	"Alternate F1F0 ATPase, F0 subunit B"	GO:0051117	ATPase binding	 
+IPR013911	F	i-AAA protease complex subunit Mgr1	GO:0051117	ATPase binding	 
+IPR017692	F	"Alternate F1F0 ATPase, F0 subunit A"	GO:0051117	ATPase binding	 
+IPR017691	F	"ATP synthase subunit beta, bacterial and archaeal"	GO:0051117	ATPase binding	 
+IPR017369	F	SPAN protein/blastula protease 10	GO:0051117	ATPase binding	 
+IPR017345	F	"Peptidase S1A, Tysnd1"	GO:0051117	ATPase binding	 
+IPR020005	F	"Flagellar export ATPase, FliI, clade 1"	GO:0051117	ATPase binding	 
+IPR023835	F	"Type VII secretion system AAA-ATPase, EccA"	GO:0051117	ATPase binding	 
+IPR023671	F	ATPase RavA	GO:0051117	ATPase binding	 
+IPR022509	F	"Conjugation system ATPase, TraG"	GO:0051117	ATPase binding	 
+IPR022482	F	Proteasome ATPase	GO:0051117	ATPase binding	 
+IPR018632	F	"ABC  transporter, nitrate/sulphonate/bicarbonate, ATPase subunit"	GO:0051117	ATPase binding	 
+IPR022426	F	Flagellum-specific ATP synthase	GO:0051117	ATPase binding	 
+IPR022425	F	"Flagellar export ATPase, FliI, clade 2"	GO:0051117	ATPase binding	 
+IPR022399	F	Helicase/secretion neighbourhood ATPase	GO:0051117	ATPase binding	 
+IPR017581	F	"F1/F0 ATPase, Methanosarcina type, subunit 2"	GO:0051117	ATPase binding	 
+IPR022303	F	Conjugative transfer ATPase	GO:0051117	ATPase binding	 
+IPR021190	F	Peptidase M10A	GO:0051117	ATPase binding	 
+IPR017207	F	"Translation factor ATP22, ATPase-subunit 6-specific, mitochondria"	GO:0051117	ATPase binding	 
+IPR022982	F	DNA double-strand break repair Rad50 ATPase	GO:0051117	ATPase binding	 
+IPR021013	F	"ATPase, vacuolar ER assembly factor, Vma12"	GO:0051117	ATPase binding	 
+IPR022944	F	"ATPase, V1 complex, subunit F, bacterial/archaeal"	GO:0051117	ATPase binding	 
+IPR014155	F	Type IV secretion system protein VirB11	GO:0051117	ATPase binding	 
+IPR014149	F	"Conjugative transfer, TrbB"	GO:0051117	ATPase binding	 
+IPR008789	F	Poxvirus intermediate transcription factor	GO:0051117	ATPase binding	 
+IPR012122	F	"ATPase, PP-loop, MJ1016-related"	GO:0051117	ATPase binding	 
+IPR012121	F	"ATPase, PP-loop, MJ1599-related"	GO:0051117	ATPase binding	 
+IPR012224	F	"Peptidase S1A, coagulation factor VII/IX/X/C/Z"	GO:0051117	ATPase binding	 
+IPR014855	F	Plant transcription factor NOZZLE	GO:0051117	ATPase binding	 
+IPR011776	F	"Magnesium chelatase, ATPase subunit D"	GO:0051117	ATPase binding	 
+IPR011775	F	"Magnesium chelatase, ATPase subunit I"	GO:0051117	ATPase binding	 
+IPR008689	F	"ATPase, F0 complex, subunit D, mitochondrial"	GO:0051117	ATPase binding	 
+IPR008688	F	"ATPase, F0 complex, B chain/subunit B/MI25"	GO:0051117	ATPase binding	 
+IPR012096	F	"ATPase, PP-loop, MJ1638-related"	GO:0051117	ATPase binding	 
+IPR013538	F	Activator of Hsp90 ATPase homologue 1-like	GO:0051117	ATPase binding	 
+IPR009230	F	"ATPase, F0 complex, subunit 8, mitochondrial, fungal"	GO:0051117	ATPase binding	 
+IPR012508	F	"ATPase, A1 complex, epsilon subunit, archaeal"	GO:0051117	ATPase binding	 
+IPR011555	F	"V-ATPase proteolipid subunit C, eukaryotic"	GO:0051117	ATPase binding	 
+IPR024037	F	"Alternate F1F0 ATPase, F1 subunit epsilon"	GO:0051117	ATPase binding	 
+IPR011744	F	"F0F1-ATPase subunit, putative"	GO:0051117	ATPase binding	 
+IPR011726	F	"K+ transporting P-type ATPase, F subunit"	GO:0051117	ATPase binding	 
+IPR013380	F	"ATPase, type III secretion system, H+-transporting"	GO:0051117	ATPase binding	 
+IPR013374	F	"ATPase, type IV, pilus assembly, PilB"	GO:0051117	ATPase binding	 
+IPR014252	F	Sporulation protease LonC	GO:0051117	ATPase binding	 
+IPR014346	F	Prenyl protease-related	GO:0051117	ATPase binding	 
+IPR010128	F	"ATPase, type I secretion system, PrtD"	GO:0051117	ATPase binding	 
+IPR015223	F	ATPase MipZ/NubP2/Cfd1	GO:0051117	ATPase binding	 
+IPR012787	F	Pca transcription factor PcaQ	GO:0051117	ATPase binding	 
+IPR012781	F	D-fructose-responsive transcription factor	GO:0051117	ATPase binding	 
+IPR015586	F	Pituitary-specific positive transcription factor 1	GO:0051117	ATPase binding	 
+IPR012589	F	ATPase proteolipid	GO:0051117	ATPase binding	 
+IPR013837	F	"ATPase, F0 complex, B chain/subunit B"	GO:0051117	ATPase binding	 
+IPR015495	F	Myb transcription factor	GO:0051117	ATPase binding	 
+IPR013461	F	ATP-dependent Clp protease ATP-binding subunit ClpA	GO:0051117	ATPase binding	 
+IPR014275	F	"ATPase, A1A0, subunit H"	GO:0051117	ATPase binding	 
+IPR014272	F	"ATPase, V0 complex, c subunit"	GO:0051117	ATPase binding	 
+IPR010332	F	"ATPase terminase subunit, putative"	GO:0051117	ATPase binding	 
+IPR013128	F	"Peptidase C1A, papain"	GO:0051117	ATPase binding	 
+IPR015565	F	"Sodium/potassium-transporting ATPase subunit beta, chordates"	GO:0051117	ATPase binding	 
+IPR014588	F	"ATPase, Atu1862 type, predicted"	GO:0051117	ATPase binding	 
+IPR008389	F	"ATPase, V0 complex, subunit e1/e2"	GO:0051117	ATPase binding	 
+IPR008388	F	"ATPase, V1 complex, subunit S1"	GO:0051117	ATPase binding	 
+IPR008387	F	"ATPase, F0 complex, subunit F6, mitochondrial"	GO:0051117	ATPase binding	 
+IPR008386	F	"ATPase, F0 complex, subunit E, mitochondrial"	GO:0051117	ATPase binding	 
+IPR013742	F	Plant transcription factor	GO:0051117	ATPase binding	 
+IPR012180	F	Predicted bifunctional ATPase/phosphotransferase	GO:0051117	ATPase binding	 
+IPR005124	F	Vacuolar (H+)-ATPase G subunit	GO:0051117	ATPase binding	 
+IPR004420	F	"Peptidase A31, hydrogenase maturation protease HycI"	GO:0051117	ATPase binding	 
+IPR003966	F	Prothrombin/thrombin	GO:0051117	ATPase binding	 
+IPR005864	F	"ATPase, F0 complex, subunit B, bacterial"	GO:0051117	ATPase binding	 
+IPR006433	F	"Prohead protease, HK97 family"	GO:0051117	ATPase binding	 
+IPR006415	F	"Magnesium-transporting P-type ATPase, subfamily IIIB"	GO:0051117	ATPase binding	 
+IPR006414	F	"Cation-transporting P-type ATPase, subfamily IID"	GO:0051117	ATPase binding	 
+IPR006413	F	"Calcium-transporting P-type ATPase, subfamily IIA, PMR1-type"	GO:0051117	ATPase binding	 
+IPR013273	F	"Peptidase M12B, ADAM-TS"	GO:0051117	ATPase binding	 
+IPR001421	F	"ATPase, F0 complex, subunit 8, mitochondrial, Metazoan"	GO:0051117	ATPase binding	 
+IPR000454	F	"ATPase, F0 complex, subunit C"	GO:0051117	ATPase binding	 
+IPR005337	F	"ATPase, P-loop-containing"	GO:0051117	ATPase binding	 
+IPR001469	F	"ATPase, F1 complex, delta/epsilon subunit"	GO:0051117	ATPase binding	 
+IPR006995	F	"ATPase, F0 complex, subunit J"	GO:0051117	ATPase binding	 
+IPR005782	F	"Calcium-transporting P-type ATPase, subfamily  IIA, SERCA-type"	GO:0051117	ATPase binding	 
+IPR006408	F	"Calcium-transporting P-type ATPase, subfamily IIB"	GO:0051117	ATPase binding	 
+IPR006391	F	"Potassium-transporting P-type ATPase, B chain, subfamily IA"	GO:0051117	ATPase binding	 
+IPR000568	F	"ATPase, F0 complex, subunit A"	GO:0051117	ATPase binding	 
+IPR000579	F	Cation-transporting P-type ATPase A/B	GO:0051117	ATPase binding	 
+IPR002843	F	"ATPase, V0 complex,  c/d subunit"	GO:0051117	ATPase binding	 
+IPR002842	F	"ATPase, V1/A1 complex, subunit E"	GO:0051117	ATPase binding	 
+IPR005775	F	"Sodium/potassium-transporting P-type ATPase, subfamily IIC"	GO:0051117	ATPase binding	 
+IPR005772	F	"ATPase, V1 complex, subunit F, eukaryotic"	GO:0051117	ATPase binding	 
+IPR005726	F	"ATPase, A1 complex, alpha subunit"	GO:0051117	ATPase binding	 
+IPR005725	F	"ATPase, V1 complex, subunit A"	GO:0051117	ATPase binding	 
+IPR005724	F	"ATPase, A1 complex, beta subunit"	GO:0051117	ATPase binding	 
+IPR005723	F	"ATPase, V1 complex, subunit B"	GO:0051117	ATPase binding	 
+IPR005722	F	"ATPase, F1 complex, beta subunit"	GO:0051117	ATPase binding	 
+IPR000402	F	Sodium/potassium-transporting ATPase subunit beta	GO:0051117	ATPase binding	 
+IPR005294	F	"ATPase, F1 complex, alpha subunit"	GO:0051117	ATPase binding	 
+IPR010230	F	"FeS cluster assembly SUF system, ATPase SufC"	GO:0051117	ATPase binding	 
+IPR000245	F	V-ATPase proteolipid subunit	GO:0051117	ATPase binding	 
+IPR006808	F	"ATPase, F0 complex, subunit G, mitochondrial"	GO:0051117	ATPase binding	 
+IPR005714	F	"ATPase, type III secretion system, FliI/YscN"	GO:0051117	ATPase binding	 
+IPR007421	F	"ATPase, AAA-4"	GO:0051117	ATPase binding	 
+IPR002699	F	"ATPase, V1 complex, subunit D"	GO:0051117	ATPase binding	 
+IPR000711	F	"ATPase, F1 complex, OSCP/delta subunit"	GO:0051117	ATPase binding	 
+IPR001757	F	Cation-transporting P-type ATPase	GO:0051117	ATPase binding	 
+IPR003820	F	"Potassium transporting ATPase, C subunit"	GO:0051117	ATPase binding	 
+IPR005654	F	"ATPase, AFG1-like"	GO:0051117	ATPase binding	 
+IPR004634	F	"Peptidase S49, protease IV"	GO:0051117	ATPase binding	 
+IPR004623	F	"ATPase, K+ transporting, A subunit"	GO:0051117	ATPase binding	 
+IPR007849	F	"ATPase assembly factor ATP10, mitochondria"	GO:0051117	ATPase binding	 
+IPR006721	F	"ATPase, F1 complex, epsilon  subunit, mitochondrial"	GO:0051117	ATPase binding	 
+IPR000131	F	"ATPase, F1 complex, gamma subunit"	GO:0051117	ATPase binding	 
+IPR004908	F	"ATPase, V1 complex, subunit H"	GO:0051117	ATPase binding	 
+IPR004907	F	"ATPase, V1 complex, subunit C"	GO:0051117	ATPase binding	 
+IPR001208	F	"Mini-chromosome maintenance, DNA-dependent ATPase"	GO:0051117	ATPase binding	 
+IPR002146	F	"ATPase, F0 complex, subunit B/B', bacterial/chloroplast"	GO:0051117	ATPase binding	 
+IPR003675	F	CAAX amino terminal protease	GO:0051117	ATPase binding	 
+IPR024722	F	"BIG/ATPase V1 complex, subunit S1"	GO:0051117	ATPase binding	 
+IPR002490	F	"ATPase, V0 complex, subunit 116kDa"	GO:0051117	ATPase binding	 
+IPR008218	F	"ATPase, V1 complex, subunit F"	GO:0051117	ATPase binding	 
+IPR007648	F	"ATPase inhibitor, IATP, mitochondria"	GO:0051117	ATPase binding	 
+IPR005953	F	"ATPase, F0 complex, subunit C, bacterial/chloroplast"	GO:0051117	ATPase binding	 
+IPR005938	F	"ATPase, AAA-type, CDC48"	GO:0051117	ATPase binding	 
+IPR006544	F	"Cation-transporting P-type ATPase, subfamily  V"	GO:0051117	ATPase binding	 
+IPR006539	F	"Phospholipid-transporting  P-type ATPase, subfamily IV"	GO:0051117	ATPase binding	 
+IPR006534	F	"H+ transporting P-type ATPase, subfamily IIIA"	GO:0051117	ATPase binding	 
+IPR009144	F	Thyrotropin-releasing hormone receptor	GO:0051427	hormone receptor binding	 
+IPR008362	F	Melanin-concentrating hormone 2 receptor	GO:0051427	hormone receptor binding	 
+IPR008361	F	Melanin-concentrating hormone receptor	GO:0051427	hormone receptor binding	 
+IPR000761	F	Melanocyte-stimulating hormone receptor	GO:0051427	hormone receptor binding	 
+IPR002273	F	Lutropin-choriogonadotropic hormone receptor	GO:0051427	hormone receptor binding	 
+IPR002272	F	Follicle-stimulating hormone receptor	GO:0051427	hormone receptor binding	 
+IPR001723	F	Steroid hormone receptor	GO:0051427	hormone receptor binding	 
+IPR002170	F	"GPCR, family 2, parathyroid hormone receptor"	GO:0051427	hormone receptor binding	 
+IPR001740	F	"GPCR, family 2, EMR1 hormone receptor"	GO:0051427	hormone receptor binding	 
+IPR001728	F	Thyroid hormone receptor	GO:0051427	hormone receptor binding	 
+IPR003288	F	"GPCR, family 2, growth hormone-releasing hormone receptor"	GO:0051427	hormone receptor binding	 
+IPR001658	F	Gonadotrophin releasing hormone receptor	GO:0051427	hormone receptor binding	 
+IPR002001	F	"GPCR, family 2, diuretic hormone receptor"	GO:0051427	hormone receptor binding	 
+IPR002131	F	Glycoprotein hormone receptor	GO:0051427	hormone receptor binding	 
+IPR002120	F	Thyrotrophin-releasing hormone receptor	GO:0051427	hormone receptor binding	 
+IPR004047	F	Melanin-concentrating hormone 1 receptor	GO:0051427	hormone receptor binding	 
+IPR005465	F	Thyrotropin-releasing hormone receptor 2	GO:0051427	hormone receptor binding	 
+IPR000009	F	"Protein phosphatase 2A, regulatory subunit PR55"	GO:0051721	protein phosphatase 2A binding	 
+IPR002554	F	"Protein phosphatase 2A, regulatory B subunit, B56"	GO:0051721	protein phosphatase 2A binding	 
+IPR001404	F	Heat shock protein Hsp90	GO:0051879	Hsp90 protein binding	 
+IPR000151	F	"Ciliary neurotrophic factor, CNTF"	GO:0070119	ciliary neurotrophic factor binding	 
+IPR016722	F	"DNA polymerase alpha, subunit B"	GO:0070182	DNA polymerase binding	 
+IPR018382	F	"DNA polymerase III, psi subunit, subgroup"	GO:0070182	DNA polymerase binding	 
+IPR017061	F	DNA polymerase eta	GO:0070182	DNA polymerase binding	 
+IPR016266	F	"DNA polymerase epsilon, subunit B"	GO:0070182	DNA polymerase binding	 
+IPR016265	F	"DNA-directed DNA polymerase, family A, mitochondria, subgroup"	GO:0070182	DNA polymerase binding	 
+IPR022880	F	DNA polymerase IV	GO:0070182	DNA polymerase binding	 
+IPR019038	F	DNA polymerase subunit Cdc27	GO:0070182	DNA polymerase binding	 
+IPR022312	F	DNA polymerase family X	GO:0070182	DNA polymerase binding	 
+IPR023073	F	"DNA polymerase, error-prone"	GO:0070182	DNA polymerase binding	 
+IPR024826	F	DNA polymerase delta/II small subunit family	GO:0070182	DNA polymerase binding	 
+IPR014382	F	"DNA-directed DNA polymerase, family B, adenovirus"	GO:0070182	DNA polymerase binding	 
+IPR015706	F	RNA-directed DNA polymerase (reverse transcriptase)	GO:0070182	DNA polymerase binding	 
+IPR006172	F	"DNA-directed DNA polymerase, family B"	GO:0070182	DNA polymerase binding	 
+IPR015833	F	"DNA-directed DNA polymerase, family B, mitochondrial linear plasmid"	GO:0070182	DNA polymerase binding	 
+IPR011149	F	"DNA polymerase II small subunit, archaeal"	GO:0070182	DNA polymerase binding	 
+IPR012763	F	"DNA polymerase III, subunit gamma/ tau"	GO:0070182	DNA polymerase binding	 
+IPR010372	F	"DNA polymerase III, delta"	GO:0070182	DNA polymerase binding	 
+IPR018320	F	DNA polymerase 1	GO:0070182	DNA polymerase binding	 
+IPR014416	F	"DNA-directed DNA polymerase, family B, phi29-like virus"	GO:0070182	DNA polymerase binding	 
+IPR004475	F	DNA polymerase II large subunit DP2	GO:0070182	DNA polymerase binding	 
+IPR007015	F	DNA polymerase V	GO:0070182	DNA polymerase binding	 
+IPR009052	F	"DNA polymerase III-theta, bacterial"	GO:0070182	DNA polymerase binding	 
+IPR007218	F	"DNA polymerase delta, subunit 4"	GO:0070182	DNA polymerase binding	 
+IPR005790	F	"DNA polymerase III, delta subunit"	GO:0070182	DNA polymerase binding	 
+IPR007459	F	"DNA polymerase III chi subunit, HolC"	GO:0070182	DNA polymerase binding	 
+IPR006309	F	"DNA polymerase 3, epsilon subunit"	GO:0070182	DNA polymerase binding	 
+IPR006308	F	"DNA polymerase III, alpha subunit, Gram-positive type"	GO:0070182	DNA polymerase binding	 
+IPR004805	F	"DNA polymerase III, alpha subunit"	GO:0070182	DNA polymerase binding	 
+IPR001001	F	"DNA polymerase III, beta chain"	GO:0070182	DNA polymerase binding	 
+IPR003286	F	"RNA-directed DNA polymerase, eukaryota"	GO:0070182	DNA polymerase binding	 
+IPR004615	F	"DNA polymerase III, psi subunit"	GO:0070182	DNA polymerase binding	 
+IPR002008	F	"DNA polymerase, family X, beta-like"	GO:0070182	DNA polymerase binding	 
+IPR003202	F	DNA polymerase processivity factor (UL42)	GO:0070182	DNA polymerase binding	 
+IPR000123	F	"RNA-directed DNA polymerase (reverse transcriptase), msDNA"	GO:0070182	DNA polymerase binding	 
+IPR004578	F	"DNA-directed DNA polymerase, family B, pol2"	GO:0070182	DNA polymerase binding	 
+IPR002298	F	DNA polymerase A	GO:0070182	DNA polymerase binding	 
+IPR002297	F	"DNA-directed DNA-polymerase, family A, mitochondria"	GO:0070182	DNA polymerase binding	 
+IPR022129	F	Transcriptional repressor NocA-like	GO:0070491	repressing transcription factor binding	 
+IPR019983	F	"Peptidase T1A, proteasome beta-subunit, archaeal"	GO:0070628	proteasome binding	 
+IPR000243	F	"Peptidase T1A, proteasome beta-subunit"	GO:0070628	proteasome binding	 
+IPR001353	F	"Proteasome, subunit alpha/beta"	GO:0070628	proteasome binding	 
+IPR005937	F	26S proteasome subunit P45	GO:0070628	proteasome binding	 
+IPR000333	F	Activin type II/Transforming growth factor-beta II receptor	GO:0070696	transmembrane receptor protein serine/threonine kinase binding	 
+IPR016317	F	Pro-epidermal growth factor	GO:0070851	growth factor receptor binding	 
+IPR009136	F	"Tyrosine-protein kinase, vascular endothelial growth factor receptor 2 (VEGFR2)"	GO:0070851	growth factor receptor binding	 
+IPR015520	F	Imaginal disc growth factor	GO:0070851	growth factor receptor binding	 
+IPR002348	F	Interleukin 1/heparin-binding growth factor	GO:0070851	growth factor receptor binding	 
+IPR002209	F	Heparin-binding growth factor/Fibroblast growth factor	GO:0070851	growth factor receptor binding	 
+IPR000500	F	Connexin	GO:0071253	connexin binding	 
+IPR002265	F	Gap junction alpha-6 protein (Cx45)	GO:0071253	connexin binding	 
+IPR001671	F	Melanocortin/ACTH receptor	GO:0071855	neuropeptide receptor binding	 
+IPR007188	F	"ARP2/3 complex, 34kDa subunit (p34-Arc)"	GO:0071933	Arp2/3 complex binding	 
+IPR024374	F	"Bacteriophage phi-29, Gp7, scaffold"	GO:0097110	scaffold protein binding	 
+IPR019553	F	"Spider toxin CSTX, Knottin scaffold"	GO:0097110	scaffold protein binding	 
+IPR015385	F	"Bacteriophage P22, Gp8, scaffold"	GO:0097110	scaffold protein binding	 
+IPR014131	F	"Chlamydia phage, Vp3, scaffold"	GO:0097110	scaffold protein binding	 
+IPR011339	F	"ISC system FeS cluster assembly, IscU scaffold"	GO:0097110	scaffold protein binding	 
+IPR011302	F	"ISC system FeS cluster assembly, IscA scaffold"	GO:0097110	scaffold protein binding	 
+IPR011298	F	"SUF system FeS cluster assembly, SufA scaffold"	GO:0097110	scaffold protein binding	 
+IPR011341	F	"SUF system FeS cluster assembly, SufU scaffold"	GO:0097110	scaffold protein binding	 
+IPR004281	F	Interleukin-12 alpha subunit	GO:0042164	interleukin-12 alpha subunit binding	 
+IPR015459	F	Ubiquitin-protein ligase E3 MDM2	GO:0097371	MDM2/MDM4 family protein binding	 
+IPR015458	F	MDM4	GO:0097371	MDM2/MDM4 family protein binding	 
+IPR024390	F	"RNA polymerase, 132kDa subunit, poxvirus-type"	GO:0070063	RNA polymerase binding	 
+IPR024596	F	DNA-directed RNA polymerase subunit beta/EpuA	GO:0070063	RNA polymerase binding	 
+IPR016406	F	"Cystovirus, RNA-directed RNA polymerase"	GO:0070063	RNA polymerase binding	 
+IPR024661	F	"DNA-directed RNA polymerase III, subunit Rpc31"	GO:0070063	RNA polymerase binding	 
+IPR016269	F	"RNA-directed RNA polymerase, paramyxovirus"	GO:0070063	RNA polymerase binding	 
+IPR016268	F	"RNA-directed RNA polymerase, hantavirus"	GO:0070063	RNA polymerase binding	 
+IPR016629	F	"RNA polymerase I, subunit A (TATA-binding protein-associated factor)"	GO:0070063	RNA polymerase binding	 
+IPR016264	F	"DNA-directed RNA polymerase III, subunit Rpc31, fungi"	GO:0070063	RNA polymerase binding	 
+IPR016262	F	"RNA polymerase sigma factor, SigB/SigC/SigD, plastid"	GO:0070063	RNA polymerase binding	 
+IPR015700	F	DNA-directed RNA polymerase III largest subunit	GO:0070063	RNA polymerase binding	 
+IPR022905	F	DNA-directed RNA polymerase subunit L (Rpo11)	GO:0070063	RNA polymerase binding	 
+IPR023464	F	DNA-directed RNA polymerase subunit P (Rpo12)	GO:0070063	RNA polymerase binding	 
+IPR019969	F	DNA-directed RNA polymerase subunit B (Rpo2)	GO:0070063	RNA polymerase binding	 
+IPR017235	F	"RNA-directed RNA polymerase L, filovirus"	GO:0070063	RNA polymerase binding	 
+IPR017234	F	"RNA-directed RNA polymerase, rhabdovirus"	GO:0070063	RNA polymerase binding	 
+IPR022842	F	DNA-directed RNA polymerase subunit D (Rpo3)	GO:0070063	RNA polymerase binding	 
+IPR020609	F	DNA-directed RNA polymerase subunit H	GO:0070063	RNA polymerase binding	 
+IPR012915	F	Reovirus RNA-dependent RNA polymerase lambda 3	GO:0070063	RNA polymerase binding	 
+IPR011773	F	"DNA-directed RNA polymerase, alpha subunit"	GO:0070063	RNA polymerase binding	 
+IPR008686	F	"RNA-dependent RNA polymerase, mitoviral"	GO:0070063	RNA polymerase binding	 
+IPR013240	F	"DNA-directed RNA polymerase I, subunit RPA34.5"	GO:0070063	RNA polymerase binding	 
+IPR013239	F	"RNA polymerase I, subunit RPA14, fungi"	GO:0070063	RNA polymerase binding	 
+IPR011517	F	RNA polymerase sigma-70 ECF-like	GO:0070063	RNA polymerase binding	 
+IPR014385	F	"RNA-directed RNA polymerase, phlebovirus"	GO:0070063	RNA polymerase binding	 
+IPR014384	F	"RNA-directed RNA polymerase, orthobunyavirus"	GO:0070063	RNA polymerase binding	 
+IPR014383	F	"RNA-directed RNA polymerase, phytoreovirus"	GO:0070063	RNA polymerase binding	 
+IPR014381	F	"DNA-directed RNA polymerase, RPB5 subunit"	GO:0070063	RNA polymerase binding	 
+IPR008723	F	"RNA-dependent RNA polymerase, orbiviral"	GO:0070063	RNA polymerase binding	 
+IPR015712	F	"DNA-directed RNA polymerase, subunit 2"	GO:0070063	RNA polymerase binding	 
+IPR014244	F	RNA polymerase sigma-I type	GO:0070063	RNA polymerase binding	 
+IPR014236	F	RNA polymerase sigma-F type	GO:0070063	RNA polymerase binding	 
+IPR014218	F	RNA polymerase sigma-H type	GO:0070063	RNA polymerase binding	 
+IPR010453	F	"RNA polymerase, arenaviral"	GO:0070063	RNA polymerase binding	 
+IPR006111	F	"DNA-directed RNA polymerase, subunit K/Rpb6"	GO:0070063	RNA polymerase binding	 
+IPR006110	F	"RNA polymerase, subunit omega/K/RPABC2"	GO:0070063	RNA polymerase binding	 
+IPR014331	F	"RNA polymerase sigma-70 ECF-like, Rhodopirellula baltica"	GO:0070063	RNA polymerase binding	 
+IPR015843	F	"RNA-directed RNA polymerase, nairovirus"	GO:0070063	RNA polymerase binding	 
+IPR015842	F	"RNA-directed RNA polymerase, tenuivirus"	GO:0070063	RNA polymerase binding	 
+IPR015841	F	"RNA-directed RNA polymerase, tospovirus"	GO:0070063	RNA polymerase binding	 
+IPR012758	F	DNA-directed RNA polymerase subunit A' (Rpo1N)	GO:0070063	RNA polymerase binding	 
+IPR012757	F	DNA-directed RNA polymerase subunit A'' (Rpo1C)	GO:0070063	RNA polymerase binding	 
+IPR012756	F	"DNA-directed RNA polymerase, subunit beta''"	GO:0070063	RNA polymerase binding	 
+IPR012755	F	"DNA-directed RNA polymerase, subunit gamma"	GO:0070063	RNA polymerase binding	 
+IPR012754	F	"DNA-directed RNA polymerase, subunit beta-prime"	GO:0070063	RNA polymerase binding	 
+IPR014327	F	"RNA polymerase sigma-70, Bacteroidetes type"	GO:0070063	RNA polymerase binding	 
+IPR014326	F	"RNA polymerase sigma-E type, Rhodopirellula baltica"	GO:0070063	RNA polymerase binding	 
+IPR014325	F	"RNA polymerase sigma-E type, actinobacteria"	GO:0070063	RNA polymerase binding	 
+IPR014322	F	RNA polymerase sigma-B/F/G type	GO:0070063	RNA polymerase binding	 
+IPR014305	F	"RNA polymerase sigma-G type, actinobacteria"	GO:0070063	RNA polymerase binding	 
+IPR014304	F	RNA polymerase sigma-Z type	GO:0070063	RNA polymerase binding	 
+IPR014303	F	"RNA polymerase sigma-70, ECF type"	GO:0070063	RNA polymerase binding	 
+IPR014300	F	RNA polymerase sigma-V type	GO:0070063	RNA polymerase binding	 
+IPR014298	F	RNA polymerase sigma-X type	GO:0070063	RNA polymerase binding	 
+IPR014296	F	"RNA polymerase sigma-M, bacillaceae"	GO:0070063	RNA polymerase binding	 
+IPR009162	F	"RNA polymerase, 30kDa subunit, chordopox-type"	GO:0070063	RNA polymerase binding	 
+IPR014212	F	RNA polymerase sigma-G type	GO:0070063	RNA polymerase binding	 
+IPR014209	F	RNA polymerase sigma-K type	GO:0070063	RNA polymerase binding	 
+IPR014200	F	RNA polymerase sigma-E type	GO:0070063	RNA polymerase binding	 
+IPR014294	F	"RNA polymerase sigma-W, bacillaceae"	GO:0070063	RNA polymerase binding	 
+IPR014293	F	"RNA polymerase sigma-70, actinobacteria"	GO:0070063	RNA polymerase binding	 
+IPR014289	F	RNA polymerase sigma-24-related	GO:0070063	RNA polymerase binding	 
+IPR014288	F	RNA polymerase sigma-B type	GO:0070063	RNA polymerase binding	 
+IPR014286	F	RNA polymerase sigma-70 RpoE type	GO:0070063	RNA polymerase binding	 
+IPR008448	F	"DNA-directed RNA polymerase, 7kDa polypeptide, chordopoxviral"	GO:0070063	RNA polymerase binding	 
+IPR016049	F	RNA polymerase Rpc34-like	GO:0070063	RNA polymerase binding	 
+IPR012164	F	"DNA-directed RNA polymerase, subunit C11/M/9"	GO:0070063	RNA polymerase binding	 
+IPR010243	F	"DNA-directed RNA polymerase, beta subunit"	GO:0070063	RNA polymerase binding	 
+IPR002166	F	"RNA dependent RNA polymerase, hepatitis C virus"	GO:0070063	RNA polymerase binding	 
+IPR002092	F	"DNA-directed RNA polymerase, phage-type"	GO:0070063	RNA polymerase binding	 
+IPR006886	F	DNA-directed RNA polymerase III subunit Rpc5	GO:0070063	RNA polymerase binding	 
+IPR007984	F	"DNA-directed RNA polymerase, 19kDa subunit, poxviral"	GO:0070063	RNA polymerase binding	 
+IPR007937	F	"RNA polymerase, 22kDa subunit, poxviral"	GO:0070063	RNA polymerase binding	 
+IPR001795	F	"RNA-directed RNA polymerase, luteovirus"	GO:0070063	RNA polymerase binding	 
+IPR006811	F	RNA polymerase II subunit A	GO:0070063	RNA polymerase binding	 
+IPR006288	F	Transcription factor S	GO:0070063	RNA polymerase binding	 
+IPR001407	F	"RNA-dependent RNA polymerase, PB1 subunit, Influenza-type"	GO:0070063	RNA polymerase binding	 
+IPR001591	F	"RNA polymerase, PB2 subunit, orthomyxoviridae"	GO:0070063	RNA polymerase binding	 
+IPR007855	F	"RNA-dependent RNA polymerase, eukaryotic-type"	GO:0070063	RNA polymerase binding	 
+IPR007832	F	RNA polymerase Rpc34	GO:0070063	RNA polymerase binding	 
+IPR007811	F	RNA polymerase III Rpc4	GO:0070063	RNA polymerase binding	 
+IPR001009	F	"RNA-directed RNA polymerase, influenzavirus"	GO:0070063	RNA polymerase binding	 
+IPR003716	F	"DNA-directed RNA polymerase, omega subunit"	GO:0070063	RNA polymerase binding	 
+IPR005059	F	"DNA-directed RNA polymerase, 35kDa subunit, poxviral"	GO:0070063	RNA polymerase binding	 
+IPR005574	F	"RNA polymerase II, Rpb4"	GO:0070063	RNA polymerase binding	 
+IPR005570	F	"RNA polymerase, Rpb8"	GO:0070063	RNA polymerase binding	 
+IPR004519	F	"DNA-directed RNA polymerase, subunit E/RPC8"	GO:0070063	RNA polymerase binding	 
+IPR007759	F	DNA-directed RNA polymerase delta subunit	GO:0070063	RNA polymerase binding	 
+IPR001205	D	"RNA-directed RNA polymerase,  C-terminal domain"	GO:0070063	RNA polymerase binding	 
+IPR006591	F	RNA polymerase archaeal subunit P/eukaryotic subunit RPC10	GO:0070063	RNA polymerase binding	 
+IPR000268	F	"DNA-directed RNA polymerase, subunit N/Rpb10"	GO:0070063	RNA polymerase binding	 
+IPR004973	F	"DNA-directed RNA polymerase, 18kDa subunit, poxviral"	GO:0070063	RNA polymerase binding	 
+IPR007178	F	DNA-directed RNA polymerase subunit E2	GO:0070063	RNA polymerase binding	 
+IPR007100	F	"RNA-directed RNA polymerase, birnavirus"	GO:0070063	RNA polymerase binding	 

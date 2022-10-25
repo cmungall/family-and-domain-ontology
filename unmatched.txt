@@ -1,0 +1,496 @@
+IPRGO:0000149 ! SNARE	IPR:000000 ! domain
+IPRGO:0000993 ! RNA polymerase II core	IPRGO:0001099 ! basal RNA polymerase II transcription machinery,IPRGO:0032403,IPRGO:0043175 ! RNA polymerase core enzyme
+IPRGO:0000994 ! RNA polymerase III core	IPRGO:0043175 ! RNA polymerase core enzyme
+IPRGO:0001000 ! bacterial-type RNA polymerase core enzyme	IPRGO:0043175 ! RNA polymerase core enzyme
+IPRGO:0001001 ! mitochondrial single-subunit type RNA polymerase	IPRGO:0001050 ! single-subunit type RNA polymerase
+IPRGO:0001025 ! RNA polymerase III transcription factor	IPRGO:0008134 ! transcription factor
+IPRGO:0001042 ! RNA polymerase I core	IPRGO:0043175 ! RNA polymerase core enzyme
+IPRGO:0001048 ! RNA polymerase IV core	IPRGO:0043175 ! RNA polymerase core enzyme
+IPRGO:0001049 ! RNA polymerase V core	IPRGO:0043175 ! RNA polymerase core enzyme
+IPRGO:0001050 ! single-subunit type RNA polymerase	IPRGO:0070063 ! RNA polymerase
+IPRGO:0001051 ! plastid single-subunit type RNA polymerase	IPRGO:0001050 ! single-subunit type RNA polymerase
+IPRGO:0001052 ! plastid PEP RNA polymerase core enzyme	IPRGO:0001000 ! bacterial-type RNA polymerase core enzyme
+IPRGO:0001085 ! RNA polymerase II transcription factor	IPRGO:0008134 ! transcription factor
+IPRGO:0001091 ! RNA polymerase II basal transcription factor	IPRGO:0001085 ! RNA polymerase II transcription factor,IPRGO:0001099 ! basal RNA polymerase II transcription machinery
+IPRGO:0001092 ! TFIIA-class transcription factor	IPRGO:0001091 ! RNA polymerase II basal transcription factor
+IPRGO:0001093 ! TFIIB-class transcription factor	IPRGO:0001091 ! RNA polymerase II basal transcription factor
+IPRGO:0001094 ! TFIID-class transcription factor	IPRGO:0001091 ! RNA polymerase II basal transcription factor
+IPRGO:0001095 ! TFIIE-class transcription factor	IPRGO:0001091 ! RNA polymerase II basal transcription factor
+IPRGO:0001096 ! TFIIF-class transcription factor	IPRGO:0001091 ! RNA polymerase II basal transcription factor
+IPRGO:0001097 ! TFIIH-class transcription factor	IPRGO:0001091 ! RNA polymerase II basal transcription factor
+IPRGO:0001098 ! basal transcription machinery	IPRGO:0005515
+IPRGO:0001099 ! basal RNA polymerase II transcription machinery	IPRGO:0001098 ! basal transcription machinery
+IPRGO:0001102 ! RNA polymerase II activating transcription factor	IPRGO:0001085 ! RNA polymerase II transcription factor,IPRGO:0033613 ! activating transcription factor
+IPRGO:0001103 ! RNA polymerase II repressing transcription factor	IPRGO:0001085 ! RNA polymerase II transcription factor,IPRGO:0070491 ! repressing transcription factor
+IPRGO:0001108 ! bacterial-type RNA polymerase holo enzyme	IPRGO:0001098 ! basal transcription machinery
+IPRGO:0001154 ! TFIIIB-class transcription factor	IPRGO:0001025 ! RNA polymerase III transcription factor
+IPRGO:0001155 ! TFIIIA-class transcription factor	IPRGO:0001025 ! RNA polymerase III transcription factor
+IPRGO:0001156 ! TFIIIC-class transcription factor	IPRGO:0001025 ! RNA polymerase III transcription factor
+IPRGO:0001179 ! RNA polymerase I transcription factor	IPRGO:0008134 ! transcription factor
+IPRGO:0001221 ! transcription cofactor	IPRGO:0008134 ! transcription factor
+IPRGO:0001222 ! transcription corepressor	IPRGO:0001221 ! transcription cofactor
+IPRGO:0001223 ! transcription coactivator	IPRGO:0001221 ! transcription cofactor
+IPRGO:0001224 ! RNA polymerase II transcription cofactor	IPRGO:0001221 ! transcription cofactor
+IPRGO:0001225 ! RNA polymerase II transcription coactivator	IPRGO:0001223 ! transcription coactivator,IPRGO:0001224 ! RNA polymerase II transcription cofactor
+IPRGO:0001226 ! RNA polymerase II transcription corepressor	IPRGO:0001222 ! transcription corepressor,IPRGO:0001224 ! RNA polymerase II transcription cofactor
+IPRGO:0001664 ! G-protein coupled receptor	IPRGO:0005102 ! receptor
+IPRGO:0001784 ! phosphotyrosine	IPRGO:0045309 ! protein phosphorylated amino acid
+IPRGO:0001790 ! polymeric immunoglobulin	IPR:013151 ! immunoglobulin
+IPRGO:0001791 ! IgM	IPR:013151 ! immunoglobulin
+IPRGO:0001846 ! opsonin	IPRGO:0005515
+IPRGO:0001848 ! complement	IPR:000000 ! domain
+IPRGO:0001849 ! complement component C1q	IPRGO:0001846 ! opsonin,IPRGO:0001848 ! complement
+IPRGO:0001850 ! complement component C3a	IPRGO:0001848 ! complement
+IPRGO:0001851 ! complement component C3b	IPRGO:0001846 ! opsonin,IPRGO:0001848 ! complement
+IPRGO:0001852 ! complement component iC3b	IPRGO:0001846 ! opsonin,IPRGO:0001848 ! complement
+IPRGO:0001853 ! complement component C3dg	IPRGO:0001848 ! complement
+IPRGO:0001854 ! complement component C3d	IPRGO:0001848 ! complement
+IPRGO:0001855 ! complement component C4b	IPRGO:0001846 ! opsonin,IPRGO:0001848 ! complement
+IPRGO:0001856 ! complement component C5a	IPRGO:0001848 ! complement
+IPRGO:0001862 ! collectin	IPRGO:0001846 ! opsonin
+IPRGO:0001864 ! pentraxin	IPRGO:0001846 ! opsonin
+IPRGO:0001918 ! farnesylated protein	IPRGO:0005515
+IPRGO:0001965 ! G-protein alpha-subunit	IPR:000000 ! domain
+IPRGO:0002020 ! protease	IPRGO:0019899 ! enzyme
+IPRGO:0002039 ! p53	IPR:000000 ! domain
+IPRGO:0002112 ! interleukin-33 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0003779 ! actin	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0003785 ! actin monomer	IPRGO:0003779 ! actin
+IPRGO:0003786 ! actin lateral	IPRGO:0051015 ! actin filament
+IPRGO:0004623 ! phospholipase A2 activity	IPR:000000 ! domain
+IPRGO:0004629 ! phospholipase C activity	IPR:000000 ! domain
+IPRGO:0005102 ! receptor	IPR:000000 ! domain
+IPRGO:0005105 ! type 1 fibroblast growth factor receptor	IPRGO:0005104
+IPRGO:0005115 ! receptor tyrosine kinase-like orphan receptor	IPRGO:0005102 ! receptor
+IPRGO:0005117 ! wishful thinking	IPRGO:0005102 ! receptor
+IPRGO:0005118 ! sevenless	IPRGO:0005102 ! receptor
+IPRGO:0005121 ! Toll	IPRGO:0005102 ! receptor
+IPRGO:0005123 ! death receptor	IPR:000000 ! domain
+IPRGO:0005124 ! scavenger receptor	IPRGO:0005102 ! receptor
+IPRGO:0005126 ! cytokine receptor	IPRGO:0005102 ! receptor
+IPRGO:0005127 ! ciliary neurotrophic factor receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005129 ! granulocyte macrophage colony-stimulating factor receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005132 ! type I interferon receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0032403
+IPRGO:0005133 ! interferon-gamma receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005134 ! interleukin-2 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005135 ! interleukin-3 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005136 ! interleukin-4 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005137 ! interleukin-5 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005138 ! interleukin-6 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005139 ! interleukin-7 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005141 ! interleukin-10 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005143 ! interleukin-12 receptor	IPRGO:0005126 ! cytokine receptor,IPRGO:0070851 ! growth factor receptor
+IPRGO:0005144 ! interleukin-13 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005145 ! interleukin-14 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005147 ! oncostatin-M receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005150 ! interleukin-1, Type I receptor	IPR:015621 ! interleukin-1 receptor
+IPRGO:0005153 ! interleukin-8 receptor	IPRGO:0045236 ! CXCR chemokine receptor
+IPRGO:0005157 ! macrophage colony-stimulating factor receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005158 ! insulin receptor	IPR:000000 ! domain
+IPRGO:0005159 ! insulin-like growth factor receptor	IPRGO:0005102 ! receptor
+IPRGO:0005160 ! transforming growth factor beta receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005161 ! platelet-derived growth factor receptor	IPRGO:0070851 ! growth factor receptor
+IPRGO:0005164 ! tumor necrosis factor receptor	IPRGO:0032813 ! tumor necrosis factor receptor superfamily
+IPRGO:0005165 ! neurotrophin receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0005166 ! neurotrophin p75 receptor	IPRGO:0005165 ! neurotrophin receptor
+IPRGO:0005167 ! neurotrophin TRK receptor	IPRGO:0005165 ! neurotrophin receptor
+IPRGO:0005168 ! neurotrophin TRKA receptor	IPRGO:0005167 ! neurotrophin TRK receptor
+IPRGO:0005169 ! neurotrophin TRKB receptor	IPRGO:0005167 ! neurotrophin TRK receptor
+IPRGO:0005170 ! neurotrophin TRKC receptor	IPRGO:0005167 ! neurotrophin TRK receptor
+IPRGO:0005174 ! CD40 receptor	IPRGO:0032813 ! tumor necrosis factor receptor superfamily
+IPRGO:0005175 ! CD27 receptor	IPRGO:0032813 ! tumor necrosis factor receptor superfamily
+IPRGO:0005176 ! ErbB-2 class receptor	IPRGO:0005102 ! receptor
+IPRGO:0005178 ! integrin	IPRGO:0005102 ! receptor,IPRGO:0032403,IPRGO:0050839 ! cell adhesion molecule
+IPRGO:0005179 ! hormone activity	IPR:000000 ! domain
+IPRGO:0005184 ! neuropeptide hormone activity	IPR:000000 ! domain
+IPRGO:0005484 ! SNAP receptor activity	IPR:000000 ! domain
+IPRGO:0005519 ! cytoskeletal regulatory protein	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0008022 ! protein C-terminus	IPRGO:0005515
+IPRGO:0008084 ! imaginal disc growth factor receptor	IPRGO:0070851 ! growth factor receptor
+IPRGO:0008092 ! cytoskeletal protein	IPR:000000 ! domain
+IPRGO:0008134 ! transcription factor	IPR:000000 ! domain
+IPRGO:0008157 ! protein phosphatase 1	IPRGO:0019903 ! protein phosphatase
+IPRGO:0008179 ! adenylate cyclase	IPR:000000 ! domain
+IPRGO:0008267 ! poly-glutamine tract	IPRGO:0005515
+IPRGO:0008317 ! gurken receptor	IPRGO:0005154
+IPRGO:0010180 ! thioglucosidase	IPRGO:0019899 ! enzyme
+IPRGO:0010997 ! anaphase-promoting complex	IPR:000000 ! domain
+IPRGO:0016170 ! interleukin-15 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0016922 ! ligand-dependent nuclear receptor	IPRGO:0005102 ! receptor
+IPRGO:0017016 ! Ras GTPase	IPRGO:0031267
+IPRGO:0017022 ! myosin	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0017024 ! myosin I	IPRGO:0017022 ! myosin
+IPRGO:0017025 ! TBP-class protein	IPRGO:0008134 ! transcription factor
+IPRGO:0017046 ! peptide hormone	IPR:000000 ! domain
+IPRGO:0017048 ! Rho GTPase	IPR:000000 ! domain,IPRGO:0017016 ! Ras GTPase
+IPRGO:0017049 ! GTP-Rho	IPRGO:0017048 ! Rho GTPase
+IPRGO:0017058 ! FH1 domain	IPR:000000 ! domain
+IPRGO:0017137 ! Rab GTPase	IPR:000000 ! domain,IPRGO:0017016 ! Ras GTPase
+IPRGO:0017147 ! Wnt-protein	IPR:000000 ! domain
+IPRGO:0017151 ! DEAD/H-box RNA helicase	IPRGO:0019899 ! enzyme
+IPRGO:0017160 ! Ral GTPase	IPRGO:0017016 ! Ras GTPase
+IPRGO:0019838 ! growth factor	IPR:000000 ! domain,NCBITaxon_Union:0000023
+IPRGO:0019862 ! IgA	IPR:013151 ! immunoglobulin
+IPRGO:0019863 ! IgE	IPR:013151 ! immunoglobulin
+IPRGO:0019864 ! IgG	IPR:013151 ! immunoglobulin
+IPRGO:0019894 ! kinesin	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0019899 ! enzyme	IPR:000000 ! domain
+IPRGO:0019900 ! kinase	IPRGO:0019899 ! enzyme
+IPRGO:0019902 ! phosphatase	IPRGO:0019899 ! enzyme
+IPRGO:0019903 ! protein phosphatase	IPRGO:0019902 ! phosphatase
+IPRGO:0019905 ! syntaxin	IPRGO:0000149 ! SNARE
+IPRGO:0019955 ! cytokine	IPR:000000 ! domain
+IPRGO:0019956 ! chemokine	IPRGO:0019955 ! cytokine
+IPRGO:0019957 ! C-C chemokine	IPRGO:0019956 ! chemokine
+IPRGO:0019960 ! C-X3-C chemokine	IPRGO:0019956 ! chemokine
+IPRGO:0019961 ! interferon	IPRGO:0019955 ! cytokine
+IPRGO:0019972 ! interleukin-12	IPRGO:0019955 ! cytokine
+IPRGO:0019974 ! interleukin-14	IPRGO:0019955 ! cytokine
+IPRGO:0023027 ! MHC class I protein, via antigen binding groove	IPRGO:0042288 ! MHC class I protein,IPRGO:0023024
+IPRGO:0023028 ! MHC class I protein, via lateral surface	IPRGO:0042288 ! MHC class I protein
+IPRGO:0023029 ! MHC class Ib protein	IPRGO:0042287 ! MHC protein
+IPRGO:0023030 ! MHC class Ib protein, via antigen binding groove	IPRGO:0023029 ! MHC class Ib protein,IPRGO:0023025
+IPRGO:0023031 ! MHC class Ib protein, via lateral surface	IPRGO:0023029 ! MHC class Ib protein
+IPRGO:0030156 ! benzodiazepine receptor	IPRGO:0005102 ! receptor
+IPRGO:0030172 ! troponin C	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0030215 ! semaphorin receptor	IPRGO:0005102 ! receptor
+IPRGO:0030274 ! LIM domain	IPR:000000 ! domain
+IPRGO:0030275 ! LRR domain	IPR:000000 ! domain
+IPRGO:0030276 ! clathrin	IPRGO:0005515
+IPRGO:0030331 ! estrogen receptor	IPR:000000 ! domain
+IPRGO:0030332 ! cyclin	IPR:000000 ! domain
+IPRGO:0030346 ! protein phosphatase 2B	IPRGO:0019903 ! protein phosphatase
+IPRGO:0030367 ! interleukin-17 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0030370 ! intercellular adhesion molecule-3 receptor	IPRGO:0005102 ! receptor
+IPRGO:0030372 ! high molecular weight B cell growth factor receptor	IPRGO:0070851 ! growth factor receptor
+IPRGO:0030380 ! interleukin-17E receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0030492 ! hemoglobin	IPR:000000 ! domain
+IPRGO:0030506 ! ankyrin	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0030544 ! Hsp70 protein	IPRGO:0031072 ! heat shock protein
+IPRGO:0030674 ! protein, bridging	IPRGO:0005515,IPRGO:0060090
+IPRGO:0030742 ! GTP-dependent protein	IPRGO:0005515
+IPRGO:0030911 ! TPR domain	IPR:000000 ! domain
+IPRGO:0030957 ! Tat protein	IPRGO:0008134 ! transcription factor
+IPRGO:0030971 ! receptor tyrosine kinase	IPRGO:0005102 ! receptor
+IPRGO:0030986 ! low molecular weight kininogen	IPR:002395 ! kininogen
+IPRGO:0030987 ! high molecular weight kininogen receptor	IPRGO:0005102 ! receptor
+IPRGO:0031013 ! troponin I	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0031072 ! heat shock protein	IPR:000000 ! domain
+IPRGO:0031208 ! POZ domain	IPR:000000 ! domain
+IPRGO:0031249 ! denatured protein	IPRGO:0005515
+IPRGO:0031369 ! translation initiation factor	IPR:000000 ! domain
+IPRGO:0031370 ! eukaryotic initiation factor 4G	IPRGO:0031369 ! translation initiation factor
+IPRGO:0031423 ! hexon	IPRGO:0005515
+IPRGO:0031434 ! mitogen-activated protein kinase kinase	IPR:000719 ! protein kinase
+IPRGO:0031435 ! mitogen-activated protein kinase kinase kinase	IPR:000000 ! domain
+IPRGO:0031473 ! myosin III	IPRGO:0017022 ! myosin
+IPRGO:0031489 ! myosin V	IPRGO:0017022 ! myosin
+IPRGO:0031492 ! nucleosomal DNA	IPRGO:0031490,IPRGO:0031491
+IPRGO:0031493 ! nucleosomal histone	IPRGO:0031491,IPRGO:0042393 ! histone
+IPRGO:0031546 ! brain-derived neurotrophic factor receptor	IPRGO:0005165 ! neurotrophin receptor
+IPRGO:0031593 ! polyubiquitin	IPRGO:0043130
+IPRGO:0031624 ! ubiquitin conjugating enzyme	IPRGO:0044390 ! small protein conjugating enzyme
+IPRGO:0031625 ! ubiquitin protein ligase	IPRGO:0044389 ! small conjugating protein ligase
+IPRGO:0031690 ! adrenergic receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031700 ! adrenomedullin receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031701 ! angiotensin receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031702 ! type 1 angiotensin receptor	IPRGO:0031701 ! angiotensin receptor
+IPRGO:0031703 ! type 2 angiotensin receptor	IPRGO:0031701 ! angiotensin receptor
+IPRGO:0031706 ! subtype 3 bombesin receptor	IPR:001556 ! bombesin receptor
+IPRGO:0031715 ! C5L2 anaphylatoxin chemotactic receptor	IPRGO:0031714
+IPRGO:0031716 ! calcitonin receptor	IPR:000000 ! domain
+IPRGO:0031721 ! hemoglobin alpha	IPRGO:0030492 ! hemoglobin
+IPRGO:0031722 ! hemoglobin beta	IPRGO:0030492 ! hemoglobin
+IPRGO:0031724 ! CXCR5 chemokine receptor	IPRGO:0045236 ! CXCR chemokine receptor
+IPRGO:0031725 ! CXCR6 chemokine receptor	IPRGO:0045236 ! CXCR chemokine receptor
+IPRGO:0031726 ! CCR1 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031729 ! CCR4 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031730 ! CCR5 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031733 ! CCR8 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031734 ! CCR9 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031735 ! CCR10 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031736 ! CCR11 chemokine receptor	IPRGO:0048020 ! CCR chemokine receptor
+IPRGO:0031737 ! CX3C chemokine receptor	IPR:000000 ! domain
+IPRGO:0031741 ! type B gastrin/cholecystokinin receptor	IPRGO:0031739
+IPRGO:0031753 ! endothelial differentiation G-protein coupled receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031767 ! gastric inhibitory polypeptide receptor	IPR:000000 ! domain
+IPRGO:0031769 ! glucagon receptor	IPR:000000 ! domain
+IPRGO:0031774 ! leukotriene receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031780 ! corticotropin hormone receptor	IPR:000000 ! domain
+IPRGO:0031787 ! H9 melatonin receptor	IPR:000025 ! melatonin receptor
+IPRGO:0031795 ! G-protein coupled GABA receptor	IPRGO:0001664 ! G-protein coupled receptor,IPRGO:0050811 ! GABA receptor
+IPRGO:0031796 ! type 1 metabotropic GABA receptor	IPRGO:0031795 ! G-protein coupled GABA receptor
+IPRGO:0031797 ! type 2 metabotropic GABA receptor	IPRGO:0031795 ! G-protein coupled GABA receptor
+IPRGO:0031798 ! type 1 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031799 ! type 2 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031800 ! type 3 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031801 ! type 4 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031802 ! type 5 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031803 ! type 6 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031804 ! type 7 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031805 ! type 8 metabotropic glutamate receptor	IPRGO:0035256 ! G-protein coupled glutamate receptor
+IPRGO:0031806 ! G-protein coupled histamine receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031811 ! G-protein coupled nucleotide receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031812 ! P2Y1 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031813 ! P2Y2 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031814 ! P2Y4 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031815 ! P2Y5 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031816 ! P2Y6 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031817 ! P2Y8 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031818 ! P2Y9 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031819 ! P2Y10 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031820 ! P2Y11 nucleotide receptor	IPRGO:0031811 ! G-protein coupled nucleotide receptor
+IPRGO:0031821 ! G-protein coupled serotonin receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031835 ! substance P receptor	IPR:001681 ! neurokinin receptor
+IPRGO:0031836 ! neuromedin K receptor	IPR:001681 ! neurokinin receptor
+IPRGO:0031837 ! substance K receptor	IPR:001681 ! neurokinin receptor
+IPRGO:0031842 ! type 1 neuropeptide Y receptor	IPR:000611 ! type 2 neuropeptide Y receptor
+IPRGO:0031844 ! type 4 neuropeptide Y receptor	IPR:000611 ! type 2 neuropeptide Y receptor
+IPRGO:0031845 ! type 5 neuropeptide Y receptor	IPR:000611 ! type 2 neuropeptide Y receptor
+IPRGO:0031856 ! parathyroid hormone receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031857 ! type 1 parathyroid hormone receptor	IPRGO:0031856 ! parathyroid hormone receptor
+IPRGO:0031858 ! pituitary adenylate cyclase-activating polypeptide receptor	IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0031869 ! prostacyclin receptor	IPR:000000 ! domain
+IPRGO:0031871 ! proteinase activated receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031873 ! type 2 proteinase activated receptor	IPRGO:0031871 ! proteinase activated receptor
+IPRGO:0031874 ! type 3 proteinase activated receptor	IPRGO:0031871 ! proteinase activated receptor
+IPRGO:0031875 ! type 4 proteinase activated receptor	IPRGO:0031871 ! proteinase activated receptor
+IPRGO:0031876 ! secretin receptor	IPR:000000 ! domain
+IPRGO:0031883 ! taste receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031884 ! type 1 member 1 taste receptor	IPRGO:0031883 ! taste receptor
+IPRGO:0031885 ! type 1 member 2 taste receptor	IPRGO:0031883 ! taste receptor
+IPRGO:0031886 ! type 1 member 3 taste receptor	IPRGO:0031883 ! taste receptor
+IPRGO:0031889 ! urotensin receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0031890 ! vasoactive intestinal polypeptide receptor	IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0031891 ! type 1 vasoactive intestinal polypeptide receptor	IPRGO:0031890 ! vasoactive intestinal polypeptide receptor
+IPRGO:0031892 ! type 2 vasoactive intestinal polypeptide receptor	IPRGO:0031890 ! vasoactive intestinal polypeptide receptor
+IPRGO:0031961 ! cortisol receptor	IPR:001409 ! glucocorticoid receptor
+IPRGO:0031997 ! N-terminal myristoylation domain	IPRGO:0047485 ! protein N-terminus
+IPRGO:0032003 ! interleukin-28 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0032028 ! myosin head/neck	IPRGO:0032036 ! myosin heavy chain
+IPRGO:0032030 ! myosin I light chain	IPRGO:0017024 ! myosin I,IPRGO:0032027
+IPRGO:0032031 ! myosin I head/neck	IPRGO:0032028 ! myosin head/neck,IPRGO:0032037
+IPRGO:0032032 ! myosin I tail	IPR:002928 ! myosin tail,IPRGO:0032037
+IPRGO:0032033 ! myosin II light chain	IPRGO:0032027,IPRGO:0045159 ! myosin II
+IPRGO:0032034 ! myosin II head/neck	IPRGO:0032028 ! myosin head/neck,IPRGO:0032038 ! myosin II heavy chain
+IPRGO:0032035 ! myosin II tail	IPR:002928 ! myosin tail,IPRGO:0032038 ! myosin II heavy chain
+IPRGO:0032036 ! myosin heavy chain	IPRGO:0017022 ! myosin
+IPRGO:0032038 ! myosin II heavy chain	IPRGO:0032036 ! myosin heavy chain,IPRGO:0045159 ! myosin II
+IPRGO:0032089 ! NACHT domain	IPR:000000 ! domain
+IPRGO:0032182 ! small conjugating protein	IPR:000000 ! domain
+IPRGO:0032183 ! SUMO	IPRGO:0032182 ! small conjugating protein
+IPRGO:0032184 ! SUMO polymer	IPRGO:0032183 ! SUMO
+IPRGO:0032190 ! acrosin	IPR:000000 ! domain
+IPRGO:0032407 ! MutSalpha complex	IPR:000000 ! domain
+IPRGO:0032427 ! GBD domain	IPR:000000 ! domain
+IPRGO:0032767 ! copper-dependent protein	IPRGO:0005515
+IPRGO:0032794 ! GTPase activating protein	IPR:000000 ! domain
+IPRGO:0032795 ! heterotrimeric G-protein	IPRGO:0032403
+IPRGO:0032813 ! tumor necrosis factor receptor superfamily	IPRGO:0005126 ! cytokine receptor
+IPRGO:0032840 ! intramolecular proline-rich ligand	IPRGO:0043621,IPRGO:0070064 ! proline-rich region
+IPRGO:0032947 ! protein complex scaffold	IPR:000000 ! domain
+IPRGO:0033130 ! acetylcholine receptor	IPRGO:0005102 ! receptor
+IPRGO:0033149 ! FFAT motif	IPR:000000 ! domain
+IPRGO:0033612 ! receptor serine/threonine kinase	IPRGO:0005102 ! receptor
+IPRGO:0033613 ! activating transcription factor	IPRGO:0008134 ! transcription factor
+IPRGO:0034185 ! apolipoprotein	IPR:000000 ! domain
+IPRGO:0034190 ! apolipoprotein receptor	IPRGO:0005102 ! receptor
+IPRGO:0034191 ! apolipoprotein A-I receptor	IPRGO:0034190 ! apolipoprotein receptor
+IPRGO:0034236 ! protein kinase A catalytic subunit	IPR:000719 ! protein kinase,IPRGO:0051018 ! protein kinase A
+IPRGO:0034237 ! protein kinase A regulatory subunit	IPRGO:0051018 ! protein kinase A
+IPRGO:0034347 ! type III interferon	IPRGO:0019961 ! interferon
+IPRGO:0034711 ! inhibin	IPRGO:0005515
+IPRGO:0034713 ! type I transforming growth factor beta receptor	IPRGO:0005160 ! transforming growth factor beta receptor
+IPRGO:0034714 ! type III transforming growth factor beta receptor	IPRGO:0005160 ! transforming growth factor beta receptor
+IPRGO:0034987 ! immunoglobulin receptor	IPRGO:0005102 ! receptor
+IPRGO:0035035 ! histone acetyltransferase	IPRGO:0019899 ! enzyme
+IPRGO:0035064 ! methylated histone	IPRGO:0042393 ! histone
+IPRGO:0035254 ! glutamate receptor	IPRGO:0005102 ! receptor
+IPRGO:0035256 ! G-protein coupled glutamate receptor	IPRGO:0001664 ! G-protein coupled receptor,IPRGO:0035254 ! glutamate receptor
+IPRGO:0035257 ! nuclear hormone receptor	IPRGO:0051427 ! hormone receptor
+IPRGO:0035375 ! zymogen	IPRGO:0019899 ! enzyme
+IPRGO:0035500 ! MH2 domain	IPR:000000 ! domain
+IPRGO:0035501 ! MH1 domain	IPR:000000 ! domain
+IPRGO:0036312 ! phosphatidylinositol 3-kinase regulatory subunit	IPRGO:0043548 ! phosphatidylinositol 3-kinase
+IPRGO:0036313 ! phosphatidylinositol 3-kinase catalytic subunit	IPRGO:0019900 ! kinase,IPRGO:0043548 ! phosphatidylinositol 3-kinase
+IPRGO:0036435 ! K48-linked polyubiquitin	IPRGO:0031593 ! polyubiquitin
+IPRGO:0038057 ! TNFSF11	IPRGO:0043120 ! tumor necrosis factor
+IPRGO:0038085 ! vascular endothelial growth factor	IPRGO:0019838 ! growth factor
+IPRGO:0038100 ! nodal	IPRGO:0005515
+IPRGO:0039552 ! RIG-I	IPRGO:0005102 ! receptor
+IPRGO:0039556 ! MDA-5	IPRGO:0005102 ! receptor
+IPRGO:0039603 ! TBP-class protein involved in viral suppression of host transcription initiation from RNA polymerase II promoter	IPRGO:0017025 ! TBP-class protein,IPRGO:0039602
+IPRGO:0039605 ! TFIIB-class transcription factor involved in viral suppression of host transcription initiation from RNA polymerase II promoter	IPRGO:0001093 ! TFIIB-class transcription factor,IPRGO:0039602
+IPRGO:0039706 ! co-receptor	IPRGO:0005515
+IPRGO:0042019 ! interleukin-23	IPRGO:0019955 ! cytokine
+IPRGO:0042021 ! granulocyte macrophage colony-stimulating factor complex	IPRGO:0019955 ! cytokine
+IPRGO:0042043 ! neurexin family protein	IPRGO:0005515
+IPRGO:0042287 ! MHC protein	IPRGO:0005102 ! receptor
+IPRGO:0042288 ! MHC class I protein	IPRGO:0042287 ! MHC protein
+IPRGO:0042289 ! MHC class II protein	IPRGO:0042287 ! MHC protein
+IPRGO:0042393 ! histone	IPR:000000 ! domain
+IPRGO:0042562 ! hormone	IPR:000000 ! domain
+IPRGO:0042608 ! T cell receptor	IPR:000000 ! domain
+IPRGO:0042609 ! CD4 receptor	IPRGO:0005102 ! receptor
+IPRGO:0042610 ! CD8 receptor	IPRGO:0005102 ! receptor
+IPRGO:0042614 ! CD70 receptor	IPRGO:0005102 ! receptor
+IPRGO:0042615 ! CD154 receptor	IPRGO:0005102 ! receptor
+IPRGO:0042657 ! MHC class II protein, via lateral surface	IPRGO:0042289 ! MHC class II protein
+IPRGO:0042658 ! MHC class II protein, via antigen binding groove	IPRGO:0042289 ! MHC class II protein,IPRGO:0023026
+IPRGO:0042731 ! PH domain	IPR:000000 ! domain
+IPRGO:0042802 ! identical protein	IPRGO:0005515
+IPRGO:0042805 ! actinin	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0042923 ! neuropeptide	IPR:000000 ! domain
+IPRGO:0042988 ! X11-like protein	IPRGO:0005515
+IPRGO:0043008 ! ATP-dependent protein	IPRGO:0005515
+IPRGO:0043120 ! tumor necrosis factor	IPRGO:0019955 ! cytokine
+IPRGO:0043125 ! ErbB-3 class receptor	IPRGO:0005102 ! receptor
+IPRGO:0043175 ! RNA polymerase core enzyme	IPRGO:0070063 ! RNA polymerase
+IPRGO:0043236 ! laminin	IPRGO:0005515,IPRGO:0050840
+IPRGO:0043237 ! laminin-1	IPRGO:0043236 ! laminin
+IPRGO:0043274 ! phospholipase	IPRGO:0019899 ! enzyme
+IPRGO:0043394 ! proteoglycan	IPR:000000 ! domain
+IPRGO:0043398 ! HLH domain	IPR:000000 ! domain
+IPRGO:0043423 ! 3-phosphoinositide-dependent protein kinase	IPR:000719 ! protein kinase
+IPRGO:0043424 ! protein histidine kinase	IPR:000719 ! protein kinase
+IPRGO:0043425 ! bHLH transcription factor	IPRGO:0008134 ! transcription factor
+IPRGO:0043472 ! IgD	IPR:013151 ! immunoglobulin
+IPRGO:0043532 ! angiostatin	IPRGO:0005515
+IPRGO:0043548 ! phosphatidylinositol 3-kinase	IPR:000000 ! domain
+IPRGO:0044325 ! ion channel	IPR:000000 ! domain
+IPRGO:0044388 ! small protein activating enzyme	IPRGO:0019899 ! enzyme
+IPRGO:0044389 ! small conjugating protein ligase	IPRGO:0019899 ! enzyme
+IPRGO:0044390 ! small protein conjugating enzyme	IPRGO:0019899 ! enzyme
+IPRGO:0044547 ! DNA topoisomerase	IPRGO:0019899 ! enzyme
+IPRGO:0044548 ! S100 protein	IPRGO:0005515
+IPRGO:0044549 ! GTP cyclohydrolase	IPRGO:0019899 ! enzyme
+IPRGO:0045093 ! interleukin-18 alpha subunit	IPRGO:0042007
+IPRGO:0045094 ! interleukin-18 beta subunit	IPRGO:0042007
+IPRGO:0045159 ! myosin II	IPRGO:0017022 ! myosin
+IPRGO:0045236 ! CXCR chemokine receptor	IPR:000355 ! chemokine receptor
+IPRGO:0045237 ! CXCR1 chemokine receptor	IPRGO:0005153 ! interleukin-8 receptor
+IPRGO:0045238 ! CXCR2 chemokine receptor	IPRGO:0005153 ! interleukin-8 receptor
+IPRGO:0045295 ! gamma-catenin	IPRGO:0005515
+IPRGO:0045309 ! protein phosphorylated amino acid	IPR:004259 ! phosphoprotein
+IPRGO:0045502 ! dynein	IPRGO:0005515
+IPRGO:0045505 ! dynein intermediate chain	IPRGO:0045502 ! dynein
+IPRGO:0045514 ! interleukin-16 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045515 ! interleukin-18 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045516 ! interleukin-19 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045517 ! interleukin-20 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045518 ! interleukin-22 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045520 ! interleukin-24 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045521 ! interleukin-25 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045522 ! interleukin-26 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0045523 ! interleukin-27 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0046332 ! SMAD	IPRGO:0005515
+IPRGO:0046703 ! natural killer cell lectin-like receptor	IPRGO:0005102 ! receptor
+IPRGO:0046789 ! host cell surface receptor	IPRGO:0005102 ! receptor,IPRGO:0046812
+IPRGO:0046875 ! ephrin receptor	IPR:000000 ! domain
+IPRGO:0046965 ! retinoid X receptor	IPR:003078 ! retinoic acid receptor
+IPRGO:0047485 ! protein N-terminus	IPRGO:0005515
+IPRGO:0048020 ! CCR chemokine receptor	IPR:000355 ! chemokine receptor
+IPRGO:0048156 ! tau protein	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:0048185 ! activin	IPRGO:0032403
+IPRGO:0048248 ! CXCR3 chemokine receptor	IPRGO:0045236 ! CXCR chemokine receptor
+IPRGO:0048306 ! calcium-dependent protein	IPRGO:0005515
+IPRGO:0048365 ! Rac GTPase	IPRGO:0017048 ! Rho GTPase
+IPRGO:0048406 ! nerve growth factor	IPR:000000 ! domain
+IPRGO:0048407 ! platelet-derived growth factor	IPRGO:0019838 ! growth factor
+IPRGO:0048495 ! Roundabout	IPRGO:0005102 ! receptor
+IPRGO:0050682 ! AF-2 domain	IPR:000000 ! domain
+IPRGO:0050683 ! AF-1 domain	IPR:000000 ! domain
+IPRGO:0050693 ! LBD domain	IPR:000000 ! domain
+IPRGO:0050733 ! RS domain	IPR:000000 ! domain
+IPRGO:0050750 ! low-density lipoprotein particle receptor	IPRGO:0070325 ! lipoprotein particle receptor
+IPRGO:0050786 ! RAGE receptor	IPRGO:0005102 ! receptor
+IPRGO:0050811 ! GABA receptor	IPRGO:0005102 ! receptor
+IPRGO:0050815 ! phosphoserine	IPRGO:0016597,IPRGO:0045309 ! protein phosphorylated amino acid
+IPRGO:0050816 ! phosphothreonine	IPRGO:0045309 ! protein phosphorylated amino acid
+IPRGO:0050827 ! toxin receptor	IPRGO:0005102 ! receptor
+IPRGO:0050839 ! cell adhesion molecule	IPR:000000 ! domain
+IPRGO:0050998 ! nitric-oxide synthase	IPRGO:0019899 ! enzyme
+IPRGO:0051008 ! Hsp27 protein	IPRGO:0031072 ! heat shock protein
+IPRGO:0051011 ! microtubule minus-end	IPRGO:0008017
+IPRGO:0051015 ! actin filament	IPR:000000 ! domain
+IPRGO:0051018 ! protein kinase A	IPRGO:0005515
+IPRGO:0051019 ! mitogen-activated protein kinase	IPR:000000 ! domain
+IPRGO:0051020 ! GTPase	IPRGO:0019899 ! enzyme
+IPRGO:0051082 ! unfolded protein	IPRGO:0005515
+IPRGO:0051087 ! chaperone	IPR:000000 ! domain
+IPRGO:0051117 ! ATPase	IPRGO:0019899 ! enzyme
+IPRGO:0051371 ! muscle alpha-actinin	IPRGO:0051393 ! alpha-actinin
+IPRGO:0051393 ! alpha-actinin	IPRGO:0042805 ! actinin
+IPRGO:0051400 ! BH domain	IPR:000000 ! domain
+IPRGO:0051427 ! hormone receptor	IPRGO:0005102 ! receptor
+IPRGO:0051428 ! peptide hormone receptor	IPRGO:0051427 ! hormone receptor
+IPRGO:0051429 ! corticotropin-releasing hormone receptor	IPRGO:0051428 ! peptide hormone receptor,IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0051432 ! BH1 domain	IPRGO:0051400 ! BH domain
+IPRGO:0051433 ! BH2 domain	IPRGO:0051400 ! BH domain
+IPRGO:0051434 ! BH3 domain	IPR:000488 ! death domain,IPRGO:0051400 ! BH domain
+IPRGO:0051721 ! protein phosphatase 2A	IPRGO:0019903 ! protein phosphatase
+IPRGO:0051787 ! misfolded protein	IPRGO:0005515
+IPRGO:0051879 ! Hsp90 protein	IPR:000000 ! domain
+IPRGO:0061628 ! H3K27me3 modified histone	IPRGO:0035064 ! methylated histone
+IPRGO:0061629 ! RNA polymerase II sequence-specific DNA transcription factor binding	IPRGO:0001085 ! RNA polymerase II transcription factor
+IPRGO:0070063 ! RNA polymerase	IPRGO:0019899 ! enzyme
+IPRGO:0070064 ! proline-rich region	IPRGO:0005515
+IPRGO:0070119 ! ciliary neurotrophic factor	IPR:000000 ! domain
+IPRGO:0070182 ! DNA polymerase	IPRGO:0019899 ! enzyme
+IPRGO:0070325 ! lipoprotein particle receptor	IPRGO:0005102 ! receptor
+IPRGO:0070326 ! very-low-density lipoprotein particle receptor	IPRGO:0070325 ! lipoprotein particle receptor
+IPRGO:0070410 ! co-SMAD	IPRGO:0046332 ! SMAD
+IPRGO:0070411 ! I-SMAD	IPRGO:0046332 ! SMAD
+IPRGO:0070412 ! R-SMAD	IPRGO:0046332 ! SMAD
+IPRGO:0070491 ! repressing transcription factor	IPRGO:0008134 ! transcription factor
+IPRGO:0070530 ! K63-linked polyubiquitin	IPRGO:0031593 ! polyubiquitin
+IPRGO:0070577 ! lysine-acetylated histone	IPRGO:0042393 ! histone
+IPRGO:0070628 ! proteasome	IPR:000000 ! domain
+IPRGO:0070653 ! high-density lipoprotein particle receptor	IPRGO:0070325 ! lipoprotein particle receptor
+IPRGO:0070678 ! preprotein	IPRGO:0005515
+IPRGO:0070696 ! transmembrane receptor protein serine/threonine kinase	IPRGO:0033612 ! receptor serine/threonine kinase
+IPRGO:0070697 ! activin receptor	IPRGO:0070696 ! transmembrane receptor protein serine/threonine kinase
+IPRGO:0070698 ! type I activin receptor	IPRGO:0070697 ! activin receptor
+IPRGO:0070699 ! type II activin receptor	IPRGO:0070697 ! activin receptor
+IPRGO:0070700 ! BMP receptor	IPRGO:0070696 ! transmembrane receptor protein serine/threonine kinase
+IPRGO:0070746 ! interleukin-35	IPRGO:0019955 ! cytokine
+IPRGO:0070748 ! interleukin-35 receptor	IPRGO:0005126 ! cytokine receptor
+IPRGO:0070851 ! growth factor receptor	IPRGO:0005102 ! receptor
+IPRGO:0070853 ! myosin VI	IPRGO:0017022 ! myosin
+IPRGO:0070854 ! myosin VI heavy chain	IPRGO:0032036 ! myosin heavy chain,IPRGO:0070853 ! myosin VI
+IPRGO:0070855 ! myosin VI head/neck	IPRGO:0032028 ! myosin head/neck,IPRGO:0070854 ! myosin VI heavy chain
+IPRGO:0070856 ! myosin VI light chain	IPRGO:0032027,IPRGO:0070853 ! myosin VI
+IPRGO:0070866 ! sterol-dependent protein	IPRGO:0005515
+IPRGO:0070996 ! type 1 melanocortin receptor	IPR:001908 ! melanocortin receptor
+IPRGO:0071074 ! eukaryotic initiation factor eIF2	IPRGO:0031369 ! translation initiation factor
+IPRGO:0071795 ! K11-linked polyubiquitin	IPRGO:0031593 ! polyubiquitin
+IPRGO:0071796 ! K6-linked polyubiquitin	IPRGO:0031593 ! polyubiquitin
+IPRGO:0071855 ! neuropeptide receptor	IPRGO:0001664 ! G-protein coupled receptor
+IPRGO:0071857 ! beta-endorphin receptor	IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0071858 ! corazonin receptor	IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0071859 ! neuropeptide F receptor	IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0071860 ! proctolin receptor	IPRGO:0071855 ! neuropeptide receptor
+IPRGO:0071906 ! CRD domain	IPR:000000 ! domain
+IPRGO:0071933 ! Arp2/3 complex	IPR:000000 ! domain,IPRGO:0032403
+IPRGO:0080115 ! myosin XI tail	IPR:002928 ! myosin tail
+IPRGO:0090488 ! polo box domain specific	IPR:000000 ! domain
+IPRGO:0090542 ! ELYC domain	IPR:000000 ! domain
+IPRGO:0097005 ! adipokinetic hormone receptor	IPRGO:0051428 ! peptide hormone receptor
+IPRGO:0097109 ! neuroligin family protein	IPRGO:0005515
+IPRGO:0097110 ! scaffold protein	IPR:000000 ! domain
+IPRGO:0097351 ! toxin-antitoxin pair type II	IPRGO:0005515,NCBITaxon:2759
+IPRGO:0098650 ! peptidyl-proline 4-dioxygenase	IPRGO:0019899 ! enzyme
+IPRGO:1990147 ! talin	IPRGO:0008092 ! cytoskeletal protein
+IPRGO:1990175 ! EH domain	IPR:000000 ! domain
+IPRGO:1990226 ! histone methyltransferase	IPRGO:0019899 ! enzyme
+IPRGO:1990254 ! keratin filament	IPRGO:0019215
+IPRGO:1990269 ! RNA polymerase II C-terminal domain phosphoserine	IPRGO:0001099 ! basal RNA polymerase II transcription machinery,IPRGO:0050815 ! phosphoserine
+IPRGO:1990300 ! cellulosome	IPRGO:0032403
+IPRGO:1990301 ! scaffoldin complex	IPRGO:0032403
+IPRGO:1990308 ! Type-I dockerin domain	IPR:000000 ! domain
+IPRGO:1990309 ! Type-II dockerin domain	IPR:000000 ! domain
+IPRGO:1990310 ! Type-III dockerin domain	IPR:000000 ! domain
+IPRGO:1990311 ! Type-I cohesin domain	IPR:000000 ! domain
+IPRGO:1990312 ! Type-II cohesin domain	IPR:000000 ! domain
+IPRGO:1990313 ! Type-III cohesin domain	IPR:000000 ! domain
+IPRGO:1990381 ! ubiquitin-specific protease	IPRGO:0002020 ! protease

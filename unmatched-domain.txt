@@ -1,0 +1,30 @@
+IPRGO:0017058 ! FH1 domain	IPR:000000 ! domain
+IPRGO:0030274 ! LIM domain	IPR:000000 ! domain
+IPRGO:0030275 ! LRR domain	IPR:000000 ! domain
+IPRGO:0030911 ! TPR domain	IPR:000000 ! domain
+IPRGO:0031208 ! POZ domain	IPR:000000 ! domain
+IPRGO:0032089 ! NACHT domain	IPR:000000 ! domain
+IPRGO:0032427 ! GBD domain	IPR:000000 ! domain
+IPRGO:0033149 ! FFAT motif	IPR:000000 ! domain
+IPRGO:0035500 ! MH2 domain	IPR:000000 ! domain
+IPRGO:0035501 ! MH1 domain	IPR:000000 ! domain
+IPRGO:0042731 ! PH domain	IPR:000000 ! domain
+IPRGO:0043398 ! HLH domain	IPR:000000 ! domain
+IPRGO:0050682 ! AF-2 domain	IPR:000000 ! domain
+IPRGO:0050683 ! AF-1 domain	IPR:000000 ! domain
+IPRGO:0050693 ! LBD domain	IPR:000000 ! domain
+IPRGO:0050733 ! RS domain	IPR:000000 ! domain
+IPRGO:0051400 ! BH domain	IPR:000000 ! domain
+IPRGO:0051432 ! BH1 domain	IPRGO:0051400 ! BH domain
+IPRGO:0051433 ! BH2 domain	IPRGO:0051400 ! BH domain
+IPRGO:0051434 ! BH3 domain	IPR:000488 ! death domain,IPRGO:0051400 ! BH domain
+IPRGO:0071906 ! CRD domain	IPR:000000 ! domain
+IPRGO:0090488 ! polo box domain specific	IPR:000000 ! domain
+IPRGO:0090542 ! ELYC domain	IPR:000000 ! domain
+IPRGO:1990175 ! EH domain	IPR:000000 ! domain
+IPRGO:1990308 ! Type-I dockerin domain	IPR:000000 ! domain
+IPRGO:1990309 ! Type-II dockerin domain	IPR:000000 ! domain
+IPRGO:1990310 ! Type-III dockerin domain	IPR:000000 ! domain
+IPRGO:1990311 ! Type-I cohesin domain	IPR:000000 ! domain
+IPRGO:1990312 ! Type-II cohesin domain	IPR:000000 ! domain
+IPRGO:1990313 ! Type-III cohesin domain	IPR:000000 ! domain
